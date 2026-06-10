@@ -1,1 +1,36 @@
+# Contexto para continuar el proyecto
 
+Proyecto: Star Wars Business Intelligence.
+
+Objetivo: dashboard Power BI para analizar contenido interno del universo Star Wars y percepción de audiencia, buscando oportunidades de merchandising.
+
+Trabajo hecho:
+- Repositorio estructurado.
+- README inicial creado.
+- Notebook principal: notebooks/01_eda_star_wars.ipynb.
+- Limpieza completa de encuesta Star Wars.
+- Corrección de columnas desplazadas y demografía.
+- Tablas largas para Power BI:
+  - survey_respondents.csv
+  - survey_movies_seen.csv
+  - survey_movie_rankings.csv
+  - survey_character_opinions.csv
+- Limpieza de datasets del universo:
+  - characters, films, planets, species, starships, vehicles, quotes, weapons, droids.
+- Creación de universe_assets.csv.
+- EDA ejecutivo creado:
+  - audiencia
+  - universo
+  - gobernanza
+  - índice de potencial de merchandising
+- Conclusiones principales:
+  - Episode V - The Empire Strikes Back domina en visionado y ranking.
+  - Han Solo lidera el índice de potencial de merchandising.
+  - Top personajes: Han Solo, Obi-Wan Kenobi, Yoda, Luke Skywalker, Leia.
+  - Hay sesgos de muestra, representación y calidad del dato.
+
+Siguiente paso:
+- Revisar git status.
+- Ajustar .gitignore.
+- Subir a GitHub.
+- Empezar modelo Power BI con CSV de data/processed.
