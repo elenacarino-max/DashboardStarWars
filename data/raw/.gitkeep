@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contexto para continuar el proyecto
 
 Proyecto: Star Wars Business Intelligence.
@@ -34,3 +35,6 @@ Siguiente paso:
 - Ajustar .gitignore.
 - Subir a GitHub.
 - Empezar modelo Power BI con CSV de data/processed.
+=======
+
+>>>>>>> 043f5ca (Star Wars BI EDA progress before reinstall)
