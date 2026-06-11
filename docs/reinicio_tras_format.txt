@@ -29,6 +29,19 @@ El proyecto no se ha perdido. La nota de reinicio si estaba vacia, pero el repos
 - Muchos CSV procesados en `data/processed`.
 - Carpeta `powerbi` creada, pero sin archivo `.pbix` todavia.
 
+## Avance posterior a la reconstruccion
+
+Actualizacion del 2026-06-11:
+
+- La nota reconstruida se guardo en Git con el commit `Reconstruct restart notes after formatting`.
+- Se regeneraron los CSV de `data/processed` ejecutando el notebook desde los datos originales de `data/raw`.
+- Se verifico que los CSV procesados vuelven a abrirse correctamente.
+- El notebook `notebooks/01_eda_star_wars.ipynb` ya no depende de la ruta antigua `C:\Users\User\...`.
+- La celda inicial del notebook busca la raiz del proyecto con marcadores (`README.md`, `requirements.txt`, `data`) y cambia ahi el directorio de trabajo.
+- Se ejecuto el notebook completo tras el cambio y termino correctamente.
+- Quedan 35 CSV procesados listos para importar en Power BI.
+- La carpeta `powerbi` sigue sin `.pbix`; el siguiente gran paso es construir el dashboard.
+
 ## Git
 
 Rama actual revisada: `main`.
@@ -270,17 +283,14 @@ Los datos orientan decisiones, pero no son una representacion neutral ni complet
 
 ## Pendientes inmediatos
 
-1. Descargar/localizar correctamente los archivos de `data/processed` desde OneDrive.
-2. Abrir el notebook y comprobar que se ejecuta con el entorno actual.
-3. Si el entorno virtual falla, recrearlo porque `.venv` apunta a una ruta antigua del otro ordenador.
-4. Confirmar que los CSV procesados se pueden abrir.
-5. Crear el archivo `.pbix` en `powerbi`.
-6. Importar los CSV procesados a Power BI.
-7. Crear relaciones entre tablas si Power BI no las detecta automaticamente.
-8. Construir las 7 paginas previstas.
-9. Guardar capturas del dashboard en `images`.
-10. Actualizar README con estado real y capturas.
-11. Hacer commit.
+1. Crear el archivo `.pbix` en `powerbi`.
+2. Importar los CSV procesados de `data/processed` a Power BI.
+3. Crear relaciones entre tablas si Power BI no las detecta automaticamente.
+4. Construir las 7 paginas previstas.
+5. Guardar capturas del dashboard en `images`.
+6. Actualizar README con estado real y capturas.
+7. Recrear el entorno virtual local si se quiere usar Jupyter desde este ordenador, porque `.venv` apunta a una ruta antigua.
+8. Hacer commit de los cambios tecnicos del notebook.
 
 ## Problema del entorno virtual
 
@@ -335,4 +345,4 @@ Estoy retomando el proyecto Star Wars Business Intelligence despues de formatear
 
 La prioridad no es rehacer todo desde cero.
 
-Primero hay que recuperar acceso local a `data/processed`. Si esos CSV estan bien, el proyecto ya esta listo para pasar a Power BI. Si no se pueden abrir, hay que reejecutar el notebook desde los datos de `data/raw` para regenerarlos.
+Ya se recupero `data/processed` regenerando los CSV desde `data/raw`. El proyecto esta listo para pasar a Power BI.
