@@ -8,6 +8,7 @@ __pycache__/
 .venv/
 venv/
 env/
+node_modules/
 
 # Local files
 .DS_Store
@@ -23,5 +24,6 @@ data/raw/*.xlsx
 data/raw/*.json
 
 # Power BI temporary files
+powerbi/*.xlsx
 *.pbitmp
 *.tmp
