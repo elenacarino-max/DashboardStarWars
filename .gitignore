@@ -18,10 +18,10 @@ data/processed/*.csv
 
 # Keep raw datasets local unless their license allows publication
 data/raw/*.csv
+!data/raw/films_business.csv
 data/raw/*.xlsx
 data/raw/*.json
 
 # Power BI temporary files
 *.pbitmp
 *.tmp
-

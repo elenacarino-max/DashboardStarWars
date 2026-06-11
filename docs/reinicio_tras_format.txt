@@ -8,7 +8,7 @@ Esta nota sustituye a las instrucciones originales que se intentaron guardar ant
 
 Nombre de trabajo: Star Wars Business Intelligence.
 
-Objetivo: crear un dashboard ejecutivo en Power BI para analizar el universo Star Wars desde una perspectiva de negocio, combinando datos internos del universo con datos de audiencia.
+Objetivo: crear un dashboard ejecutivo en Power BI para analizar el universo Star Wars desde una perspectiva de negocio, combinando datos internos del universo, datos de audiencia y rendimiento comercial de peliculas.
 
 Pregunta principal:
 
@@ -25,7 +25,7 @@ El proyecto no se ha perdido. La nota de reinicio si estaba vacia, pero el repos
 - Guion oral de 7 minutos en `docs/guion_presentacion.md`.
 - Guia de Git en `docs/repositorio_git.md`.
 - Notebook principal en `notebooks/01_eda_star_wars.ipynb`.
-- Datos originales en `data/raw`.
+- Datos originales en `data/raw`, incluyendo la tabla complementaria `films_business.csv`.
 - Muchos CSV procesados en `data/processed`.
 - Carpeta `powerbi` creada, pero sin archivo `.pbix` todavia.
 
@@ -39,7 +39,8 @@ Actualizacion del 2026-06-11:
 - El notebook `notebooks/01_eda_star_wars.ipynb` ya no depende de la ruta antigua `C:\Users\User\...`.
 - La celda inicial del notebook busca la raiz del proyecto con marcadores (`README.md`, `requirements.txt`, `data`) y cambia ahi el directorio de trabajo.
 - Se ejecuto el notebook completo tras el cambio y termino correctamente.
-- Quedan 35 CSV procesados listos para importar en Power BI.
+- Quedan 38 CSV procesados listos para importar en Power BI.
+- Se anadio una capa comercial de peliculas con presupuesto, taquilla domestica, taquilla mundial, beneficio estimado y ROI.
 - La carpeta `powerbi` sigue sin `.pbix`; el siguiente gran paso es construir el dashboard.
 
 ## Git
@@ -153,6 +154,7 @@ Bloques importantes:
 - Tabla `universe_assets` para rankings y KPIs ejecutivos.
 - Exportacion de datasets limpios `universe_*_clean.csv`.
 - EDA de audiencia y percepcion.
+- EDA de rendimiento comercial de peliculas.
 - EDA de contenido interno del universo.
 - EDA de sesgos, gobernanza y calidad del dato.
 - Indice de Potencial de Merchandising.
@@ -183,6 +185,10 @@ Tablas limpias del universo:
 - `universe_quality_summary.csv`
 - `universe_assets.csv`
 
+Tabla comercial:
+
+- `films_business_clean.csv`
+
 Tablas resumen del EDA:
 
 - `eda_survey_kpis.csv`
@@ -198,6 +204,8 @@ Tablas resumen del EDA:
 - `eda_planet_business_summary.csv`
 - `eda_starship_business_summary.csv`
 - `eda_weapon_business_summary.csv`
+- `eda_film_business_summary.csv`
+- `eda_movie_commercial_audience_summary.csv`
 - `eda_quote_character_summary.csv`
 - `eda_governance_missing_top.csv`
 - `eda_survey_sample_bias.csv`
@@ -222,9 +230,10 @@ Paginas previstas:
 2. Universo Star Wars.
 3. Planetas, naves y oportunidades narrativas.
 4. Percepcion de audiencia.
-5. Oportunidades de merchandising.
-6. Sesgos y gobernanza.
-7. Recomendaciones estrategicas.
+5. Rendimiento comercial de la franquicia.
+6. Oportunidades de merchandising.
+7. Sesgos y gobernanza.
+8. Recomendaciones estrategicas.
 
 ## Narrativa del dashboard
 
@@ -233,6 +242,7 @@ El dashboard debe contar esta historia:
 1. Que activos tiene el universo Star Wars.
 2. Que elementos tienen mas presencia interna.
 3. Que opina la audiencia.
+4. Que peliculas han funcionado mejor economicamente.
 4. Que oportunidades aparecen al cruzar presencia interna y afinidad de audiencia.
 5. Que sesgos limitan las conclusiones.
 6. Que decisiones deberia tomar la empresa.
@@ -286,7 +296,7 @@ Los datos orientan decisiones, pero no son una representacion neutral ni complet
 1. Crear el archivo `.pbix` en `powerbi`.
 2. Importar los CSV procesados de `data/processed` a Power BI.
 3. Crear relaciones entre tablas si Power BI no las detecta automaticamente.
-4. Construir las 7 paginas previstas.
+4. Construir las 8 paginas previstas.
 5. Guardar capturas del dashboard en `images`.
 6. Actualizar README con estado real y capturas.
 7. Recrear el entorno virtual local si se quiere usar Jupyter desde este ordenador, porque `.venv` apunta a una ruta antigua.
@@ -345,4 +355,4 @@ Estoy retomando el proyecto Star Wars Business Intelligence despues de formatear
 
 La prioridad no es rehacer todo desde cero.
 
-Ya se recupero `data/processed` regenerando los CSV desde `data/raw`. El proyecto esta listo para pasar a Power BI.
+Ya se recupero `data/processed` regenerando los CSV desde `data/raw`. Tambien se incorporo la capa comercial `films_business.csv`, por lo que el proyecto esta listo para pasar a Power BI con una narrativa mas claramente orientada a negocio.

@@ -1,6 +1,6 @@
 # Star Wars Business Intelligence
 
-Dashboard interactivo y storytelling con datos para analizar el universo Star Wars desde una perspectiva de negocio: contenido interno, percepcion de audiencia y oportunidades para campanas de merchandising.
+Dashboard interactivo y storytelling con datos para analizar Star Wars desde una perspectiva de negocio: universo narrativo, percepcion de audiencia, rendimiento comercial y oportunidades para campanas de merchandising.
 
 ## Objetivo del proyecto
 
@@ -16,7 +16,7 @@ Una empresa de entretenimiento y merchandising quiere aprovechar mejor sus datos
 
 ## Datasets
 
-El proyecto utiliza dos fuentes de datos:
+El proyecto utiliza tres capas de datos:
 
 1. **Dataset principal: universo Star Wars**
    - Personajes
@@ -32,10 +32,25 @@ El proyecto utiliza dos fuentes de datos:
    - Valoracion de personajes
    - Variables demograficas
 
-La union conceptual de ambos datasets permite comparar dos realidades:
+3. **Tabla complementaria: rendimiento comercial de peliculas**
+   - Presupuesto estimado
+   - Taquilla domestica
+   - Taquilla mundial
+   - Beneficio estimado
+   - ROI
+   - Era y tipo de pelicula
+
+La union conceptual de estas capas permite comparar tres realidades:
 
 - Lo que existe dentro del universo Star Wars.
 - Lo que realmente conecta con la audiencia.
+- Que peliculas han funcionado mejor como negocio.
+
+La tabla comercial se guarda como `data/raw/films_business.csv` y usa como fuente principal la pagina de franquicia de The Numbers:
+
+```text
+https://www.the-numbers.com/movies/franchise/Star-Wars
+```
 
 ## Herramientas
 
@@ -53,9 +68,10 @@ La union conceptual de ambos datasets permite comparar dos realidades:
 5. Exportar CSV limpios a `data/processed`.
 6. Importar los datos limpios en Power BI.
 7. Crear dashboard con paginas tematicas.
-8. Crear un indice de potencial de merchandising.
-9. Incluir sesgos, gobernanza y recomendaciones.
-10. Preparar presentacion ejecutiva de 7 minutos.
+8. Incorporar tabla comercial `films_business.csv`.
+9. Crear un indice de potencial de merchandising.
+10. Incluir rendimiento comercial, sesgos, gobernanza y recomendaciones.
+11. Preparar presentacion ejecutiva de 7 minutos.
 
 ## Estructura del repositorio
 
@@ -91,10 +107,16 @@ proy2mod2/
 4. **Percepcion de audiencia**
    - Fans, peliculas vistas, personajes valorados y diferencias por perfil.
 
-5. **Sesgos y gobernanza**
+5. **Rendimiento comercial de la franquicia**
+   - Presupuesto, taquilla, beneficio estimado, ROI y comparativa por era.
+
+6. **Oportunidades de merchandising**
+   - Indice de potencial, ranking de personajes y cuadrante estrategico.
+
+7. **Sesgos y gobernanza**
    - Nulos, limitaciones de muestra, representatividad y cautelas.
 
-6. **Recomendaciones estrategicas**
+8. **Recomendaciones estrategicas**
    - Prioridades para campanas de merchandising y contenido.
 
 ## KPIs iniciales
@@ -106,6 +128,10 @@ proy2mod2/
 - Total de respuestas de encuesta.
 - Porcentaje de fans.
 - Peliculas con mayor traccion.
+- Taquilla mundial por pelicula.
+- ROI por pelicula.
+- Beneficio estimado por pelicula.
+- Comparativa comercial por era.
 - Personajes mejor valorados.
 - Porcentaje de datos incompletos por variable critica.
 - Indice de Potencial de Merchandising.
@@ -182,6 +208,7 @@ Si los datasets tienen licencia dudosa o pesan mucho, se documentara el enlace e
 - [ ] EDA inicial completado.
 - [ ] Limpieza documentada.
 - [ ] CSV limpios exportados.
+- [x] Tabla complementaria `films_business.csv` anadida.
 - [ ] Indice de Potencial de Merchandising definido.
 - [ ] Cuadrante estrategico presencia/audiencia incluido.
 - [ ] Dashboard Power BI creado.

@@ -2,7 +2,7 @@
 
 ## 0:00 - 1:00 Contexto y problema
 
-Buenos dias. Mi proyecto se llama Star Wars Business Intelligence y consiste en un dashboard interactivo creado en Power BI para analizar el universo Star Wars desde una perspectiva de negocio.
+Buenos dias. Mi proyecto se llama Star Wars Business Intelligence y consiste en un dashboard interactivo creado en Power BI para analizar Star Wars desde una perspectiva de negocio: universo narrativo, percepcion de audiencia y rendimiento comercial.
 
 El cliente ficticio es una empresa de entretenimiento, streaming y merchandising que quiere tomar mejores decisiones sobre que personajes, peliculas, planetas o elementos del universo Star Wars pueden tener mas potencial comercial.
 
@@ -10,11 +10,13 @@ El problema principal es que la informacion existe, pero esta dispersa. Por un l
 
 ## 1:00 - 2:00 Datasets y metodologia
 
-He trabajado con dos datasets.
+He trabajado con tres capas de datos.
 
 El primero recoge informacion del universo Star Wars: personajes, especies, planetas, naves y otras variables del contenido.
 
 El segundo recoge informacion de audiencia mediante una encuesta: peliculas vistas, nivel de fan, valoracion de personajes y variables demograficas.
+
+La tercera capa es una tabla complementaria de negocio de peliculas, con presupuesto, taquilla domestica, taquilla mundial, beneficio estimado y ROI. Esta tabla permite comparar no solo que existe en el universo y que opina la audiencia, sino tambien que peliculas han funcionado mejor economicamente.
 
 Antes de construir el dashboard hice un EDA en Python. En este analisis revise el tamano de los datasets, los tipos de columnas, los valores nulos, los duplicados, las variables numericas y categoricas, y las primeras relaciones entre variables.
 
@@ -30,7 +32,9 @@ En la tercera pagina analizo planetas, naves y otros elementos con potencial nar
 
 En la cuarta pagina se analiza la percepcion de la audiencia. Aqui se observa que peliculas han sido mas vistas, que personajes tienen mejor valoracion y como cambia la opinion segun variables como edad, genero o nivel de fan.
 
-Despues incorporo una pagina de oportunidades de merchandising. En esta parte no solo miro popularidad, sino que combino presencia interna, afinidad de audiencia, potencial visual y calidad del dato para construir un indice de priorizacion. La lectura principal es un cuadrante: los elementos con alta presencia y alta audiencia son prioridades claras; los elementos con baja presencia pero alta audiencia pueden ser oportunidades ocultas.
+Despues incorporo una pagina de rendimiento comercial de la franquicia. Aqui comparo presupuesto, taquilla mundial, beneficio estimado y ROI por pelicula y por era. Esto ayuda a separar dos ideas: una pelicula puede ser muy rentable proporcionalmente aunque no sea la de mayor taquilla absoluta.
+
+Tambien incorporo una pagina de oportunidades de merchandising. En esta parte no solo miro popularidad, sino que combino presencia interna, afinidad de audiencia, potencial visual, rendimiento comercial y calidad del dato para construir una lectura de priorizacion. La lectura principal es un cuadrante: los elementos con alta presencia y alta audiencia son prioridades claras; los elementos con baja presencia pero alta audiencia pueden ser oportunidades ocultas.
 
 Los filtros permiten que un usuario no tecnico explore los datos de forma sencilla, sin modificar codigo.
 
@@ -54,17 +58,19 @@ La primera es priorizar campanas con personajes y peliculas que combinen alta pr
 
 La segunda es utilizar el Indice de Potencial de Merchandising para seleccionar los elementos que combinan atractivo comercial, traccion de audiencia y fiabilidad del dato.
 
-La tercera es aprovechar planetas, especies o naves con potencial visual para productos de merchandising, videojuegos o experiencias interactivas.
+La tercera es tener en cuenta el rendimiento comercial de las peliculas. Las peliculas nuevas pueden generar mucha taquilla, pero eso no significa necesariamente que tengan la misma conexion emocional que las clasicas.
 
-La cuarta es revisar los datos incompletos antes de tomar decisiones automatizadas, porque una mala calidad del dato puede llevar a conclusiones equivocadas.
+La cuarta es aprovechar planetas, especies o naves con potencial visual para productos de merchandising, videojuegos o experiencias interactivas.
 
-La quinta es segmentar las campanas segun el perfil de audiencia, porque no todos los grupos valoran igual las mismas peliculas o personajes.
+La quinta es revisar los datos incompletos antes de tomar decisiones automatizadas, porque una mala calidad del dato puede llevar a conclusiones equivocadas.
+
+La sexta es segmentar las campanas segun el perfil de audiencia, porque no todos los grupos valoran igual las mismas peliculas o personajes.
 
 ## 6:45 - 7:00 Cierre
 
 En conclusion, este dashboard permite transformar datos dispersos sobre Star Wars en una herramienta de decision clara, visual e interactiva.
 
-El valor principal del proyecto no esta solo en los graficos, sino en convertir los datos en una historia util para negocio: que elementos tienen mas potencial, que prefiere la audiencia y que limitaciones deben tenerse en cuenta antes de decidir.
+El valor principal del proyecto no esta solo en los graficos, sino en convertir los datos en una historia util para negocio: que elementos tienen mas potencial, que prefiere la audiencia, que peliculas han funcionado mejor economicamente y que limitaciones deben tenerse en cuenta antes de decidir.
 
 ## Frase de cierre
 

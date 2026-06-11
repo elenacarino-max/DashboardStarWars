@@ -8,6 +8,12 @@ Crear un dashboard ejecutivo que responda:
 
 Que elementos del universo Star Wars tienen mayor potencial para campanas de merchandising, contenido o experiencias interactivas?
 
+El modelo combina tres capas:
+
+- Universo narrativo.
+- Percepcion de audiencia.
+- Rendimiento comercial de peliculas.
+
 ## CSV prioritarios para importar
 
 Importar primero estas tablas:
@@ -21,9 +27,12 @@ Importar primero estas tablas:
 - `universe_planets_clean.csv`
 - `universe_starships_clean.csv`
 - `universe_quality_summary.csv`
+- `films_business_clean.csv`
 - `eda_survey_kpis.csv`
 - `eda_movie_views_summary.csv`
 - `eda_movie_rank_summary.csv`
+- `eda_film_business_summary.csv`
+- `eda_movie_commercial_audience_summary.csv`
 - `eda_character_opinion_summary.csv`
 - `eda_character_merchandising_opportunities.csv`
 - `eda_governance_missing_top.csv`
@@ -49,12 +58,17 @@ Crear estas relaciones en el modelo:
 - `survey_respondents[respondent_id]` 1 -> * `survey_movies_seen[respondent_id]`
 - `survey_respondents[respondent_id]` 1 -> * `survey_movie_rankings[respondent_id]`
 - `survey_respondents[respondent_id]` 1 -> * `survey_character_opinions[respondent_id]`
+- `films_business_clean[film_key]` 1 -> * `survey_movies_seen[film_key]`
+- `films_business_clean[film_key]` 1 -> * `survey_movie_rankings[film_key]`
+- `films_business_clean[film_key]` 1 -> * `universe_films_clean[film_key]`
 
 Mantener estas tablas como resumen independiente, sin forzar relaciones si Power BI no las necesita:
 
 - `eda_survey_kpis`
 - `eda_movie_views_summary`
 - `eda_movie_rank_summary`
+- `eda_film_business_summary`
+- `eda_movie_commercial_audience_summary`
 - `eda_character_opinion_summary`
 - `eda_character_merchandising_opportunities`
 - `eda_governance_missing_top`
@@ -80,6 +94,10 @@ Revisar en Power BI:
 - Porcentajes `*_pct`: decimal.
 - Indices y scores: decimal.
 - `episode_order`: numero entero.
+- `film_key`: texto.
+- Campos `*_usd`: numero entero, formato moneda USD.
+- `roi`: decimal.
+- `data_status`: texto. Usar como filtro para excluir datos parciales si hace falta.
 
 ## Medidas DAX base
 
@@ -179,6 +197,34 @@ Avg Merchandising Potential =
 AVERAGE(eda_character_merchandising_opportunities[merchandising_potential_index])
 ```
 
+```DAX
+Worldwide Box Office =
+SUM(films_business_clean[worldwide_box_office_usd])
+```
+
+Formato recomendado: moneda USD.
+
+```DAX
+Total Production Budget =
+SUM(films_business_clean[budget_usd])
+```
+
+Formato recomendado: moneda USD.
+
+```DAX
+Estimated Profit =
+SUM(films_business_clean[profit_estimated_usd])
+```
+
+Formato recomendado: moneda USD.
+
+```DAX
+Average ROI =
+AVERAGE(films_business_clean[roi])
+```
+
+Formato recomendado: decimal o porcentaje, segun como quieras contarlo. Si lo muestras como porcentaje, 1.00 equivale a 100%.
+
 ## Pagina 1 - Portada ejecutiva
 
 Objetivo: situar el problema de negocio.
@@ -190,11 +236,12 @@ Visuales:
 - Tarjeta: `Seen Any Film %`.
 - Tarjeta: `Avg Movies Seen`.
 - Tarjeta: `Universe Assets`.
+- Tarjeta: `Worldwide Box Office`.
 - Tabla corta: `eda_conclusions`.
 
 Mensaje:
 
-Star Wars tiene una audiencia amplia y activos internos variados, pero la decision comercial debe cruzar popularidad, presencia narrativa y calidad del dato.
+Star Wars tiene una audiencia amplia y activos internos variados, pero la decision comercial debe cruzar popularidad, presencia narrativa, rendimiento comercial y calidad del dato.
 
 ## Pagina 2 - Universo Star Wars
 
@@ -246,7 +293,33 @@ Lectura:
 - La pelicula mas vista y mejor rankeada en el EDA es `Episode V - The Empire Strikes Back`.
 - Han Solo aparece como personaje con mayor indice de merchandising.
 
-## Pagina 5 - Oportunidades de merchandising
+## Pagina 5 - Rendimiento comercial de la franquicia
+
+Objetivo: incorporar la capa de negocio.
+
+Tabla principal:
+
+- `films_business_clean`
+
+Visuales:
+
+- Barras: `film_title` por `worldwide_box_office_usd`.
+- Barras: `film_title` por `roi`.
+- Grafico combinado o dispersion: `budget_usd` frente a `worldwide_box_office_usd`.
+- Barras apiladas o matriz: `era` por `worldwide_box_office_usd`.
+- Tabla: `eda_movie_commercial_audience_summary` para comparar negocio y audiencia.
+
+Filtros:
+
+- `era`
+- `film_type`
+- `data_status`
+
+Nota:
+
+`The Mandalorian and Grogu` esta marcado como `partial_current_release`; si necesitas una lectura cerrada de peliculas con recorrido completo, filtra `data_status = final`.
+
+## Pagina 6 - Oportunidades de merchandising
 
 Objetivo: convertir el analisis en priorizacion comercial.
 
@@ -265,7 +338,7 @@ Mensaje:
 
 Priorizar elementos con alta afinidad de audiencia, alta familiaridad, presencia narrativa y buena calidad de dato.
 
-## Pagina 6 - Sesgos y gobernanza
+## Pagina 7 - Sesgos y gobernanza
 
 Objetivo: demostrar lectura critica del dato.
 
@@ -279,7 +352,7 @@ Mensaje:
 
 Los datos orientan decisiones, pero no son una verdad absoluta. Hay nulos relevantes y sesgos de muestra.
 
-## Pagina 7 - Recomendaciones estrategicas
+## Pagina 8 - Recomendaciones estrategicas
 
 Objetivo: cerrar con acciones.
 
@@ -300,7 +373,7 @@ Visuales:
 3. Revisar tipos de datos.
 4. Crear relaciones por `respondent_id`.
 5. Crear medidas DAX base.
-6. Montar paginas 1 a 7.
+6. Montar paginas 1 a 8.
 7. Guardar el archivo en `powerbi/star_wars_bi_dashboard.pbix`.
 8. Exportar capturas a `images`.
 9. Actualizar README con capturas y estado final.
