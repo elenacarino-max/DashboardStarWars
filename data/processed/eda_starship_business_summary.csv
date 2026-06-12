@@ -1,0 +1,57 @@
+starship_key,name,starship_class,manufacturer,cost_in_credits,length,crew,passengers,cargo_capacity,pilot_keys,pilot_count,film_keys,film_count
+millennium_falcon,Millennium Falcon,Light freighter,Corellian Engineering Corporation,100000.0,34.75,4.0,6.0,100000.0,"han_solo, chewbacca",2,"a_new_hope, the_empire_strikes_back, return_of_the_jedi, the_force_awakens, the_last_jedi, the_rise_of_skywalker",6
+x_wing,X-wing,Starfighter,Incom Corporation,149999.0,12.5,1.0,0.0,110.0,luke_skywalker,1,"a_new_hope, the_empire_strikes_back, return_of_the_jedi, the_force_awakens, the_last_jedi, the_rise_of_skywalker",6
+slave_1,Slave 1,Patrol craft,Kuat Systems Engineering,,21.5,1.0,6.0,80000.0,boba_fett,1,"the_empire_strikes_back, attack_of_the_clones, the_mandalorian",3
+slave_ii,Slave II,Patrol craft,Kuat Systems Engineering,,21.5,1.0,6.0,80000.0,boba_fett,1,"the_empire_strikes_back, attack_of_the_clones, the_mandalorian",3
+star_destroyer,Star Destroyer,Capital ship,Kuat Drive Yards,150000000.0,1600.0,47060.0,0.0,36000000.0,,0,"a_new_hope, the_empire_strikes_back, return_of_the_jedi",3
+imperial_star_destroyer,Imperial Star Destroyer,Capital ship,Kuat Drive Yards,150000000.0,1600.0,47060.0,0.0,36000000.0,,0,"a_new_hope, the_empire_strikes_back, return_of_the_jedi",3
+y_wing,Y-wing,Assault starfighter,Koensayr Manufacturing,135000.0,23.4,2.0,0.0,110.0,,0,"a_new_hope, the_empire_strikes_back, return_of_the_jedi",3
+tie_fighter,TIE Fighter,Starfighter,Sienar Fleet Systems,75000.0,8.99,1.0,0.0,65.0,,0,"a_new_hope, the_empire_strikes_back, return_of_the_jedi",3
+n_1_starfighter,N-1 Starfighter,Starfighter,Theed Palace Space Vessel Engineering Corps,200000.0,11.0,1.0,1.0,,"din_djarin, anakin_skywalker",2,"the_mandalorian, the_phantom_menace",2
+executor,Executor,Star Dreadnought,"Kuat Drive Yards, Fondor Shipyards",1143350000.0,19000.0,279144.0,38000.0,250000000.0,darth_vader,1,"the_empire_strikes_back, return_of_the_jedi",2
+tantive_iv,Tantive IV,Corvette,Corellian Engineering Corporation,3500000.0,150.0,165.0,30.0,3000000.0,leia_organa,1,"a_new_hope, revenge_of_the_sith",2
+naboo_n_1_starfighter,Naboo N-1 Starfighter,Starfighter,Theed Palace Space Vessel Engineering Corps,,11.0,1.0,0.0,65.0,anakin_skywalker,1,"the_phantom_menace, attack_of_the_clones",2
+rebel_transport,Rebel transport,Medium transport,"Gallofree Yards, Inc.",3000000.0,90.0,6.0,90.0,19000000.0,,0,"the_empire_strikes_back, return_of_the_jedi",2
+a_wing,A-wing,Interceptor,Alliance Underground Engineering,175000.0,9.6,1.0,0.0,40.0,,0,"return_of_the_jedi, the_last_jedi",2
+venator_class_star_destroyer,Venator-class Star Destroyer,Capital ship,Kuat Drive Yards,,1137.0,7400.0,2000.0,20000000.0,,0,"revenge_of_the_sith, the_clone_wars",2
+ahsoka_s_t_6_jedi_shuttle,Ahsoka's T-6 Jedi Shuttle,Shuttle,,250000.0,28.0,2.0,4.0,,"ahsoka_tano, huyang",2,ahsoka,1
+eta_2_actis,Eta-2 Actis,Interceptor,Kuat Systems Engineering,,5.47,1.0,0.0,60.0,"anakin_skywalker, obi_wan_kenobi",2,revenge_of_the_sith,1
+jedi_interceptor,Jedi Interceptor,Interceptor,Kuat Systems Engineering,,5.47,1.0,0.0,60.0,"anakin_skywalker, obi_wan_kenobi",2,revenge_of_the_sith,1
+fondor_haulcraft,Fondor Haulcraft,Haulcraft,,125000.0,22.0,1.0,4.0,,luthen_rael,1,andor,1
+razor_crest,Razor Crest,Patrol craft,Kuat Drive Yards,55000.0,24.0,1.0,2.0,50000.0,din_djarin,1,the_mandalorian,1
+the_eye_of_sion,The Eye of Sion,Transport ring,,0.0,220.0,1.0,0.0,,morgan_elsbeth,1,ahsoka,1
+naboo_royal_starship,Naboo Royal Starship,Yacht,Theed Palace Space Vessel Engineering Corps,,76.0,8.0,20.0,2000000.0,padme_amidala,1,the_phantom_menace,1
+sith_infiltrator,Sith Infiltrator,Starfighter,Republic Sienar Systems,,26.5,1.0,6.0,150000.0,darth_maul,1,the_phantom_menace,1
+delta_7_aethersprite,Delta-7 Aethersprite,Interceptor,Kuat Systems Engineering,,8.0,1.0,0.0,60.0,obi_wan_kenobi,1,attack_of_the_clones,1
+imperial_shuttle,Imperial Shuttle,Shuttle,Sienar Fleet Systems,,20.0,6.0,20.0,80000.0,emperor_palpatine,1,return_of_the_jedi,1
+sith_speeder,Sith Speeder,Speeder,Razalon,,2.0,1.0,0.0,10.0,darth_maul,1,the_phantom_menace,1
+solar_sailer,Solar Sailer,Sloop,Huppla Pasa Tisc Shipwrights Collective,,15.2,3.0,11.0,180000.0,count_dooku,1,attack_of_the_clones,1
+hound_s_tooth,Hound's Tooth,Light freighter,Corellian Engineering Corporation,,20.0,6.0,10.0,500000.0,bossk,1,the_clone_wars,1
+scimitar,Scimitar,Starfighter,Republic Sienar Systems,,26.5,1.0,6.0,150000.0,darth_maul,1,the_phantom_menace,1
+naboo_royal_cruiser,Naboo Royal Cruiser,Yacht,Theed Palace Space Vessel Engineering Corps,,115.0,8.0,50.0,500000.0,padme_amidala,1,attack_of_the_clones,1
+x_34_landspeeder,X-34 Landspeeder,Landspeeder,SoroSuub Corporation,,3.4,1.0,1.0,5.0,luke_skywalker,1,a_new_hope,1
+snowspeeder,Snowspeeder,Airspeeder,Incom Corporation,,5.3,2.0,0.0,10.0,luke_skywalker,1,the_empire_strikes_back,1
+the_ghost,The Ghost,Light freighter,Corellian Engineering Corporation,,43.9,4.0,6.0,70000.0,hera_syndulla,1,star_wars_rebels,1
+phantom,Phantom,Auxiliary starfighter,Corellian Engineering Corporation,,14.1,1.0,6.0,40000.0,ezra_bridger,1,star_wars_rebels,1
+outrider,Outrider,Light freighter,Corellian Engineering Corporation,,21.5,2.0,6.0,70000.0,dash_rendar,1,shadows_of_the_empire,1
+naboo_yacht,Naboo Yacht,Yacht,Theed Palace Space Vessel Engineering Corps,,29.2,8.0,30.0,300000.0,padme_amidala,1,revenge_of_the_sith,1
+u_wing,U-wing,Transport,Incom Corporation,,24.2,4.0,8.0,40000.0,cassian_andor,1,rogue_one,1
+tie_advanced_x1,TIE Advanced x1,Starfighter,Sienar Fleet Systems,,9.2,1.0,0.0,75.0,darth_vader,1,a_new_hope,1
+j_type_327_nubian,J-type 327 Nubian,Yacht,Theed Palace Space Vessel Engineering Corps,,76.0,8.0,20.0,2000000.0,padme_amidala,1,the_phantom_menace,1
+havoc_marauder,Havoc Marauder,Attack shuttle,Cygnus Spaceworks,,22.3,2.0,12.0,70000.0,clone_force_99,1,the_bad_batch,1
+luthen_s_ship,Luthen's Ship,Haulcraft,Fondor Shipyards,,34.8,1.0,6.0,100000.0,luthen_rael,1,andor,1
+jedi_starfighter,Jedi Starfighter,Interceptor,Kuat Systems Engineering,,8.0,1.0,0.0,60.0,obi_wan_kenobi,1,attack_of_the_clones,1
+malevolence,Malevolence,Heavy cruiser,Free Dac Volunteers Engineering Corps,,4845.0,216.0,0.0,14000000.0,general_grievous,1,the_clone_wars,1
+invisible_hand,Invisible Hand,Dreadnought,Free Dac Volunteers Engineering Corps,,1088.0,600.0,0.0,15000000.0,general_grievous,1,revenge_of_the_sith,1
+b_wing,B-wing,Assault starfighter,Slayn & Korpil,220000.0,16.9,1.0,0.0,45.0,,0,return_of_the_jedi,1
+arc_170,ARC-170,Starfighter,"Incom Corporation, Subpro Corporation",,14.5,3.0,0.0,110.0,,0,revenge_of_the_sith,1
+v_wing,V-wing,Starfighter,Kuat Systems Engineering,,7.9,1.0,0.0,60.0,,0,revenge_of_the_sith,1
+tie_bomber,TIE Bomber,Bomber,Sienar Fleet Systems,,7.8,1.0,0.0,40.0,,0,the_empire_strikes_back,1
+speeder_bike,Speeder Bike,Speeder,Aratech Repulsor Company,,3.0,1.0,1.0,4.0,,0,return_of_the_jedi,1
+geonosian_starfighter,Geonosian Starfighter,Starfighter,Huppla Pasa Tisc Shipwrights Collective,,9.8,1.0,0.0,30.0,,0,attack_of_the_clones,1
+tie_interceptor,Tie Interceptor,Starfighter,Sienar Fleet Systems,,9.6,1.0,0.0,75.0,,0,return_of_the_jedi,1
+vulture_droid,Vulture Droid,Starfighter,Haor Chall Engineering,,3.5,,,,,0,the_phantom_menace,1
+tri_fighter,Tri-Fighter,Starfighter,"Colla Designs, Phlac-Arphocc Automata Industries",,5.4,,,,,0,revenge_of_the_sith,1
+hyena_bomber,Hyena Bomber,Starfighter,"Colla Designs, Phlac-Arphocc Automata Industries",,14.9,,,,,0,the_clone_wars,1
+droid_gunship,Droid Gunship,Gunship,Baktoid Fleet Ordnance,,12.0,,,,,0,the_clone_wars,1
+droid_control_ship,Droid Control Ship,Battleship,Hoersch-Kessel Drive,,3170.0,150.0,0.0,55000000.0,,0,the_phantom_menace,1

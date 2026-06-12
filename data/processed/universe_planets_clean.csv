@@ -1,0 +1,27 @@
+id,name,diameter,rotation_period,orbital_period,gravity,population,climate,terrain,surface_water,residents,films,resident_count,film_count,planet_key,resident_keys,film_keys
+1,Tatooine,10465.0,23.0,304.0,1 standard,200000.0,arid,desert,1.0,"Anakin Skywalker, Shmi Skywalker, Luke Skywalker, C-3PO","A New Hope, The Phantom Menace, Attack of the Clones, Revenge of the Sith",4,4,tatooine,"anakin_skywalker, shmi_skywalker, luke_skywalker, c_3po","a_new_hope, the_phantom_menace, attack_of_the_clones, revenge_of_the_sith"
+2,Alderaan,12500.0,24.0,364.0,1 standard,2000000000.0,temperate,"grasslands, mountains",40.0,Leia Organa,"A New Hope, Revenge of the Sith",1,2,alderaan,leia_organa,"a_new_hope, revenge_of_the_sith"
+3,Naboo,12120.0,26.0,312.0,1 standard,4500000000.0,temperate,"grassy hills, swamps, forests, mountains",12.0,"Padme Amidala, Jar Jar Binks, Emperor Palpatine","The Phantom Menace, Attack of the Clones, Revenge of the Sith",3,3,naboo,"padme_amidala, jar_jar_binks, emperor_palpatine","the_phantom_menace, attack_of_the_clones, revenge_of_the_sith"
+4,Stewjon,,,,1 standard,,temperate,"grasslands, lakes",,Obi-Wan Kenobi,,1,0,stewjon,obi_wan_kenobi,
+5,Corellia,11000.0,25.0,329.0,1 standard,3000000000.0,temperate,"plains, urban, forests, hills",70.0,Han Solo,Solo: A Star Wars Story,1,1,corellia,han_solo,solo
+6,Kashyyyk,12765.0,26.0,381.0,1 standard,45000000.0,tropical,"forests, jungles",60.0,Chewbacca,Revenge of the Sith,1,1,kashyyyk,chewbacca,revenge_of_the_sith
+7,Kamino,19720.0,27.0,463.0,1 standard,1000000000.0,temperate,ocean,100.0,Jango Fett,Attack of the Clones,1,1,kamino,jango_fett,attack_of_the_clones
+8,Mon Cala,11030.0,21.0,398.0,1 standard,27000000000.0,temperate,"oceans, islands, marshes",100.0,Admiral Ackbar,"Return of the Jedi, The Last Jedi",1,2,mon_cala,admiral_ackbar,"return_of_the_jedi, the_last_jedi"
+9,Geonosis,11370.0,30.0,256.0,0.9 standard,100000000000.0,"temperate, arid","rock, desert, canyons, mesas",5.0,Poggle the Lesser,"Attack of the Clones, The Clone Wars",1,2,geonosis,poggle_the_lesser,"attack_of_the_clones, the_clone_wars"
+10,Jakku,,23.0,298.0,0.9 standard,,arid,"deserts, mesas",8.0,Rey,"The Force Awakens, The Rise of Skywalker",1,2,jakku,rey,"the_force_awakens, the_rise_of_skywalker"
+11,Yavin 4,10200.0,24.0,4818.0,1 standard,1000.0,"temperate, tropical","jungles, forests",8.0,Poe Dameron,"A New Hope, Rogue One, The Rise of Skywalker",1,3,yavin_4,poe_dameron,"a_new_hope, rogue_one, the_rise_of_skywalker"
+12,Rodia,7549.0,29.0,305.0,1 standard,1300000000.0,"tropical, humid","rainforests, oceans",60.0,Greedo,The Clone Wars,1,1,rodia,greedo,the_clone_wars
+13,Coruscant,12240.0,24.0,365.0,1 standard,1000000000000.0,temperate,urban,0.0,Emperor Palpatine,"The Phantom Menace, Attack of the Clones, Revenge of the Sith, The Clone Wars, The Rise of Skywalker",1,5,coruscant,emperor_palpatine,"the_phantom_menace, attack_of_the_clones, revenge_of_the_sith, the_clone_wars, the_rise_of_skywalker"
+14,Nevarro,,,,standard,,Arid,"volcanic, rocky",,"Greef Karga, Din Djarin",The Mandalorian,2,1,nevarro,"greef_karga, din_djarin",the_mandalorian
+15,Arvala-7,,,,standard,,Arid,"desert, rocky",,"Kuiil, Grogu",The Mandalorian,2,1,arvala_7,"kuiil, grogu",the_mandalorian
+16,Trask,,,,standard,,Temperate,"ocean, estuaries",,Bo-Katan Kryze,The Mandalorian,1,1,trask,bo_katan_kryze,the_mandalorian
+17,Corvus,,,,standard,,Temperate,"forest, walled city",,Morgan Elsbeth,"The Mandalorian, Ahsoka",1,2,corvus,morgan_elsbeth,"the_mandalorian, ahsoka"
+18,Tython,,,,standard,,Temperate,"mountains, ruins",,Grogu,The Mandalorian,1,1,tython,grogu,the_mandalorian
+19,Ferrix,,,,standard,,Arid,"desert, industrial settlement",,"Cassian Andor, Bix Caleen, Maarva Andor",Andor,3,1,ferrix,"cassian_andor, bix_caleen, maarva_andor",andor
+20,Aldhani,,,,standard,,Temperate,"highlands, valleys",,"Vel Sartha, Cinta Kaz",Andor,2,1,aldhani,"vel_sartha, cinta_kaz",andor
+21,Narkina 5,,,,standard,,Oceanic,"ocean, prison complex",,Kino Loy,Andor,1,1,narkina_5,kino_loy,andor
+22,Daiyu,,,,standard,,Urban,"city, underworld",,"Obi-Wan Kenobi, Reva",Obi-Wan Kenobi,2,1,daiyu,"obi_wan_kenobi, reva",obi_wan_kenobi
+23,Mapuzo,,,,standard,,Mining,"barren, mining settlements",,"Obi-Wan Kenobi, Darth Vader",Obi-Wan Kenobi,2,1,mapuzo,"obi_wan_kenobi, darth_vader",obi_wan_kenobi
+24,Peridea,,,,standard,,Ancient,"wasteland, ruins",,"Grand Admiral Thrawn, Ezra Bridger",Ahsoka,2,1,peridea,"grand_admiral_thrawn, ezra_bridger",ahsoka
+25,Seatos,,,,standard,,Temperate,"forest, ancient structures",,"Ahsoka Tano, Sabine Wren",Ahsoka,2,1,seatos,"ahsoka_tano, sabine_wren",ahsoka
+26,Mandalore,,,,standard,,Devastated,"glass surface, mines",,"Bo-Katan Kryze, Din Djarin","The Mandalorian, Star Wars Rebels",2,2,mandalore,"bo_katan_kryze, din_djarin","the_mandalorian, star_wars_rebels"

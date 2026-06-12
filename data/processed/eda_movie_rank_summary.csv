@@ -1,0 +1,7 @@
+episode_order,film_key,movie_title,avg_rank,median_rank,ranking_responses,first_place_votes,first_place_pct,preference_score
+1,the_phantom_menace,Episode I: The Phantom Menace,3.73,4.0,835,129,15.45,3.27
+2,attack_of_the_clones,Episode II: Attack of the Clones,4.09,4.0,836,32,3.83,2.91
+3,revenge_of_the_sith,Episode III: Revenge of the Sith,4.34,5.0,835,36,4.31,2.66
+4,a_new_hope,Episode IV: A New Hope,3.27,3.0,836,204,24.4,3.73
+5,the_empire_strikes_back,Episode V: The Empire Strikes Back,2.51,2.0,836,289,34.57,4.49
+6,return_of_the_jedi,Episode VI: Return of the Jedi,3.05,3.0,836,146,17.46,3.95

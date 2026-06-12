@@ -1,0 +1,16 @@
+check_name,status,affected_rows,detail
+survey_characters_exist_in_universe,pass,0,All survey character keys match universe_characters_clean.
+merchandising_characters_have_universe_match,pass,0,All merchandising characters have a universe match.
+survey_films_exist_in_universe_films,pass,0,All survey film keys match universe_films_clean.
+survey_films_exist_in_business_films,pass,0,All survey film keys match films_business_clean.
+universe_characters_clean_character_key_unique,pass,0,character_key is unique in universe_characters_clean.
+universe_films_clean_film_key_unique,pass,0,film_key is unique in universe_films_clean.
+films_business_clean_film_key_unique,pass,0,film_key is unique in films_business_clean.
+planet_resident_keys_in_characters,warn,1,poggle_the_lesser
+starship_pilot_keys_in_characters,warn,5,"clone_force_99, darth_maul, dash_rendar, general_grievous, huyang"
+vehicle_pilot_keys_in_characters,warn,2,"darth_maul, scout_trooper"
+planet_film_keys_in_films,warn,6,"ahsoka, andor, obi_wan_kenobi, star_wars_rebels, the_clone_wars, the_mandalorian"
+starship_film_keys_in_films,warn,7,"ahsoka, andor, shadows_of_the_empire, star_wars_rebels, the_bad_batch, the_clone_wars, the_mandalorian"
+vehicle_film_keys_in_films,warn,1,the_clone_wars
+weapon_film_keys_in_films,warn,7,"star_wars_battlefront, star_wars_galaxy_s_edge, star_wars_rebels, star_wars_republic_commando, star_wars_the_clone_wars, the_clone_wars, the_mandalorian"
+droid_film_keys_in_films,warn,5,"ahsoka, star_wars_knights_of_the_old_republic, star_wars_rebels, star_wars_the_clone_wars, the_mandalorian"

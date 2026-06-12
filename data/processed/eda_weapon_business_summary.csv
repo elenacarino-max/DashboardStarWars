@@ -1,0 +1,58 @@
+weapon_key,name,type,manufacturer,cost_in_credits,length,film_keys,film_count
+lightsaber,Lightsaber,Melee,Various,,1.0,all_episodes,11
+dl_44_blaster_pistol,DL-44 Blaster Pistol,Blaster,BlasTech Industries,1500.0,0.3,"a_new_hope, the_empire_strikes_back, return_of_the_jedi, the_force_awakens",4
+f_11d_blaster_rifle,F-11D Blaster Rifle,Blaster,Sonn-Blas Corporation,2500.0,1.1,"the_force_awakens, the_last_jedi, the_rise_of_skywalker",3
+e_11_blaster_rifle,E-11 Blaster Rifle,Blaster,BlasTech Industries,1000.0,0.43,"a_new_hope, the_empire_strikes_back, return_of_the_jedi",3
+bowcaster,Bowcaster,Projectile,Various,,1.5,"a_new_hope, the_force_awakens, the_last_jedi",3
+proton_torpedo,Proton Torpedo,Projectile,Various,,,"a_new_hope, the_empire_strikes_back, return_of_the_jedi",3
+e_web_heavy_blaster,E-Web Heavy Blaster,Blaster,BlasTech Industries,5000.0,2.0,"the_empire_strikes_back, the_mandalorian",2
+dc_15a_blaster_rifle,DC-15A Blaster Rifle,Blaster,BlasTech Industries,2500.0,1.26,"attack_of_the_clones, revenge_of_the_sith",2
+thermal_detonator,Thermal Detonator,Explosive,Various,2000.0,0.1,"return_of_the_jedi, the_force_awakens",2
+dc_15s_blaster_carbine,DC-15S Blaster Carbine,Blaster,BlasTech Industries,1500.0,0.76,"attack_of_the_clones, revenge_of_the_sith",2
+dh_17_blaster_pistol,DH-17 Blaster Pistol,Blaster,BlasTech Industries,1200.0,0.3,"a_new_hope, the_empire_strikes_back",2
+gaderffii,Gaderffii,Melee,Tusken Raiders,,1.5,"a_new_hope, attack_of_the_clones",2
+vibroblade,Vibroblade,Melee,Various,,0.5,"the_clone_wars, the_mandalorian",2
+z_6_rotary_blaster_cannon,Z-6 Rotary Blaster Cannon,Blaster,BlasTech Industries,5000.0,1.5,the_clone_wars,1
+relby_v10_mortar_gun,Relby-v10 Mortar Gun,Blaster,BlasTech Industries,5000.0,1.2,star_wars_rebels,1
+kx_80_repeating_blaster,KX-80 Repeating Blaster,Blaster,BlasTech Industries,5000.0,1.5,the_clone_wars,1
+dlt_19_heavy_blaster_rifle,DLT-19 Heavy Blaster Rifle,Blaster,BlasTech Industries,4500.0,1.1,a_new_hope,1
+disruptor_rifle,Disruptor Rifle,Blaster,Various,4500.0,1.0,the_mandalorian,1
+t_7_ion_disruptor_rifle,T-7 Ion Disruptor Rifle,Blaster,SoroSuub Corporation,4000.0,1.1,star_wars_rebels,1
+sonic_rifle,Sonic Rifle,Blaster,Baktoid Armor Workshop,3500.0,1.4,attack_of_the_clones,1
+dc_17m_interchangeable_weapon_system,DC-17m Interchangeable Weapon System,Blaster,BlasTech Industries,3500.0,0.85,star_wars_republic_commando,1
+rt_97c_heavy_blaster_rifle,RT-97C Heavy Blaster Rifle,Blaster,BlasTech Industries,3000.0,1.2,a_new_hope,1
+particle_beam_blaster,Particle Beam Blaster,Blaster,Various,3000.0,0.4,the_clone_wars,1
+disruptor_pistol,Disruptor Pistol,Blaster,Various,3000.0,0.3,the_mandalorian,1
+geonosian_sonic_blaster,Geonosian Sonic Blaster,Blaster,Baktoid Armor Workshop,2500.0,1.0,attack_of_the_clones,1
+merr_sonn_scatter_gun,Merr-Sonn Scatter Gun,Blaster,Merr-Sonn Munitions,2200.0,0.8,the_force_awakens,1
+a280_blaster_rifle,A280 Blaster Rifle,Blaster,BlasTech Industries,2000.0,0.45,return_of_the_jedi,1
+scatterblaster,Scatterblaster,Blaster,Various,2000.0,0.6,star_wars_battlefront,1
+c1_personal_ion_blaster,C1 Personal Ion Blaster,Blaster,Various,2000.0,0.4,the_clone_wars,1
+ion_blaster,Ion Blaster,Blaster,Various,1800.0,0.5,the_clone_wars,1
+dc_17_hand_blaster,DC-17 Hand Blaster,Blaster,BlasTech Industries,1500.0,0.32,the_clone_wars,1
+dl_18_blaster_pistol,DL-18 Blaster Pistol,Blaster,BlasTech Industries,1500.0,0.35,return_of_the_jedi,1
+westar_34_blaster,Westar-34 Blaster,Blaster,BlasTech Industries,1200.0,0.23,attack_of_the_clones,1
+stun_gun,Stun Gun,Blaster,Various,1200.0,0.3,the_mandalorian,1
+blurrg_1120_holdout_blaster,Blurrg-1120 Holdout Blaster,Blaster,BlasTech Industries,1200.0,0.2,the_last_jedi,1
+relby_k23_blaster_pistol,Relby-k23 Blaster Pistol,Blaster,BlasTech Industries,1200.0,0.25,the_clone_wars,1
+se_14c_blaster_pistol,SE-14C Blaster Pistol,Blaster,BlasTech Industries,800.0,0.22,a_new_hope,1
+electrostaff,Electrostaff,Melee,Merr-Sonn Munitions,,2.0,the_force_awakens,1
+force_pike,Force Pike,Melee,Various,,2.0,return_of_the_jedi,1
+ryyk_blade,Ryyk Blade,Melee,Wookiees,,1.0,star_wars_the_clone_wars,1
+bo_rifle,Bo-Rifle,Melee/Blaster,Lasat,,2.0,star_wars_rebels,1
+kyuzo_petar,Kyuzo Petar,Melee,Kyuzo,,1.2,the_clone_wars,1
+electro_proton_bomb,Electro-proton Bomb,Explosive,Galactic Republic,,,the_clone_wars,1
+nightsister_energy_bow,Nightsister Energy Bow,Projectile,Nightsisters,,1.5,the_clone_wars,1
+stun_baton,Stun Baton,Melee,First Order,,0.8,the_force_awakens,1
+whipcord_thrower,Whipcord Thrower,Projectile,Various,,,the_mandalorian,1
+wrist_rocket,Wrist Rocket,Projectile,Various,,,the_mandalorian,1
+flame_thrower,Flame Thrower,Projectile,Various,,,the_mandalorian,1
+amban_phase_pulse_blaster,Amban Phase-Pulse Blaster,Blaster,Various,,1.5,the_mandalorian,1
+vibro_ax,Vibro-ax,Melee,Various,,1.2,return_of_the_jedi,1
+power_hammer,Power Hammer,Melee,Various,,1.0,star_wars_the_clone_wars,1
+bow_rifle,Bow Rifle,Melee/Blaster,Lasat,,1.5,star_wars_rebels,1
+force_lance,Force Lance,Melee,Jedi,,1.2,star_wars_the_clone_wars,1
+vibrosword,Vibrosword,Melee,Various,,1.2,the_clone_wars,1
+stokhli_spray_stick,Stokhli Spray Stick,Blaster,Various,,1.5,star_wars_galaxy_s_edge,1
+dart_shooter,Dart Shooter,Projectile,Various,,0.2,the_mandalorian,1
+energy_sling,Energy Sling,Projectile,Various,,0.8,star_wars_the_clone_wars,1

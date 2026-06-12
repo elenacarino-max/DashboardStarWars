@@ -1,0 +1,15 @@
+character_key,character_name,avg_opinion_score,opinion_responses,favorable_responses,unfavorable_responses,unfamiliar_responses,total_rows,favorable_pct,unfavorable_pct,unfamiliar_pct
+han_solo,Han Solo,1.672,829,761,9,15,1186,91.8,1.09,1.81
+obi_wan_kenobi,Obi-Wan Kenobi,1.632,825,750,15,17,1186,90.91,1.82,2.06
+yoda,Yoda,1.63,826,749,16,10,1186,90.68,1.94,1.21
+luke_skywalker,Luke Skywalker,1.581,831,771,16,6,1186,92.78,1.93,0.72
+r2_d2,R2-D2,1.57,830,747,16,10,1186,90.0,1.93,1.2
+leia_organa,Leia Organa,1.555,831,757,18,8,1186,91.1,2.17,0.96
+c_3po,C-3PO,1.404,827,703,30,15,1186,85.01,3.63,1.81
+anakin_skywalker,Anakin Skywalker,0.776,823,514,122,52,1186,62.45,14.82,6.32
+lando_calrissian,Lando Calrissian,0.637,820,365,71,148,1186,44.51,8.66,18.05
+padme_amidala,Padme Amidala,0.605,814,351,92,164,1186,43.12,11.3,20.15
+darth_vader,Darth Vader,0.479,826,481,251,10,1186,58.23,30.39,1.21
+boba_fett,Boba Fett,0.357,812,291,141,132,1186,35.84,17.36,16.26
+emperor_palpatine,Emperor Palpatine,0.071,814,253,192,156,1186,31.08,23.59,19.16
+jar_jar_binks,Jar Jar Binks,-0.219,821,242,306,109,1186,29.48,37.27,13.28

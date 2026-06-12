@@ -13,8 +13,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# Data outputs that may be regenerated
-data/processed/*.csv
+
 
 # Keep raw datasets local unless their license allows publication
 data/raw/*.csv

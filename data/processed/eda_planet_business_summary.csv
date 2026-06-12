@@ -1,0 +1,27 @@
+planet_key,name,population,diameter,climate,terrain,resident_keys,resident_count,film_keys,film_count
+coruscant,Coruscant,1000000000000.0,12240.0,temperate,urban,emperor_palpatine,1,"the_phantom_menace, attack_of_the_clones, revenge_of_the_sith, the_clone_wars, the_rise_of_skywalker",5
+tatooine,Tatooine,200000.0,10465.0,arid,desert,"anakin_skywalker, shmi_skywalker, luke_skywalker, c_3po",4,"a_new_hope, the_phantom_menace, attack_of_the_clones, revenge_of_the_sith",4
+naboo,Naboo,4500000000.0,12120.0,temperate,"grassy hills, swamps, forests, mountains","padme_amidala, jar_jar_binks, emperor_palpatine",3,"the_phantom_menace, attack_of_the_clones, revenge_of_the_sith",3
+yavin_4,Yavin 4,1000.0,10200.0,"temperate, tropical","jungles, forests",poe_dameron,1,"a_new_hope, rogue_one, the_rise_of_skywalker",3
+mandalore,Mandalore,,,Devastated,"glass surface, mines","bo_katan_kryze, din_djarin",2,"the_mandalorian, star_wars_rebels",2
+geonosis,Geonosis,100000000000.0,11370.0,"temperate, arid","rock, desert, canyons, mesas",poggle_the_lesser,1,"attack_of_the_clones, the_clone_wars",2
+mon_cala,Mon Cala,27000000000.0,11030.0,temperate,"oceans, islands, marshes",admiral_ackbar,1,"return_of_the_jedi, the_last_jedi",2
+alderaan,Alderaan,2000000000.0,12500.0,temperate,"grasslands, mountains",leia_organa,1,"a_new_hope, revenge_of_the_sith",2
+jakku,Jakku,,,arid,"deserts, mesas",rey,1,"the_force_awakens, the_rise_of_skywalker",2
+corvus,Corvus,,,Temperate,"forest, walled city",morgan_elsbeth,1,"the_mandalorian, ahsoka",2
+ferrix,Ferrix,,,Arid,"desert, industrial settlement","cassian_andor, bix_caleen, maarva_andor",3,andor,1
+nevarro,Nevarro,,,Arid,"volcanic, rocky","greef_karga, din_djarin",2,the_mandalorian,1
+arvala_7,Arvala-7,,,Arid,"desert, rocky","kuiil, grogu",2,the_mandalorian,1
+aldhani,Aldhani,,,Temperate,"highlands, valleys","vel_sartha, cinta_kaz",2,andor,1
+daiyu,Daiyu,,,Urban,"city, underworld","obi_wan_kenobi, reva",2,obi_wan_kenobi,1
+mapuzo,Mapuzo,,,Mining,"barren, mining settlements","obi_wan_kenobi, darth_vader",2,obi_wan_kenobi,1
+peridea,Peridea,,,Ancient,"wasteland, ruins","grand_admiral_thrawn, ezra_bridger",2,ahsoka,1
+seatos,Seatos,,,Temperate,"forest, ancient structures","ahsoka_tano, sabine_wren",2,ahsoka,1
+corellia,Corellia,3000000000.0,11000.0,temperate,"plains, urban, forests, hills",han_solo,1,solo,1
+rodia,Rodia,1300000000.0,7549.0,"tropical, humid","rainforests, oceans",greedo,1,the_clone_wars,1
+kamino,Kamino,1000000000.0,19720.0,temperate,ocean,jango_fett,1,attack_of_the_clones,1
+kashyyyk,Kashyyyk,45000000.0,12765.0,tropical,"forests, jungles",chewbacca,1,revenge_of_the_sith,1
+trask,Trask,,,Temperate,"ocean, estuaries",bo_katan_kryze,1,the_mandalorian,1
+tython,Tython,,,Temperate,"mountains, ruins",grogu,1,the_mandalorian,1
+narkina_5,Narkina 5,,,Oceanic,"ocean, prison complex",kino_loy,1,andor,1
+stewjon,Stewjon,,,temperate,"grasslands, lakes",obi_wan_kenobi,1,,0

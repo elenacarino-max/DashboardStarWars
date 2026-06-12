@@ -1,0 +1,326 @@
+asset_key,asset_name,asset_type,source_dataset,film_count,known_numeric_fields,missing_fields,total_fields,data_completeness_pct,internal_presence_score
+luke_skywalker,Luke Skywalker,character,characters,,5,0,14,100.0,5.0
+leia_organa,Leia Organa,character,characters,,5,0,14,100.0,5.0
+darth_vader,Darth Vader,character,characters,,5,1,14,92.86,5.0
+yoda,Yoda,character,characters,,5,1,14,92.86,5.0
+han_solo,Han Solo,character,characters,,5,0,14,100.0,5.0
+chewbacca,Chewbacca,character,characters,,4,1,14,92.86,4.0
+obi_wan_kenobi,Obi-Wan Kenobi,character,characters,,5,0,14,100.0,5.0
+emperor_palpatine,Emperor Palpatine,character,characters,,5,1,14,92.86,5.0
+anakin_skywalker,Anakin Skywalker,character,characters,,5,0,14,100.0,5.0
+padme_amidala,Padme Amidala,character,characters,,5,0,14,100.0,5.0
+qui_gon_jinn,Qui-Gon Jinn,character,characters,,5,0,14,100.0,5.0
+mace_windu,Mace Windu,character,characters,,5,1,14,92.86,5.0
+jar_jar_binks,Jar Jar Binks,character,characters,,4,2,14,85.71,4.0
+count_dooku,Count Dooku,character,characters,,5,0,14,100.0,5.0
+rey,Rey,character,characters,,4,1,14,92.86,4.0
+finn,Finn,character,characters,,4,2,14,85.71,4.0
+poe_dameron,Poe Dameron,character,characters,,4,1,14,92.86,4.0
+kylo_ren,Kylo Ren,character,characters,,5,0,14,100.0,5.0
+bb_8,BB-8,character,characters,,1,8,14,42.86,1.0
+c_3po,C-3PO,character,characters,,3,5,14,64.29,3.0
+r2_d2,R2-D2,character,characters,,3,5,14,64.29,3.0
+lando_calrissian,Lando Calrissian,character,characters,,4,1,14,92.86,4.0
+boba_fett,Boba Fett,character,characters,,4,1,14,92.86,4.0
+jango_fett,Jango Fett,character,characters,,5,0,14,100.0,5.0
+general_hux,General Hux,character,characters,,5,0,14,100.0,5.0
+rose_tico,Rose Tico,character,characters,,4,1,14,92.86,4.0
+supreme_leader_snoke,Supreme Leader Snoke,character,characters,,5,3,14,78.57,5.0
+maz_kanata,Maz Kanata,character,characters,,4,3,14,78.57,4.0
+aayla_secura,Aayla Secura,character,characters,,5,0,14,100.0,5.0
+admiral_ackbar,Admiral Ackbar,character,characters,,5,1,14,92.86,5.0
+admiral_piett,Admiral Piett,character,characters,,5,0,14,100.0,5.0
+bail_organa,Bail Organa,character,characters,,5,0,14,100.0,5.0
+barriss_offee,Barriss Offee,character,characters,,5,0,14,100.0,5.0
+biggs_darklighter,Biggs Darklighter,character,characters,,5,0,14,100.0,5.0
+bib_fortuna,Bib Fortuna,character,characters,,5,1,14,92.86,5.0
+bossk,Bossk,character,characters,,4,2,14,85.71,4.0
+captain_phasma,Captain Phasma,character,characters,,5,0,14,100.0,5.0
+chirrut_imwe,Chirrut Îmwe,character,characters,,5,0,14,100.0,5.0
+dengar,Dengar,character,characters,,4,1,14,92.86,4.0
+greedo,Greedo,character,characters,,5,1,14,92.86,5.0
+hera_syndulla,Hera Syndulla,character,characters,,4,1,14,92.86,4.0
+jabba_the_hutt,Jabba the Hutt,character,characters,,5,1,14,92.86,5.0
+kanan_jarrus,Kanan Jarrus,character,characters,,5,0,14,100.0,5.0
+kit_fisto,Kit Fisto,character,characters,,5,1,14,92.86,5.0
+lobot,Lobot,character,characters,,4,2,14,85.71,4.0
+mon_mothma,Mon Mothma,character,characters,,4,1,14,92.86,4.0
+nien_nunb,Nien Nunb,character,characters,,4,2,14,85.71,4.0
+plo_koon,Plo Koon,character,characters,,5,1,14,92.86,5.0
+saw_gerrera,Saw Gerrera,character,characters,,5,0,14,100.0,5.0
+sebulba,Sebulba,character,characters,,4,2,14,85.71,4.0
+shaak_ti,Shaak Ti,character,characters,,4,2,14,85.71,4.0
+shmi_skywalker,Shmi Skywalker,character,characters,,5,0,14,100.0,5.0
+wedge_antilles,Wedge Antilles,character,characters,,4,1,14,92.86,4.0
+wicket_w_warrick,Wicket W. Warrick,character,characters,,4,1,14,92.86,4.0
+zam_wesell,Zam Wesell,character,characters,,5,0,14,100.0,5.0
+ahsoka_tano,Ahsoka Tano,character,characters,,4,2,14,85.71,4.0
+asajj_ventress,Asajj Ventress,character,characters,,5,1,14,92.86,5.0
+cad_bane,Cad Bane,character,characters,,4,2,14,85.71,4.0
+captain_rex,Captain Rex,character,characters,,4,1,14,92.86,4.0
+savage_opress,Savage Opress,character,characters,,5,1,14,92.86,5.0
+hondo_ohnaka,Hondo Ohnaka,character,characters,,4,1,14,92.86,4.0
+pong_krell,Pong Krell,character,characters,,5,1,14,92.86,5.0
+mother_talzin,Mother Talzin,character,characters,,5,0,14,100.0,5.0
+ezra_bridger,Ezra Bridger,character,characters,,4,1,14,92.86,4.0
+sabine_wren,Sabine Wren,character,characters,,4,1,14,92.86,4.0
+kallus,Kallus,character,characters,,4,1,14,92.86,4.0
+grand_admiral_thrawn,Grand Admiral Thrawn,character,characters,,4,1,14,92.86,4.0
+jyn_erso,Jyn Erso,character,characters,,5,0,14,100.0,5.0
+cassian_andor,Cassian Andor,character,characters,,5,0,14,100.0,5.0
+orson_krennic,Orson Krennic,character,characters,,5,0,14,100.0,5.0
+bodhi_rook,Bodhi Rook,character,characters,,5,0,14,100.0,5.0
+baze_malbus,Baze Malbus,character,characters,,5,0,14,100.0,5.0
+galen_erso,Galen Erso,character,characters,,5,0,14,100.0,5.0
+admiral_raddus,Admiral Raddus,character,characters,,5,1,14,92.86,5.0
+dryden_vos,Dryden Vos,character,characters,,5,0,14,100.0,5.0
+qi_ra,Qi'ra,character,characters,,4,1,14,92.86,4.0
+enfys_nest,Enfys Nest,character,characters,,4,2,14,85.71,4.0
+l3_37,L3-37,character,characters,,3,5,14,64.29,3.0
+beckett,Beckett,character,characters,,5,0,14,100.0,5.0
+val,Val,character,characters,,5,1,14,92.86,5.0
+rio_durant,Rio Durant,character,characters,,5,1,14,92.86,5.0
+din_djarin,Din Djarin,character,characters,,2,3,14,78.57,2.0
+grogu,Grogu,character,characters,,3,4,14,71.43,3.0
+bo_katan_kryze,Bo-Katan Kryze,character,characters,,2,3,14,78.57,2.0
+moff_gideon,Moff Gideon,character,characters,,1,5,14,64.29,1.0
+greef_karga,Greef Karga,character,characters,,1,5,14,64.29,1.0
+the_armorer,The Armorer,character,characters,,1,6,14,57.14,1.0
+paz_vizsla,Paz Vizsla,character,characters,,1,6,14,57.14,1.0
+kuiil,Kuiil,character,characters,,1,6,14,57.14,1.0
+peli_motto,Peli Motto,character,characters,,1,4,14,71.43,1.0
+dr_pershing,Dr. Pershing,character,characters,,1,5,14,64.29,1.0
+fennec_shand,Fennec Shand,character,characters,,1,5,14,64.29,1.0
+cobb_vanth,Cobb Vanth,character,characters,,1,4,14,71.43,1.0
+luthen_rael,Luthen Rael,character,characters,,1,4,14,71.43,1.0
+bix_caleen,Bix Caleen,character,characters,,1,4,14,71.43,1.0
+dedra_meero,Dedra Meero,character,characters,,1,4,14,71.43,1.0
+syril_karn,Syril Karn,character,characters,,1,5,14,64.29,1.0
+maarva_andor,Maarva Andor,character,characters,,1,4,14,71.43,1.0
+vel_sartha,Vel Sartha,character,characters,,1,5,14,64.29,1.0
+cinta_kaz,Cinta Kaz,character,characters,,1,5,14,64.29,1.0
+kleya_marki,Kleya Marki,character,characters,,1,4,14,71.43,1.0
+kino_loy,Kino Loy,character,characters,,1,4,14,71.43,1.0
+brasso,Brasso,character,characters,,1,4,14,71.43,1.0
+reva,Reva,character,characters,,1,5,14,64.29,1.0
+the_grand_inquisitor,The Grand Inquisitor,character,characters,,1,5,14,64.29,1.0
+fifth_brother_inquisitor,Fifth Brother Inquisitor,character,characters,,1,6,14,57.14,1.0
+owen_lars,Owen Lars,character,characters,,2,3,14,78.57,2.0
+baylan_skoll,Baylan Skoll,character,characters,,1,5,14,64.29,1.0
+shin_hati,Shin Hati,character,characters,,1,5,14,64.29,1.0
+morgan_elsbeth,Morgan Elsbeth,character,characters,,1,4,14,71.43,1.0
+captain_enoch,Captain Enoch,character,characters,,1,8,14,42.86,1.0
+marrok,Marrok,character,characters,,1,8,14,42.86,1.0
+tatooine,Tatooine,planet,planets,4.0,8,0,17,100.0,12.0
+alderaan,Alderaan,planet,planets,2.0,8,0,17,100.0,10.0
+naboo,Naboo,planet,planets,3.0,8,0,17,100.0,11.0
+stewjon,Stewjon,planet,planets,0.0,3,7,17,58.82,3.0
+corellia,Corellia,planet,planets,1.0,8,0,17,100.0,9.0
+kashyyyk,Kashyyyk,planet,planets,1.0,8,0,17,100.0,9.0
+kamino,Kamino,planet,planets,1.0,8,0,17,100.0,9.0
+mon_cala,Mon Cala,planet,planets,2.0,8,0,17,100.0,10.0
+geonosis,Geonosis,planet,planets,2.0,8,0,17,100.0,10.0
+jakku,Jakku,planet,planets,2.0,6,2,17,88.24,8.0
+yavin_4,Yavin 4,planet,planets,3.0,8,0,17,100.0,11.0
+rodia,Rodia,planet,planets,1.0,8,0,17,100.0,9.0
+coruscant,Coruscant,planet,planets,5.0,8,0,17,100.0,13.0
+nevarro,Nevarro,planet,planets,1.0,3,5,17,70.59,4.0
+arvala_7,Arvala-7,planet,planets,1.0,3,5,17,70.59,4.0
+trask,Trask,planet,planets,1.0,3,5,17,70.59,4.0
+corvus,Corvus,planet,planets,2.0,3,5,17,70.59,5.0
+tython,Tython,planet,planets,1.0,3,5,17,70.59,4.0
+ferrix,Ferrix,planet,planets,1.0,3,5,17,70.59,4.0
+aldhani,Aldhani,planet,planets,1.0,3,5,17,70.59,4.0
+narkina_5,Narkina 5,planet,planets,1.0,3,5,17,70.59,4.0
+daiyu,Daiyu,planet,planets,1.0,3,5,17,70.59,4.0
+mapuzo,Mapuzo,planet,planets,1.0,3,5,17,70.59,4.0
+peridea,Peridea,planet,planets,1.0,3,5,17,70.59,4.0
+seatos,Seatos,planet,planets,1.0,3,5,17,70.59,4.0
+mandalore,Mandalore,planet,planets,2.0,3,5,17,70.59,5.0
+human,Human,species,speciess,,3,0,12,100.0,3.0
+yoda_s_species,Yoda's species,species,speciess,,3,2,12,83.33,3.0
+wookiee,Wookiee,species,speciess,,3,0,12,100.0,3.0
+gungan,Gungan,species,speciess,,3,1,12,91.67,3.0
+twi_lek,Twi'lek,species,speciess,,3,1,12,91.67,3.0
+mon_calamari,Mon Calamari,species,speciess,,3,1,12,91.67,3.0
+rodian,Rodian,species,speciess,,3,1,12,91.67,3.0
+droid,Droid,species,speciess,,1,4,12,66.67,1.0
+trandoshan,Trandoshan,species,speciess,,3,1,12,91.67,3.0
+kel_dor,Kel Dor,species,speciess,,3,1,12,91.67,3.0
+nautolan,Nautolan,species,speciess,,3,1,12,91.67,3.0
+togruta,Togruta,species,speciess,,3,1,12,91.67,3.0
+hutt,Hutt,species,speciess,,3,1,12,91.67,3.0
+zabrak,Zabrak,species,speciess,,3,1,12,91.67,3.0
+muun,Muun,species,speciess,,3,1,12,91.67,3.0
+geonosian,Geonosian,species,speciess,,3,1,12,91.67,3.0
+chiss,Chiss,species,speciess,,3,0,12,100.0,3.0
+mirialan,Mirialan,species,speciess,,3,0,12,100.0,3.0
+kaminoan,Kaminoan,species,speciess,,3,1,12,91.67,3.0
+chadra_fan,Chadra-Fan,species,speciess,,3,0,12,100.0,3.0
+dathomirian,Dathomirian,species,speciess,,3,1,12,91.67,3.0
+duros,Duros,species,speciess,,3,1,12,91.67,3.0
+ewok,Ewok,species,speciess,,3,0,12,100.0,3.0
+gamorrean,Gamorrean,species,speciess,,3,1,12,91.67,3.0
+ithorian,Ithorian,species,speciess,,3,1,12,91.67,3.0
+jawa,Jawa,species,speciess,,3,2,12,83.33,3.0
+klatooinian,Klatooinian,species,speciess,,3,1,12,91.67,3.0
+nikto,Nikto,species,speciess,,3,1,12,91.67,3.0
+quarren,Quarren,species,speciess,,3,1,12,91.67,3.0
+sullustan,Sullustan,species,speciess,,3,1,12,91.67,3.0
+talz,Talz,species,speciess,,3,1,12,91.67,3.0
+tusken_raider,Tusken Raider,species,speciess,,3,3,12,75.0,3.0
+ugnaught,Ugnaught,species,speciess,,3,1,12,91.67,3.0
+weequay,Weequay,species,speciess,,3,0,12,100.0,3.0
+zygerrian,Zygerrian,species,speciess,,3,1,12,91.67,3.0
+jedi,Jedi,species,speciess,,3,0,12,100.0,3.0
+mandalorian,Mandalorian,species,speciess,,3,0,12,100.0,3.0
+yarkora,Yarkora,species,speciess,,3,1,12,91.67,3.0
+toydarian,Toydarian,species,speciess,,3,1,12,91.67,3.0
+millennium_falcon,Millennium Falcon,starship,starships,6.0,11,0,21,100.0,17.0
+x_wing,X-wing,starship,starships,6.0,11,0,21,100.0,17.0
+tie_fighter,TIE Fighter,starship,starships,3.0,11,2,21,90.48,14.0
+star_destroyer,Star Destroyer,starship,starships,3.0,11,2,21,90.48,14.0
+slave_1,Slave 1,starship,starships,3.0,10,1,21,95.24,13.0
+a_wing,A-wing,starship,starships,2.0,11,2,21,90.48,13.0
+b_wing,B-wing,starship,starships,1.0,11,2,21,90.48,12.0
+y_wing,Y-wing,starship,starships,3.0,11,2,21,90.48,14.0
+executor,Executor,starship,starships,2.0,11,0,21,100.0,13.0
+rebel_transport,Rebel transport,starship,starships,2.0,11,2,21,90.48,13.0
+naboo_royal_starship,Naboo Royal Starship,starship,starships,1.0,10,1,21,95.24,11.0
+arc_170,ARC-170,starship,starships,1.0,10,3,21,85.71,11.0
+eta_2_actis,Eta-2 Actis,starship,starships,1.0,10,1,21,95.24,11.0
+venator_class_star_destroyer,Venator-class Star Destroyer,starship,starships,2.0,10,3,21,85.71,12.0
+naboo_n_1_starfighter,Naboo N-1 Starfighter,starship,starships,2.0,10,1,21,95.24,12.0
+jedi_interceptor,Jedi Interceptor,starship,starships,1.0,10,1,21,95.24,11.0
+sith_infiltrator,Sith Infiltrator,starship,starships,1.0,10,1,21,95.24,11.0
+v_wing,V-wing,starship,starships,1.0,10,3,21,85.71,11.0
+delta_7_aethersprite,Delta-7 Aethersprite,starship,starships,1.0,10,1,21,95.24,11.0
+imperial_shuttle,Imperial Shuttle,starship,starships,1.0,10,1,21,95.24,11.0
+tantive_iv,Tantive IV,starship,starships,2.0,11,0,21,100.0,13.0
+slave_ii,Slave II,starship,starships,3.0,10,1,21,95.24,13.0
+tie_bomber,TIE Bomber,starship,starships,1.0,10,3,21,85.71,11.0
+imperial_star_destroyer,Imperial Star Destroyer,starship,starships,3.0,11,2,21,90.48,14.0
+sith_speeder,Sith Speeder,starship,starships,1.0,8,3,21,85.71,9.0
+speeder_bike,Speeder Bike,starship,starships,1.0,8,5,21,76.19,9.0
+solar_sailer,Solar Sailer,starship,starships,1.0,9,2,21,90.48,10.0
+geonosian_starfighter,Geonosian Starfighter,starship,starships,1.0,10,3,21,85.71,11.0
+hound_s_tooth,Hound's Tooth,starship,starships,1.0,10,1,21,95.24,11.0
+scimitar,Scimitar,starship,starships,1.0,10,1,21,95.24,11.0
+tie_interceptor,Tie Interceptor,starship,starships,1.0,10,3,21,85.71,11.0
+naboo_royal_cruiser,Naboo Royal Cruiser,starship,starships,1.0,10,1,21,95.24,11.0
+x_34_landspeeder,X-34 Landspeeder,starship,starships,1.0,8,3,21,85.71,9.0
+snowspeeder,Snowspeeder,starship,starships,1.0,8,3,21,85.71,9.0
+the_ghost,The Ghost,starship,starships,1.0,10,1,21,95.24,11.0
+phantom,Phantom,starship,starships,1.0,10,1,21,95.24,11.0
+outrider,Outrider,starship,starships,1.0,10,1,21,95.24,11.0
+razor_crest,Razor Crest,starship,starships,1.0,11,0,21,100.0,12.0
+naboo_yacht,Naboo Yacht,starship,starships,1.0,10,1,21,95.24,11.0
+u_wing,U-wing,starship,starships,1.0,10,1,21,95.24,11.0
+tie_advanced_x1,TIE Advanced x1,starship,starships,1.0,10,1,21,95.24,11.0
+j_type_327_nubian,J-type 327 Nubian,starship,starships,1.0,10,1,21,95.24,11.0
+havoc_marauder,Havoc Marauder,starship,starships,1.0,10,1,21,95.24,11.0
+luthen_s_ship,Luthen's Ship,starship,starships,1.0,10,1,21,95.24,11.0
+jedi_starfighter,Jedi Starfighter,starship,starships,1.0,10,1,21,95.24,11.0
+vulture_droid,Vulture Droid,starship,starships,1.0,7,7,21,66.67,8.0
+tri_fighter,Tri-Fighter,starship,starships,1.0,7,7,21,66.67,8.0
+hyena_bomber,Hyena Bomber,starship,starships,1.0,7,7,21,66.67,8.0
+droid_gunship,Droid Gunship,starship,starships,1.0,7,7,21,66.67,8.0
+malevolence,Malevolence,starship,starships,1.0,10,1,21,95.24,11.0
+invisible_hand,Invisible Hand,starship,starships,1.0,10,1,21,95.24,11.0
+droid_control_ship,Droid Control Ship,starship,starships,1.0,10,3,21,85.71,11.0
+n_1_starfighter,N-1 Starfighter,starship,starships,2.0,9,3,21,85.71,11.0
+fondor_haulcraft,Fondor Haulcraft,starship,starships,1.0,8,5,21,76.19,9.0
+ahsoka_s_t_6_jedi_shuttle,Ahsoka's T-6 Jedi Shuttle,starship,starships,1.0,8,5,21,76.19,9.0
+the_eye_of_sion,The Eye of Sion,starship,starships,1.0,7,6,21,71.43,8.0
+snowspeeder,Snowspeeder,vehicle,vehicles,1.0,9,1,19,94.74,10.0
+tie_fighter,TIE Fighter,vehicle,vehicles,3.0,9,2,19,89.47,12.0
+sand_crawler,Sand Crawler,vehicle,vehicles,1.0,9,2,19,89.47,10.0
+x_34_landspeeder,X-34 Landspeeder,vehicle,vehicles,1.0,9,1,19,94.74,10.0
+tie_bomber,TIE Bomber,vehicle,vehicles,1.0,9,2,19,89.47,10.0
+at_at,AT-AT,vehicle,vehicles,2.0,9,3,19,84.21,11.0
+at_st,AT-ST,vehicle,vehicles,2.0,9,3,19,84.21,11.0
+sith_speeder,Sith Speeder,vehicle,vehicles,1.0,9,1,19,94.74,10.0
+speeder_bike,Speeder Bike,vehicle,vehicles,1.0,9,0,19,100.0,10.0
+imperial_speeder_bike,Imperial Speeder Bike,vehicle,vehicles,1.0,9,0,19,100.0,10.0
+cloud_car,Cloud Car,vehicle,vehicles,1.0,9,3,19,84.21,10.0
+sith_infiltrator,Sith Infiltrator,vehicle,vehicles,1.0,9,0,19,100.0,10.0
+b_wing,B-Wing,vehicle,vehicles,1.0,9,2,19,89.47,10.0
+slave_1,Slave 1,vehicle,vehicles,2.0,9,0,19,100.0,11.0
+solar_sailer,Solar Sailer,vehicle,vehicles,1.0,9,0,19,100.0,10.0
+geonosian_starfighter,Geonosian Starfighter,vehicle,vehicles,1.0,9,2,19,89.47,10.0
+hound_s_tooth,Hound's Tooth,vehicle,vehicles,1.0,9,0,19,100.0,10.0
+scimitar,Scimitar,vehicle,vehicles,1.0,9,0,19,100.0,10.0
+tie_interceptor,Tie Interceptor,vehicle,vehicles,1.0,9,2,19,89.47,10.0
+naboo_royal_cruiser,Naboo Royal Cruiser,vehicle,vehicles,1.0,9,0,19,100.0,10.0
+x_34_landspeeder,X-34 Landspeeder,vehicle,vehicles,1.0,9,0,19,100.0,10.0
+lightsaber,Lightsaber,weapon,weapons,11.0,3,1,12,91.67,14.0
+dl_44_blaster_pistol,DL-44 Blaster Pistol,weapon,weapons,4.0,4,0,12,100.0,8.0
+e_11_blaster_rifle,E-11 Blaster Rifle,weapon,weapons,3.0,4,0,12,100.0,7.0
+bowcaster,Bowcaster,weapon,weapons,3.0,3,1,12,91.67,6.0
+thermal_detonator,Thermal Detonator,weapon,weapons,2.0,4,0,12,100.0,6.0
+electrostaff,Electrostaff,weapon,weapons,1.0,3,1,12,91.67,4.0
+dc_15a_blaster_rifle,DC-15A Blaster Rifle,weapon,weapons,2.0,4,0,12,100.0,6.0
+force_pike,Force Pike,weapon,weapons,1.0,3,1,12,91.67,4.0
+se_14c_blaster_pistol,SE-14C Blaster Pistol,weapon,weapons,1.0,4,0,12,100.0,5.0
+westar_34_blaster,Westar-34 Blaster,weapon,weapons,1.0,4,0,12,100.0,5.0
+dh_17_blaster_pistol,DH-17 Blaster Pistol,weapon,weapons,2.0,4,0,12,100.0,6.0
+dc_17_hand_blaster,DC-17 Hand Blaster,weapon,weapons,1.0,4,0,12,100.0,5.0
+a280_blaster_rifle,A280 Blaster Rifle,weapon,weapons,1.0,4,0,12,100.0,5.0
+rt_97c_heavy_blaster_rifle,RT-97C Heavy Blaster Rifle,weapon,weapons,1.0,4,0,12,100.0,5.0
+f_11d_blaster_rifle,F-11D Blaster Rifle,weapon,weapons,3.0,4,0,12,100.0,7.0
+sonic_rifle,Sonic Rifle,weapon,weapons,1.0,4,0,12,100.0,5.0
+ryyk_blade,Ryyk Blade,weapon,weapons,1.0,3,1,12,91.67,4.0
+z_6_rotary_blaster_cannon,Z-6 Rotary Blaster Cannon,weapon,weapons,1.0,4,0,12,100.0,5.0
+gaderffii,Gaderffii,weapon,weapons,2.0,3,1,12,91.67,5.0
+bo_rifle,Bo-Rifle,weapon,weapons,1.0,3,1,12,91.67,4.0
+dlt_19_heavy_blaster_rifle,DLT-19 Heavy Blaster Rifle,weapon,weapons,1.0,4,0,12,100.0,5.0
+kyuzo_petar,Kyuzo Petar,weapon,weapons,1.0,3,1,12,91.67,4.0
+electro_proton_bomb,Electro-proton Bomb,weapon,weapons,1.0,2,2,12,83.33,3.0
+nightsister_energy_bow,Nightsister Energy Bow,weapon,weapons,1.0,3,1,12,91.67,4.0
+relby_v10_mortar_gun,Relby-v10 Mortar Gun,weapon,weapons,1.0,4,0,12,100.0,5.0
+stun_baton,Stun Baton,weapon,weapons,1.0,3,1,12,91.67,4.0
+particle_beam_blaster,Particle Beam Blaster,weapon,weapons,1.0,4,0,12,100.0,5.0
+vibroblade,Vibroblade,weapon,weapons,2.0,3,1,12,91.67,5.0
+dc_15s_blaster_carbine,DC-15S Blaster Carbine,weapon,weapons,2.0,4,0,12,100.0,6.0
+whipcord_thrower,Whipcord Thrower,weapon,weapons,1.0,2,2,12,83.33,3.0
+wrist_rocket,Wrist Rocket,weapon,weapons,1.0,2,2,12,83.33,3.0
+flame_thrower,Flame Thrower,weapon,weapons,1.0,2,2,12,83.33,3.0
+amban_phase_pulse_blaster,Amban Phase-Pulse Blaster,weapon,weapons,1.0,3,1,12,91.67,4.0
+vibro_ax,Vibro-ax,weapon,weapons,1.0,3,1,12,91.67,4.0
+power_hammer,Power Hammer,weapon,weapons,1.0,3,1,12,91.67,4.0
+ion_blaster,Ion Blaster,weapon,weapons,1.0,4,0,12,100.0,5.0
+stun_gun,Stun Gun,weapon,weapons,1.0,4,0,12,100.0,5.0
+proton_torpedo,Proton Torpedo,weapon,weapons,3.0,2,2,12,83.33,5.0
+bow_rifle,Bow Rifle,weapon,weapons,1.0,3,1,12,91.67,4.0
+force_lance,Force Lance,weapon,weapons,1.0,3,1,12,91.67,4.0
+dc_17m_interchangeable_weapon_system,DC-17m Interchangeable Weapon System,weapon,weapons,1.0,4,0,12,100.0,5.0
+geonosian_sonic_blaster,Geonosian Sonic Blaster,weapon,weapons,1.0,4,0,12,100.0,5.0
+e_web_heavy_blaster,E-Web Heavy Blaster,weapon,weapons,2.0,4,0,12,100.0,6.0
+vibrosword,Vibrosword,weapon,weapons,1.0,3,1,12,91.67,4.0
+t_7_ion_disruptor_rifle,T-7 Ion Disruptor Rifle,weapon,weapons,1.0,4,0,12,100.0,5.0
+blurrg_1120_holdout_blaster,Blurrg-1120 Holdout Blaster,weapon,weapons,1.0,4,0,12,100.0,5.0
+scatterblaster,Scatterblaster,weapon,weapons,1.0,4,0,12,100.0,5.0
+stokhli_spray_stick,Stokhli Spray Stick,weapon,weapons,1.0,3,1,12,91.67,4.0
+disruptor_rifle,Disruptor Rifle,weapon,weapons,1.0,4,0,12,100.0,5.0
+dl_18_blaster_pistol,DL-18 Blaster Pistol,weapon,weapons,1.0,4,0,12,100.0,5.0
+c1_personal_ion_blaster,C1 Personal Ion Blaster,weapon,weapons,1.0,4,0,12,100.0,5.0
+relby_k23_blaster_pistol,Relby-k23 Blaster Pistol,weapon,weapons,1.0,4,0,12,100.0,5.0
+kx_80_repeating_blaster,KX-80 Repeating Blaster,weapon,weapons,1.0,4,0,12,100.0,5.0
+disruptor_pistol,Disruptor Pistol,weapon,weapons,1.0,4,0,12,100.0,5.0
+dart_shooter,Dart Shooter,weapon,weapons,1.0,3,1,12,91.67,4.0
+energy_sling,Energy Sling,weapon,weapons,1.0,3,1,12,91.67,4.0
+merr_sonn_scatter_gun,Merr-Sonn Scatter Gun,weapon,weapons,1.0,4,0,12,100.0,5.0
+r2_d2,R2-D2,droid,droids,9.0,4,0,13,100.0,13.0
+c_3po,C-3PO,droid,droids,9.0,4,0,13,100.0,13.0
+bb_8,BB-8,droid,droids,3.0,4,0,13,100.0,7.0
+k_2so,K-2SO,droid,droids,1.0,4,0,13,100.0,5.0
+ig_88,IG-88,droid,droids,1.0,4,0,13,100.0,5.0
+hk_47,HK-47,droid,droids,1.0,4,0,13,100.0,5.0
+l3_37,L3-37,droid,droids,1.0,4,0,13,100.0,5.0
+r5_d4,R5-D4,droid,droids,1.0,4,0,13,100.0,5.0
+chopper,Chopper,droid,droids,1.0,4,0,13,100.0,5.0
+ev_9d9,EV-9D9,droid,droids,1.0,4,0,13,100.0,5.0
+ig_11,IG-11,droid,droids,1.0,3,1,13,92.31,4.0
+b2emo,B2EMO,droid,droids,0.0,2,5,13,61.54,2.0
+professor_huyang,Professor Huyang,droid,droids,2.0,3,2,13,84.62,5.0
+hk_87_assassin_droid,HK-87 Assassin Droid,droid,droids,2.0,3,2,13,84.62,5.0
