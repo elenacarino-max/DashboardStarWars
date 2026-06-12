@@ -3,4 +3,6 @@ Audiencia,La pelicula mas vista es Episode V: The Empire Strikes Back con un 63.
 Preferencia,La pelicula con mejor ranking medio es Episode V: The Empire Strikes Back con avg_rank 2.51.,La preferencia declarada no siempre coincide con la simple exposicion.
 Personajes,El personaje con mayor indice de merchandising es Han Solo.,"Conviene priorizar personajes con alta afinidad, familiaridad y presencia narrativa."
 Representacion interna,La especie mas frecuente en characters es Human con 73 personajes.,"El universo esta concentrado en ciertos grupos, lo que puede limitar diversidad de campanas."
+Negocio,"La pelicula con mayor taquilla mundial es The Force Awakens con $2,056,046,835.",El rendimiento comercial complementa la lectura de audiencia y ayuda a priorizar oportunidades de franquicia.
+Rentabilidad,La pelicula con mayor ROI estimado es A New Hope con ROI 69.49.,Las peliculas clasicas pueden destacar proporcionalmente aunque las nuevas tengan mayor taquilla absoluta.
 Gobernanza,"Existen nulos relevantes en campos fisicos, economicos y demograficos.",Las decisiones deben combinar datos cuantitativos con criterio editorial y de negocio.

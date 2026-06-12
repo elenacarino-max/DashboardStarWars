@@ -11,9 +11,10 @@ El dashboard debe contar una historia sencilla:
 1. Que activos tiene el universo Star Wars.
 2. Que elementos parecen tener mas peso narrativo o comercial.
 3. Que opina la audiencia.
-4. Que oportunidades aparecen al cruzar presencia interna y traccion de audiencia.
-5. Que sesgos limitan la lectura.
-6. Que decisiones deberia tomar la empresa.
+4. Que rendimiento comercial han tenido las peliculas.
+5. Que oportunidades aparecen al cruzar presencia interna, traccion de audiencia y negocio.
+6. Que sesgos limitan la lectura.
+7. Que decisiones deberia tomar la empresa.
 
 ## Pagina 1: Portada ejecutiva
 
@@ -34,6 +35,8 @@ KPIs posibles:
 - Total de naves o vehiculos.
 - Total de respuestas de encuesta.
 - Porcentaje de fans.
+- Taquilla mundial total.
+- ROI medio.
 - Indice de Potencial de Merchandising.
 
 ## Pagina 2: Universo Star Wars
@@ -104,7 +107,31 @@ Pregunta de negocio:
 
 > Que contenido conecta mejor con la audiencia?
 
-## Pagina 5: Oportunidades de merchandising
+## Pagina 5: Rendimiento comercial de la franquicia
+
+Objetivo: incorporar una lectura claramente de negocio.
+
+Tabla principal:
+
+- `films_business_clean.csv`
+
+Graficos sugeridos:
+
+- Taquilla mundial por pelicula.
+- Presupuesto frente a taquilla mundial.
+- ROI por pelicula.
+- Taquilla mundial por era.
+- Comparativa entre peliculas clasicas, precuelas, secuelas, spin-offs y nuevas.
+
+Advertencia:
+
+- `The Mandalorian and Grogu` se marca como `partial_current_release`, porque sus datos de taquilla son recientes y pueden cambiar.
+
+Pregunta de negocio:
+
+> Que peliculas han generado mas valor economico y como se relaciona eso con la percepcion de audiencia?
+
+## Pagina 6: Oportunidades de merchandising
 
 Objetivo: convertir el analisis en una herramienta de priorizacion comercial.
 
@@ -136,7 +163,7 @@ Pregunta de negocio:
 
 > Que elementos deberian priorizarse en una campana de merchandising?
 
-## Pagina 6: Sesgos y gobernanza
+## Pagina 7: Sesgos y gobernanza
 
 Objetivo: demostrar lectura critica de los datos.
 
@@ -159,7 +186,7 @@ Mensaje clave:
 
 > Los datos orientan decisiones, pero no son una representacion neutral ni completa de la realidad.
 
-## Pagina 7: Recomendaciones estrategicas
+## Pagina 8: Recomendaciones estrategicas
 
 Objetivo: cerrar con decisiones accionables.
 
