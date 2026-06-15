@@ -1,0 +1,1187 @@
+respondent_id,has_seen_any_star_wars_film,has_seen_any_star_wars_film_binary,is_star_wars_fan,is_star_wars_fan_binary,fan_segment,total_movies_seen,movie_consumption_segment,has_complete_movie_ranking,which_character_shot_first,is_familiar_with_expanded_universe,is_familiar_with_expanded_universe_binary,is_expanded_universe_fan,is_expanded_universe_fan_binary,is_star_trek_fan,is_star_trek_fan_binary,gender,age,household_income,education,location_census_region,has_demographic_info,average_character_opinion_score,audience_type,audience_type_order
+3292879998.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,no,0.0,no,0.0,male,18-29,,high school degree,south atlantic,1,2.0,Jedi fiel,1
+3292879538.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,yes,1.0,male,18-29,"$0 - $24,999",bachelor degree,west south central,1,,Territorio neutral,4
+3292765271.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,18-29,"$0 - $24,999",high school degree,west north central,1,1.0,Explorador casual,3
+3292763116.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,18-29,"$100,000 - $149,999",some college or associate degree,west north central,1,1.6428571428571428,Jedi fiel,1
+3292731220.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,male,18-29,"$100,000 - $149,999",some college or associate degree,west north central,1,0.5714285714285714,Jedi fiel,1
+3292719380.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,18-29,"$25,000 - $49,999",bachelor degree,middle atlantic,1,1.2857142857142858,Jedi fiel,1
+3292684787.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,18-29,,high school degree,east north central,1,1.5,Jedi fiel,1
+3292663732.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,18-29,,high school degree,south atlantic,1,0.4285714285714285,Jedi fiel,1
+3292654043.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,"$0 - $24,999",some college or associate degree,south atlantic,1,0.7857142857142857,Jedi fiel,1
+3292640424.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,18-29,"$25,000 - $49,999",some college or associate degree,pacific,1,1.0,Territorio neutral,4
+3292637870.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3292635062.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3292609214.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,18-29,"$25,000 - $49,999",bachelor degree,south atlantic,1,1.3571428571428572,Explorador casual,3
+3292596911.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",graduate degree,mountain,1,1.3636363636363635,Jedi fiel,1
+3292587240.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,,high school degree,east north central,1,0.7142857142857143,Jedi fiel,1
+3292583038.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,18-29,"$0 - $24,999",some college or associate degree,west south central,1,0.5,Jedi fiel,1
+3292580516.0,yes,1,yes,1.0,fan,1,low_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,18-29,"$50,000 - $99,999",bachelor degree,new england,1,-0.3571428571428571,Rebelde nostalgico,2
+3292572872.0,yes,1,yes,1.0,fan,4,medium_consumption,1,greedo,no,0.0,,,no,0.0,male,18-29,,some college or associate degree,middle atlantic,1,1.7142857142857142,Rebelde nostalgico,2
+3292565282.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,,high school degree,south atlantic,1,1.4285714285714286,Jedi fiel,1
+3292562297.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,18-29,"$50,000 - $99,999",some college or associate degree,west north central,1,1.0714285714285714,Jedi fiel,1
+3292522349.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,,some college or associate degree,pacific,1,0.9285714285714286,Jedi fiel,1
+3292521066.0,yes,1,no,0.0,not_fan,5,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,18-29,,bachelor degree,pacific,1,0.0,Explorador casual,3
+3292511801.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,male,18-29,"$50,000 - $99,999",bachelor degree,south atlantic,1,0.7857142857142857,Jedi fiel,1
+3292483200.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,"$0 - $24,999",bachelor degree,pacific,1,0.9285714285714286,Jedi fiel,1
+3292465491.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,,,east north central,1,2.0,Jedi fiel,1
+3292447974.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,yes,1.0,male,18-29,"$0 - $24,999",high school degree,east south central,1,,Territorio neutral,4
+3292420123.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,male,18-29,"$100,000 - $149,999",some college or associate degree,south atlantic,1,1.2142857142857142,Jedi fiel,1
+3292384040.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,18-29,,some college or associate degree,middle atlantic,1,1.0714285714285714,Jedi fiel,1
+3292380493.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,18-29,,some college or associate degree,middle atlantic,1,-0.2142857142857142,Jedi fiel,1
+3292376985.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,18-29,"$150,000+",some college or associate degree,east north central,1,1.3846153846153846,Jedi fiel,1
+3292366792.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,30-44,"$0 - $24,999",high school degree,new england,1,0.5,Explorador casual,3
+3292339379.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,30-44,"$50,000 - $99,999",some college or associate degree,west north central,1,1.7142857142857142,Jedi fiel,1
+3292330840.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,,,middle atlantic,1,-1.0,Explorador casual,3
+3292318652.0,yes,1,no,0.0,not_fan,2,low_consumption,1,han,no,0.0,,,no,0.0,male,18-29,"$50,000 - $99,999",high school degree,mountain,1,,Explorador casual,3
+3292297848.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,yes,1.0,male,30-44,"$50,000 - $99,999",graduate degree,east south central,1,,Territorio neutral,4
+3292290677.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$150,000+",graduate degree,east north central,1,1.4285714285714286,Jedi fiel,1
+3292281095.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,18-29,"$0 - $24,999",bachelor degree,west north central,1,0.3571428571428571,Jedi fiel,1
+3292279889.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,,some college or associate degree,pacific,1,0.5,Jedi fiel,1
+3292264069.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,30-44,"$50,000 - $99,999",bachelor degree,middle atlantic,1,0.9285714285714286,Jedi fiel,1
+3292257520.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,male,30-44,"$0 - $24,999",high school degree,west north central,1,1.5,Jedi fiel,1
+3292249492.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$100,000 - $149,999",graduate degree,middle atlantic,1,1.2142857142857142,Jedi fiel,1
+3292222729.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,30-44,"$100,000 - $149,999",graduate degree,pacific,1,1.5714285714285714,Jedi fiel,1
+3292221635.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,no,0.0,male,18-29,"$25,000 - $49,999",bachelor degree,west north central,1,0.9285714285714286,Jedi fiel,1
+3292218251.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,18-29,"$150,000+",bachelor degree,pacific,1,1.4285714285714286,Jedi fiel,1
+3292214307.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,18-29,"$25,000 - $49,999",high school degree,new england,1,1.0,Jedi fiel,1
+3292210606.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,,some college or associate degree,west north central,1,1.5714285714285714,Jedi fiel,1
+3292202220.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,18-29,"$0 - $24,999",high school degree,pacific,1,,Territorio neutral,4
+3292189580.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,30-44,"$50,000 - $99,999",some college or associate degree,west north central,1,0.7142857142857143,Jedi fiel,1
+3292187343.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,18-29,"$50,000 - $99,999",some college or associate degree,pacific,1,0.5833333333333334,Explorador casual,3
+3292186608.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,yes,1.0,male,30-44,"$50,000 - $99,999",graduate degree,pacific,1,,Territorio neutral,4
+3292178389.0,yes,1,yes,1.0,fan,4,medium_consumption,1,greedo,no,0.0,,,yes,1.0,male,18-29,"$50,000 - $99,999",bachelor degree,mountain,1,1.1428571428571428,Rebelde nostalgico,2
+3292176862.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,18-29,,high school degree,south atlantic,1,1.0714285714285714,Jedi fiel,1
+3292173922.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,30-44,"$50,000 - $99,999",some college or associate degree,west south central,1,1.6428571428571428,Jedi fiel,1
+3292167131.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,18-29,"$25,000 - $49,999",high school degree,new england,1,0.8571428571428571,Jedi fiel,1
+3292162057.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,18-29,"$100,000 - $149,999",some college or associate degree,mountain,1,1.1538461538461535,Jedi fiel,1
+3292161407.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,18-29,,high school degree,west south central,1,,Territorio neutral,4
+3292156614.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,"$150,000+",bachelor degree,west south central,1,1.5714285714285714,Jedi fiel,1
+3292148570.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,18-29,"$50,000 - $99,999",graduate degree,west north central,1,0.5,Jedi fiel,1
+3292144665.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,18-29,"$0 - $24,999",high school degree,new england,1,1.3571428571428572,Jedi fiel,1
+3292143503.0,yes,1,no,0.0,not_fan,5,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,18-29,"$50,000 - $99,999",bachelor degree,pacific,1,0.5833333333333334,Explorador casual,3
+3292131636.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,male,18-29,"$150,000+",bachelor degree,pacific,1,0.6153846153846154,Jedi fiel,1
+3292125068.0,yes,1,yes,1.0,fan,1,low_consumption,1,greedo,no,0.0,,,yes,1.0,male,30-44,"$100,000 - $149,999",graduate degree,pacific,1,-0.3333333333333333,Rebelde nostalgico,2
+3292120160.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,18-29,"$100,000 - $149,999",some college or associate degree,new england,1,1.5,Jedi fiel,1
+3292103680.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",some college or associate degree,pacific,1,0.5,Jedi fiel,1
+3292050153.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,18-29,"$0 - $24,999",some college or associate degree,pacific,1,0.7692307692307693,Explorador casual,3
+3292041365.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,18-29,"$150,000+",some college or associate degree,east south central,1,0.8571428571428571,Jedi fiel,1
+3292033243.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,no,0.0,male,18-29,"$50,000 - $99,999",some college or associate degree,south atlantic,1,1.6428571428571428,Jedi fiel,1
+3292031637.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,18-29,"$25,000 - $49,999",graduate degree,east south central,1,1.181818181818182,Explorador casual,3
+3292008762.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,18-29,"$25,000 - $49,999",some college or associate degree,east south central,1,0.6428571428571429,Jedi fiel,1
+3291992352.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,30-44,"$100,000 - $149,999",graduate degree,west north central,1,1.1666666666666667,Jedi fiel,1
+3291945498.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$50,000 - $99,999",graduate degree,west north central,1,1.0,Jedi fiel,1
+3291940517.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,18-29,"$100,000 - $149,999",bachelor degree,west north central,1,0.9285714285714286,Jedi fiel,1
+3291871486.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,male,18-29,"$100,000 - $149,999",graduate degree,south atlantic,1,1.6428571428571428,Jedi fiel,1
+3291778150.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,18-29,"$25,000 - $49,999",bachelor degree,middle atlantic,1,1.8571428571428568,Jedi fiel,1
+3291766314.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",high school degree,pacific,1,1.0,Explorador casual,3
+3291762799.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,30-44,"$50,000 - $99,999",some college or associate degree,east north central,1,1.0,Jedi fiel,1
+3291707153.0,yes,1,no,0.0,not_fan,2,low_consumption,1,greedo,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",bachelor degree,west south central,1,0.7142857142857143,Explorador casual,3
+3291701619.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,18-29,,bachelor degree,new england,1,0.8571428571428571,Jedi fiel,1
+3291696391.0,yes,1,yes,1.0,fan,5,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,30-44,"$100,000 - $149,999",bachelor degree,west north central,1,1.1428571428571428,Jedi fiel,1
+3291684768.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$100,000 - $149,999",graduate degree,east north central,1,0.5714285714285714,Jedi fiel,1
+3291669388.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3291661584.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$50,000 - $99,999",some college or associate degree,south atlantic,1,0.7272727272727273,Explorador casual,3
+3291658046.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,30-44,,graduate degree,south atlantic,1,1.0,Jedi fiel,1
+3291654919.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",graduate degree,east north central,1,0.7857142857142857,Jedi fiel,1
+3291653882.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,18-29,"$50,000 - $99,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3291650311.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$25,000 - $49,999",some college or associate degree,east north central,1,1.5,Jedi fiel,1
+3291649780.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3291648660.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,,,west north central,1,,Territorio neutral,4
+3291641416.0,yes,1,no,0.0,not_fan,5,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,male,> 60,"$100,000 - $149,999",graduate degree,east north central,1,0.4615384615384615,Explorador casual,3
+3291635934.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$25,000 - $49,999",some college or associate degree,new england,1,,Territorio neutral,4
+3291634205.0,yes,1,no,0.0,not_fan,5,high_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$0 - $24,999",bachelor degree,pacific,1,0.0769230769230769,Explorador casual,3
+3291618031.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,male,18-29,,bachelor degree,middle atlantic,1,0.6363636363636364,Explorador casual,3
+3291603688.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,18-29,"$25,000 - $49,999",,west north central,1,,Territorio neutral,4
+3291602842.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,male,30-44,"$50,000 - $99,999",high school degree,pacific,1,0.7857142857142857,Jedi fiel,1
+3291598188.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",high school degree,south atlantic,1,1.0,Rebelde nostalgico,2
+3291588139.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",bachelor degree,west south central,1,1.3076923076923077,Jedi fiel,1
+3291570206.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3291548852.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",bachelor degree,east north central,1,1.5,Jedi fiel,1
+3291529925.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,30-44,"$100,000 - $149,999",bachelor degree,middle atlantic,1,1.0,Jedi fiel,1
+3291524547.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,greedo,no,0.0,,,no,0.0,male,> 60,"$50,000 - $99,999",bachelor degree,east north central,1,2.0,Explorador casual,3
+3291502449.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,"$100,000 - $149,999",some college or associate degree,south atlantic,1,1.7,Rebelde nostalgico,2
+3291497337.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,male,> 60,"$150,000+",bachelor degree,south atlantic,1,0.9230769230769232,Jedi fiel,1
+3291482197.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,30-44,"$25,000 - $49,999",graduate degree,south atlantic,1,0.7142857142857143,Jedi fiel,1
+3291476650.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$25,000 - $49,999",bachelor degree,east north central,1,,Territorio neutral,4
+3291470613.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$100,000 - $149,999",bachelor degree,middle atlantic,1,,Territorio neutral,4
+3291469991.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3291468155.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,greedo,no,0.0,,,yes,1.0,male,> 60,"$100,000 - $149,999",some college or associate degree,pacific,1,0.5454545454545454,Explorador casual,3
+3291461574.0,yes,1,yes,1.0,fan,3,medium_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,,bachelor degree,east north central,1,0.6666666666666666,Rebelde nostalgico,2
+3291455642.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$25,000 - $49,999",some college or associate degree,south atlantic,1,1.4285714285714286,Territorio neutral,4
+3291446474.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",high school degree,east north central,1,1.6666666666666667,Explorador casual,3
+3291446275.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$50,000 - $99,999",some college or associate degree,middle atlantic,1,1.0,Jedi fiel,1
+3291439708.0,yes,1,yes,1.0,fan,4,medium_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,female,> 60,"$50,000 - $99,999",bachelor degree,south atlantic,1,0.6363636363636364,Rebelde nostalgico,2
+3291439404.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$25,000 - $49,999",graduate degree,pacific,1,1.25,Territorio neutral,4
+3291437345.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",some college or associate degree,west north central,1,1.5714285714285714,Explorador casual,3
+3291435787.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",graduate degree,south atlantic,1,1.0714285714285714,Explorador casual,3
+3291435056.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3291433636.0,yes,1,no,0.0,not_fan,5,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$25,000 - $49,999",bachelor degree,west south central,1,1.3636363636363635,Explorador casual,3
+3291431939.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,30-44,"$25,000 - $49,999",graduate degree,south atlantic,1,1.6428571428571428,Jedi fiel,1
+3291430239.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$25,000 - $49,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3291430193.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3291428174.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",some college or associate degree,east north central,1,1.0,Explorador casual,3
+3291427761.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$50,000 - $99,999",some college or associate degree,south atlantic,1,,Territorio neutral,4
+3291425110.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,female,30-44,"$50,000 - $99,999",graduate degree,south atlantic,1,0.8571428571428571,Jedi fiel,1
+3291424127.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$25,000 - $49,999",bachelor degree,south atlantic,1,1.2307692307692308,Jedi fiel,1
+3291424006.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$100,000 - $149,999",bachelor degree,east north central,1,,Territorio neutral,4
+3291422637.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$25,000 - $49,999",graduate degree,east north central,1,1.0,Explorador casual,3
+3291421381.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$100,000 - $149,999",some college or associate degree,south atlantic,1,,Territorio neutral,4
+3291420030.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3291410155.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$0 - $24,999",some college or associate degree,new england,1,,Territorio neutral,4
+3291405943.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3291402264.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$25,000 - $49,999",high school degree,east north central,1,,Territorio neutral,4
+3291401326.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,"$25,000 - $49,999",high school degree,middle atlantic,1,-0.0714285714285714,Jedi fiel,1
+3291395512.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,no,0.0,no,0.0,female,30-44,"$50,000 - $99,999",bachelor degree,south atlantic,1,0.5714285714285714,Jedi fiel,1
+3291394022.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$50,000 - $99,999",some college or associate degree,south atlantic,1,0.75,Explorador casual,3
+3291391717.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3291391446.0,yes,1,yes,1.0,fan,2,low_consumption,1,han,no,0.0,,,yes,1.0,female,> 60,"$25,000 - $49,999",some college or associate degree,east north central,1,1.5714285714285714,Rebelde nostalgico,2
+3291391033.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$25,000 - $49,999",some college or associate degree,south atlantic,1,,Territorio neutral,4
+3291390734.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$50,000 - $99,999",some college or associate degree,new england,1,,Territorio neutral,4
+3291388906.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,,high school degree,mountain,1,,Territorio neutral,4
+3291388180.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$50,000 - $99,999",some college or associate degree,middle atlantic,1,1.2142857142857142,Explorador casual,3
+3291380973.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$25,000 - $49,999",bachelor degree,middle atlantic,1,0.9,Explorador casual,3
+3291378572.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$50,000 - $99,999",bachelor degree,middle atlantic,1,1.2857142857142858,Explorador casual,3
+3291375306.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$25,000 - $49,999",some college or associate degree,south atlantic,1,-1.1428571428571428,Explorador casual,3
+3291364062.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,45-60,,some college or associate degree,south atlantic,1,1.5,Jedi fiel,1
+3291345427.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,> 60,"$100,000 - $149,999",graduate degree,east north central,1,1.0714285714285714,Jedi fiel,1
+3291341186.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3291330710.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,30-44,"$0 - $24,999",some college or associate degree,east north central,1,0.9285714285714286,Explorador casual,3
+3291327304.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$100,000 - $149,999",some college or associate degree,south atlantic,1,0.4285714285714285,Explorador casual,3
+3291320154.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,30-44,"$100,000 - $149,999",graduate degree,middle atlantic,1,0.5384615384615384,Jedi fiel,1
+3291312980.0,yes,1,no,0.0,not_fan,1,low_consumption,1,han,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",high school degree,west north central,1,0.1428571428571428,Territorio neutral,4
+3291290675.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",graduate degree,east north central,1,,Territorio neutral,4
+3291288174.0,yes,1,yes,1.0,fan,3,medium_consumption,1,han,no,0.0,,,yes,1.0,female,> 60,"$50,000 - $99,999",bachelor degree,west north central,1,1.0833333333333333,Rebelde nostalgico,2
+3291271932.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,han,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",bachelor degree,west north central,1,0.1666666666666666,Explorador casual,3
+3291267852.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,45-60,"$100,000 - $149,999",bachelor degree,middle atlantic,1,0.7,Explorador casual,3
+3291262515.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",bachelor degree,west south central,1,1.4,Explorador casual,3
+3291233218.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,female,30-44,,some college or associate degree,pacific,1,0.7142857142857143,Jedi fiel,1
+3291206864.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,18-29,"$25,000 - $49,999",some college or associate degree,pacific,1,1.0,Explorador casual,3
+3291203531.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$25,000 - $49,999",bachelor degree,east north central,1,,Territorio neutral,4
+3291184745.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",bachelor degree,south atlantic,1,1.8571428571428568,Jedi fiel,1
+3291181010.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$0 - $24,999",graduate degree,pacific,1,-0.7142857142857143,Explorador casual,3
+3291159863.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,,bachelor degree,pacific,1,0.6363636363636364,Explorador casual,3
+3291145258.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,,high school degree,pacific,1,2.0,Explorador casual,3
+3291141478.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,female,> 60,"$150,000+",graduate degree,pacific,1,1.5714285714285714,Jedi fiel,1
+3291139156.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,,bachelor degree,west north central,1,1.1,Rebelde nostalgico,2
+3291121359.0,yes,1,no,0.0,not_fan,2,low_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,male,45-60,"$25,000 - $49,999",bachelor degree,south atlantic,1,1.1428571428571428,Explorador casual,3
+3291119656.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$25,000 - $49,999",high school degree,mountain,1,0.2857142857142857,Explorador casual,3
+3291101925.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,female,18-29,"$0 - $24,999",bachelor degree,mountain,1,0.4285714285714285,Explorador casual,3
+3291094347.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,30-44,"$50,000 - $99,999",some college or associate degree,pacific,1,1.2142857142857142,Explorador casual,3
+3291092094.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$25,000 - $49,999",high school degree,east north central,1,1.0714285714285714,Explorador casual,3
+3291077381.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$150,000+",graduate degree,mountain,1,0.0,Explorador casual,3
+3291075212.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,30-44,"$100,000 - $149,999",some college or associate degree,east south central,1,1.3571428571428572,Jedi fiel,1
+3291064417.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$25,000 - $49,999",some college or associate degree,pacific,1,,Territorio neutral,4
+3291063226.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,18-29,"$150,000+",bachelor degree,pacific,1,0.8571428571428571,Jedi fiel,1
+3291060156.0,yes,1,yes,1.0,fan,3,medium_consumption,1,greedo,no,0.0,,,no,0.0,female,30-44,"$0 - $24,999",bachelor degree,mountain,1,0.4285714285714285,Rebelde nostalgico,2
+3291056296.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,female,18-29,"$25,000 - $49,999",some college or associate degree,west north central,1,1.7857142857142858,Jedi fiel,1
+3291052728.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,45-60,"$50,000 - $99,999",graduate degree,west south central,1,0.9285714285714286,Jedi fiel,1
+3291051343.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$0 - $24,999",high school degree,middle atlantic,1,0.6428571428571429,Jedi fiel,1
+3291045360.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,45-60,,graduate degree,east south central,1,1.3571428571428572,Jedi fiel,1
+3291043176.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,30-44,,some college or associate degree,pacific,1,0.7857142857142857,Explorador casual,3
+3291042516.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$100,000 - $149,999",bachelor degree,pacific,1,1.7142857142857142,Explorador casual,3
+3291037640.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3291034202.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$150,000+",bachelor degree,middle atlantic,1,1.1428571428571428,Jedi fiel,1
+3291033668.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$0 - $24,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3291032418.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",high school degree,east north central,1,1.0,Explorador casual,3
+3291029281.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,,graduate degree,middle atlantic,1,,Territorio neutral,4
+3291028446.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,30-44,"$25,000 - $49,999",some college or associate degree,south atlantic,1,0.4285714285714285,Jedi fiel,1
+3291024297.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,> 60,"$0 - $24,999",graduate degree,middle atlantic,1,0.4166666666666667,Jedi fiel,1
+3291023456.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,female,18-29,"$50,000 - $99,999",some college or associate degree,west south central,1,1.2307692307692308,Jedi fiel,1
+3291022655.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$50,000 - $99,999",some college or associate degree,south atlantic,1,1.1111111111111112,Rebelde nostalgico,2
+3291022275.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$0 - $24,999",less than high school degree,east north central,1,,Territorio neutral,4
+3291022013.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3291019033.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,30-44,"$50,000 - $99,999",some college or associate degree,west south central,1,1.0,Jedi fiel,1
+3291018581.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,,bachelor degree,east north central,1,,Territorio neutral,4
+3291015347.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$0 - $24,999",bachelor degree,west north central,1,,Territorio neutral,4
+3291014757.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$100,000 - $149,999",graduate degree,mountain,1,1.25,Jedi fiel,1
+3291009055.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3291007877.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,45-60,"$100,000 - $149,999",bachelor degree,middle atlantic,1,1.8571428571428568,Jedi fiel,1
+3291006540.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3291002672.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$150,000+",some college or associate degree,east north central,1,1.4,Explorador casual,3
+3291001879.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$50,000 - $99,999",bachelor degree,west south central,1,,Territorio neutral,4
+3290999912.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,"$0 - $24,999",bachelor degree,west south central,1,1.5555555555555556,Explorador casual,3
+3290998457.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$100,000 - $149,999",bachelor degree,east north central,1,,Territorio neutral,4
+3290996933.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,18-29,"$50,000 - $99,999",some college or associate degree,pacific,1,1.3571428571428572,Jedi fiel,1
+3290994001.0,yes,1,no,0.0,not_fan,5,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,male,18-29,"$0 - $24,999",high school degree,middle atlantic,1,1.2142857142857142,Explorador casual,3
+3290992477.0,yes,1,yes,1.0,fan,5,high_consumption,1,han,no,0.0,,,yes,1.0,female,18-29,"$25,000 - $49,999",bachelor degree,east north central,1,1.0833333333333333,Jedi fiel,1
+3290992371.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$25,000 - $49,999",bachelor degree,west south central,1,,Territorio neutral,4
+3290987996.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,male,30-44,"$0 - $24,999",graduate degree,mountain,1,1.5384615384615383,Jedi fiel,1
+3290984063.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,,some college or associate degree,south atlantic,1,1.1111111111111112,Explorador casual,3
+3290980789.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290977827.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,18-29,,some college or associate degree,pacific,1,2.0,Explorador casual,3
+3290976539.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290975724.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",high school degree,mountain,1,0.8571428571428571,Jedi fiel,1
+3290973695.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,female,18-29,,some college or associate degree,middle atlantic,1,0.5714285714285714,Jedi fiel,1
+3290973177.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$25,000 - $49,999",bachelor degree,south atlantic,1,,Territorio neutral,4
+3290973120.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,,some college or associate degree,east north central,1,,Territorio neutral,4
+3290972257.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$100,000 - $149,999",graduate degree,pacific,1,1.6923076923076923,Jedi fiel,1
+3290971794.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,,graduate degree,east south central,1,1.0714285714285714,Jedi fiel,1
+3290971358.0,yes,1,yes,1.0,fan,2,low_consumption,1,greedo,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",some college or associate degree,pacific,1,1.0,Rebelde nostalgico,2
+3290965482.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,,graduate degree,middle atlantic,1,,Territorio neutral,4
+3290961855.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$25,000 - $49,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3290961497.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,18-29,"$50,000 - $99,999",bachelor degree,east north central,1,0.6428571428571429,Jedi fiel,1
+3290953060.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",graduate degree,west north central,1,,Territorio neutral,4
+3290949606.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290948002.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,yes,1.0,no,0.0,no,0.0,female,> 60,"$0 - $24,999",graduate degree,south atlantic,1,1.875,Explorador casual,3
+3290947136.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,"$25,000 - $49,999",some college or associate degree,west north central,1,1.2142857142857142,Explorador casual,3
+3290947011.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,18-29,"$100,000 - $149,999",high school degree,middle atlantic,1,1.0,Explorador casual,3
+3290946211.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,,graduate degree,east north central,1,,Territorio neutral,4
+3290944858.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,30-44,"$100,000 - $149,999",some college or associate degree,pacific,1,1.5714285714285714,Jedi fiel,1
+3290944288.0,yes,1,yes,1.0,fan,5,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,male,45-60,,bachelor degree,west north central,1,1.2307692307692308,Jedi fiel,1
+3290941824.0,yes,1,yes,1.0,fan,5,high_consumption,1,greedo,no,0.0,,,no,0.0,,,,,,0,1.6666666666666667,Jedi fiel,1
+3290939696.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290934328.0,yes,1,no,0.0,not_fan,2,low_consumption,1,han,no,0.0,,,no,0.0,male,45-60,"$50,000 - $99,999",bachelor degree,east north central,1,1.0714285714285714,Explorador casual,3
+3290929229.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,30-44,"$50,000 - $99,999",graduate degree,pacific,1,0.7142857142857143,Jedi fiel,1
+3290927126.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,,some college or associate degree,west south central,1,,Territorio neutral,4
+3290926407.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$50,000 - $99,999",bachelor degree,west south central,1,,Territorio neutral,4
+3290922858.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,yes,1.0,no,0.0,no,0.0,male,> 60,"$50,000 - $99,999",high school degree,middle atlantic,1,1.1428571428571428,Explorador casual,3
+3290920752.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$0 - $24,999",some college or associate degree,pacific,1,0.0,Territorio neutral,4
+3290919823.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,30-44,,graduate degree,west south central,1,0.8571428571428571,Jedi fiel,1
+3290919419.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,45-60,,bachelor degree,west south central,1,1.0714285714285714,Jedi fiel,1
+3290917153.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,30-44,"$150,000+",graduate degree,east north central,1,0.4285714285714285,Jedi fiel,1
+3290917131.0,yes,1,yes,1.0,fan,6,high_consumption,1,,,,,,,,,,,,,0,0.9230769230769232,Jedi fiel,1
+3290916554.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,female,18-29,,some college or associate degree,mountain,1,1.0714285714285714,Jedi fiel,1
+3290915885.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,45-60,,some college or associate degree,pacific,1,1.4285714285714286,Jedi fiel,1
+3290912485.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290912014.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",some college or associate degree,east north central,1,1.2,Explorador casual,3
+3290910069.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,,some college or associate degree,new england,1,0.6153846153846154,Jedi fiel,1
+3290906086.0,yes,1,yes,1.0,fan,5,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,,graduate degree,east north central,1,0.7142857142857143,Jedi fiel,1
+3290906022.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$100,000 - $149,999",some college or associate degree,mountain,1,0.6666666666666666,Explorador casual,3
+3290903423.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",graduate degree,mountain,1,0.9090909090909092,Explorador casual,3
+3290902880.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$150,000+",graduate degree,south atlantic,1,1.2857142857142858,Jedi fiel,1
+3290901027.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,45-60,"$0 - $24,999",graduate degree,east north central,1,0.4615384615384615,Jedi fiel,1
+3290896982.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290893301.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$150,000+",bachelor degree,east north central,1,,Territorio neutral,4
+3290889443.0,yes,1,no,0.0,not_fan,2,low_consumption,1,han,no,0.0,,,no,0.0,female,18-29,"$50,000 - $99,999",bachelor degree,east north central,1,0.9285714285714286,Explorador casual,3
+3290888715.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290888303.0,yes,1,yes,1.0,fan,5,high_consumption,1,han,no,0.0,,,yes,1.0,male,18-29,,high school degree,east north central,1,0.6428571428571429,Jedi fiel,1
+3290888102.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$25,000 - $49,999",graduate degree,mountain,1,1.375,Explorador casual,3
+3290888079.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,,some college or associate degree,middle atlantic,1,1.0714285714285714,Jedi fiel,1
+3290884427.0,yes,1,yes,1.0,fan,5,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,male,45-60,,bachelor degree,pacific,1,1.2142857142857142,Jedi fiel,1
+3290881566.0,yes,1,yes,1.0,fan,5,high_consumption,1,han,no,0.0,,,no,0.0,female,> 60,"$100,000 - $149,999",graduate degree,pacific,1,0.7692307692307693,Jedi fiel,1
+3290879019.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$25,000 - $49,999",graduate degree,east south central,1,0.9285714285714286,Jedi fiel,1
+3290878766.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,45-60,"$150,000+",bachelor degree,south atlantic,1,1.1538461538461535,Jedi fiel,1
+3290874545.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,,,,1,,Territorio neutral,4
+3290873342.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,30-44,"$50,000 - $99,999",bachelor degree,middle atlantic,1,0.5714285714285714,Jedi fiel,1
+3290871307.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$100,000 - $149,999",graduate degree,pacific,1,0.8571428571428571,Jedi fiel,1
+3290869696.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$50,000 - $99,999",bachelor degree,east north central,1,,Territorio neutral,4
+3290863729.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,18-29,"$100,000 - $149,999",some college or associate degree,east north central,1,0.8571428571428571,Jedi fiel,1
+3290863193.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,45-60,,bachelor degree,south atlantic,1,1.5,Jedi fiel,1
+3290862050.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290860908.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,male,45-60,"$0 - $24,999",graduate degree,mountain,1,1.818181818181818,Jedi fiel,1
+3290860842.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,,some college or associate degree,south atlantic,1,0.8571428571428571,Explorador casual,3
+3290860558.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,30-44,,bachelor degree,new england,1,1.7857142857142858,Jedi fiel,1
+3290858689.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290858543.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,no,0.0,yes,1.0,male,45-60,"$150,000+",graduate degree,new england,1,1.3333333333333333,Jedi fiel,1
+3290855818.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,45-60,,high school degree,east north central,1,1.5,Jedi fiel,1
+3290854802.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,30-44,"$0 - $24,999",high school degree,pacific,1,1.0,Jedi fiel,1
+3290853559.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$25,000 - $49,999",some college or associate degree,east south central,1,0.3636363636363636,Explorador casual,3
+3290853267.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290852271.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$0 - $24,999",graduate degree,middle atlantic,1,,Territorio neutral,4
+3290848617.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,45-60,"$100,000 - $149,999",bachelor degree,west south central,1,0.4285714285714285,Jedi fiel,1
+3290846848.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,> 60,"$100,000 - $149,999",some college or associate degree,east north central,1,1.1428571428571428,Jedi fiel,1
+3290846769.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,,bachelor degree,new england,1,1.1538461538461535,Explorador casual,3
+3290846466.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,45-60,"$25,000 - $49,999",bachelor degree,south atlantic,1,1.9285714285714288,Jedi fiel,1
+3290845752.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",bachelor degree,mountain,1,0.9166666666666666,Rebelde nostalgico,2
+3290845367.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,no,0.0,yes,1.0,male,30-44,"$0 - $24,999",high school degree,south atlantic,1,0.7142857142857143,Jedi fiel,1
+3290845046.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,> 60,"$25,000 - $49,999",some college or associate degree,west north central,1,1.0714285714285714,Jedi fiel,1
+3290844577.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$50,000 - $99,999",some college or associate degree,middle atlantic,1,,Territorio neutral,4
+3290841815.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",bachelor degree,east south central,1,1.2,Explorador casual,3
+3290840905.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$100,000 - $149,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3290836653.0,yes,1,no,0.0,not_fan,2,low_consumption,1,greedo,no,0.0,,,no,0.0,female,18-29,"$50,000 - $99,999",bachelor degree,west south central,1,1.2142857142857142,Explorador casual,3
+3290834007.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,,,,,,0,0.0,Explorador casual,3
+3290829888.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,45-60,"$100,000 - $149,999",bachelor degree,south atlantic,1,0.4285714285714285,Explorador casual,3
+3290828902.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,,graduate degree,south atlantic,1,,Territorio neutral,4
+3290824340.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$150,000+",some college or associate degree,pacific,1,,Territorio neutral,4
+3290821620.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",graduate degree,south atlantic,1,0.6,Explorador casual,3
+3290819415.0,yes,1,no,0.0,not_fan,5,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,30-44,"$0 - $24,999",some college or associate degree,south atlantic,1,1.0,Explorador casual,3
+3290815080.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",bachelor degree,middle atlantic,1,,Territorio neutral,4
+3290812610.0,yes,1,no,0.0,not_fan,1,low_consumption,1,greedo,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",graduate degree,west north central,1,1.1111111111111112,Territorio neutral,4
+3290810177.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,yes,1.0,female,30-44,"$50,000 - $99,999",graduate degree,east south central,1,0.8461538461538461,Rebelde nostalgico,2
+3290810023.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",graduate degree,east north central,1,1.25,Explorador casual,3
+3290807769.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$0 - $24,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3290806200.0,yes,1,yes,1.0,fan,6,high_consumption,1,,,,,,,,,,,,,0,1.3076923076923077,Jedi fiel,1
+3290805125.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$150,000+",graduate degree,south atlantic,1,1.75,Explorador casual,3
+3290804128.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290804008.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,45-60,,bachelor degree,mountain,1,0.6428571428571429,Jedi fiel,1
+3290799403.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,yes,1.0,no,0.0,yes,1.0,male,45-60,"$0 - $24,999",some college or associate degree,middle atlantic,1,-2.0,Territorio neutral,4
+3290798641.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$25,000 - $49,999",some college or associate degree,mountain,1,,Territorio neutral,4
+3290798064.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$50,000 - $99,999",graduate degree,south atlantic,1,1.5,Jedi fiel,1
+3290796650.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,,bachelor degree,west north central,1,1.8333333333333333,Rebelde nostalgico,2
+3290792507.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,18-29,"$25,000 - $49,999",bachelor degree,pacific,1,1.0714285714285714,Jedi fiel,1
+3290787286.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,18-29,,less than high school degree,pacific,1,1.0833333333333333,Jedi fiel,1
+3290785928.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,"$0 - $24,999",bachelor degree,pacific,1,1.0769230769230769,Jedi fiel,1
+3290782952.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$25,000 - $49,999",high school degree,middle atlantic,1,,Territorio neutral,4
+3290781544.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$100,000 - $149,999",bachelor degree,west north central,1,0.7142857142857143,Jedi fiel,1
+3290781284.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290781039.0,yes,1,yes,1.0,fan,5,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,> 60,"$100,000 - $149,999",bachelor degree,west south central,1,0.9285714285714286,Jedi fiel,1
+3290779524.0,yes,1,yes,1.0,fan,3,medium_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,"$25,000 - $49,999",bachelor degree,west south central,1,1.3571428571428572,Rebelde nostalgico,2
+3290779140.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,han,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",some college or associate degree,middle atlantic,1,1.3076923076923077,Explorador casual,3
+3290778828.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$50,000 - $99,999",some college or associate degree,pacific,1,0.5,Explorador casual,3
+3290777129.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290773277.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,male,30-44,"$150,000+",bachelor degree,south atlantic,1,1.2142857142857142,Jedi fiel,1
+3290769012.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$50,000 - $99,999",some college or associate degree,west south central,1,,Territorio neutral,4
+3290767951.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290767535.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$150,000+",graduate degree,east north central,1,0.2857142857142857,Explorador casual,3
+3290765210.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,yes,1.0,male,45-60,"$0 - $24,999",high school degree,middle atlantic,1,,Territorio neutral,4
+3290762924.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",some college or associate degree,west north central,1,1.4,Territorio neutral,4
+3290761823.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$0 - $24,999",high school degree,pacific,1,,Territorio neutral,4
+3290760722.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,,some college or associate degree,east north central,1,1.5555555555555556,Rebelde nostalgico,2
+3290759512.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$25,000 - $49,999",some college or associate degree,east south central,1,2.0,Rebelde nostalgico,2
+3290758362.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,18-29,,some college or associate degree,middle atlantic,1,1.0714285714285714,Jedi fiel,1
+3290757230.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$25,000 - $49,999",high school degree,pacific,1,0.0,Territorio neutral,4
+3290756394.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$25,000 - $49,999",bachelor degree,middle atlantic,1,1.1428571428571428,Jedi fiel,1
+3290755451.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$50,000 - $99,999",bachelor degree,west north central,1,2.0,Jedi fiel,1
+3290753390.0,yes,1,no,0.0,not_fan,5,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,45-60,"$0 - $24,999",some college or associate degree,new england,1,-0.2307692307692307,Explorador casual,3
+3290749764.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,45-60,"$150,000+",graduate degree,middle atlantic,1,1.0,Jedi fiel,1
+3290749229.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$0 - $24,999",some college or associate degree,east north central,1,2.0,Territorio neutral,4
+3290746853.0,yes,1,no,0.0,not_fan,2,low_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,female,45-60,"$0 - $24,999",bachelor degree,south atlantic,1,0.4166666666666667,Explorador casual,3
+3290744027.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290741994.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,male,30-44,,some college or associate degree,mountain,1,0.7857142857142857,Jedi fiel,1
+3290741405.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,"$100,000 - $149,999",bachelor degree,pacific,1,1.3571428571428572,Jedi fiel,1
+3290740448.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,"$150,000+",bachelor degree,mountain,1,0.7142857142857143,Jedi fiel,1
+3290739967.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,female,45-60,,high school degree,west north central,1,1.8571428571428568,Jedi fiel,1
+3290739235.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$150,000+",bachelor degree,south atlantic,1,0.5555555555555556,Explorador casual,3
+3290738262.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$25,000 - $49,999",high school degree,east south central,1,,Territorio neutral,4
+3290737104.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$0 - $24,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3290736072.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,no,0.0,male,45-60,"$150,000+",bachelor degree,pacific,1,1.1428571428571428,Jedi fiel,1
+3290734874.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,"$25,000 - $49,999",bachelor degree,west south central,1,1.0,Jedi fiel,1
+3290733932.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$25,000 - $49,999",bachelor degree,pacific,1,1.0,Territorio neutral,4
+3290733316.0,yes,1,yes,1.0,fan,5,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$25,000 - $49,999",bachelor degree,east north central,1,0.5384615384615384,Jedi fiel,1
+3290732383.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",high school degree,mountain,1,0.5714285714285714,Jedi fiel,1
+3290727763.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$100,000 - $149,999",graduate degree,east north central,1,1.0714285714285714,Jedi fiel,1
+3290726075.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,> 60,"$50,000 - $99,999",some college or associate degree,new england,1,1.1428571428571428,Jedi fiel,1
+3290719847.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290718359.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290717899.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,45-60,"$150,000+",bachelor degree,east north central,1,1.0714285714285714,Jedi fiel,1
+3290717372.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$25,000 - $49,999",graduate degree,east south central,1,,Territorio neutral,4
+3290714941.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$0 - $24,999",high school degree,west south central,1,1.0,Explorador casual,3
+3290714484.0,yes,1,yes,1.0,fan,5,high_consumption,1,i don't understand this question,yes,1.0,no,0.0,yes,1.0,male,45-60,"$100,000 - $149,999",bachelor degree,west north central,1,0.6428571428571429,Jedi fiel,1
+3290714430.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$0 - $24,999",some college or associate degree,west south central,1,,Territorio neutral,4
+3290714378.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$50,000 - $99,999",graduate degree,mountain,1,1.1428571428571428,Jedi fiel,1
+3290712204.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,greedo,no,0.0,,,no,0.0,male,45-60,"$100,000 - $149,999",high school degree,east north central,1,1.1428571428571428,Explorador casual,3
+3290711898.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,18-29,"$25,000 - $49,999",bachelor degree,west south central,1,,Territorio neutral,4
+3290711882.0,yes,1,no,0.0,not_fan,2,low_consumption,1,han,no,0.0,,,yes,1.0,female,18-29,,some college or associate degree,south atlantic,1,1.1428571428571428,Explorador casual,3
+3290711757.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290711487.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,30-44,"$100,000 - $149,999",bachelor degree,east north central,1,1.0,Explorador casual,3
+3290711262.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,yes,1.0,no,0.0,no,0.0,female,45-60,"$50,000 - $99,999",some college or associate degree,west north central,1,-1.5,Explorador casual,3
+3290708664.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$0 - $24,999",bachelor degree,south atlantic,1,1.0,Explorador casual,3
+3290707402.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290706716.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$100,000 - $149,999",bachelor degree,west south central,1,1.5,Explorador casual,3
+3290706611.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$25,000 - $49,999",graduate degree,south atlantic,1,0.8461538461538461,Explorador casual,3
+3290703210.0,yes,1,no,0.0,not_fan,5,high_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$25,000 - $49,999",bachelor degree,mountain,1,-0.0714285714285714,Explorador casual,3
+3290701442.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290700285.0,yes,1,yes,1.0,fan,6,high_consumption,1,,,,,,,,,,,,,0,2.0,Jedi fiel,1
+3290700214.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$25,000 - $49,999",some college or associate degree,mountain,1,2.0,Territorio neutral,4
+3290700030.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$0 - $24,999",some college or associate degree,south atlantic,1,1.0,Rebelde nostalgico,2
+3290699410.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,,bachelor degree,pacific,1,1.2142857142857142,Jedi fiel,1
+3290695784.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,"$100,000 - $149,999",graduate degree,pacific,1,0.3571428571428571,Jedi fiel,1
+3290695316.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290694269.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",bachelor degree,west south central,1,,Territorio neutral,4
+3290693095.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290692020.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",some college or associate degree,mountain,1,,Territorio neutral,4
+3290691758.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,no,0.0,no,0.0,male,18-29,"$0 - $24,999",graduate degree,west south central,1,2.0,Jedi fiel,1
+3290689343.0,yes,1,no,0.0,not_fan,1,low_consumption,1,greedo,no,0.0,,,no,0.0,male,45-60,"$50,000 - $99,999",high school degree,east north central,1,0.7142857142857143,Territorio neutral,4
+3290687981.0,yes,1,yes,1.0,fan,6,high_consumption,1,,,,,,,,,,,,,0,0.5384615384615384,Jedi fiel,1
+3290687830.0,yes,1,yes,1.0,fan,6,high_consumption,0,han,no,0.0,,,yes,1.0,male,30-44,"$100,000 - $149,999",bachelor degree,middle atlantic,1,1.3076923076923077,Jedi fiel,1
+3290686887.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$150,000+",bachelor degree,pacific,1,,Territorio neutral,4
+3290686362.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$50,000 - $99,999",bachelor degree,west north central,1,,Territorio neutral,4
+3290685885.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290684868.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",graduate degree,mountain,1,0.7142857142857143,Explorador casual,3
+3290684287.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$100,000 - $149,999",graduate degree,east north central,1,1.6428571428571428,Jedi fiel,1
+3290681574.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290678952.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,30-44,"$100,000 - $149,999",graduate degree,west south central,1,0.7142857142857143,Territorio neutral,4
+3290678515.0,yes,1,yes,1.0,fan,5,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$50,000 - $99,999",graduate degree,east north central,1,1.2142857142857142,Jedi fiel,1
+3290676695.0,yes,1,yes,1.0,fan,1,low_consumption,1,i don't understand this question,yes,1.0,no,0.0,no,0.0,male,45-60,"$25,000 - $49,999",some college or associate degree,mountain,1,1.3076923076923077,Rebelde nostalgico,2
+3290674534.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,,high school degree,middle atlantic,1,,Territorio neutral,4
+3290667297.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$50,000 - $99,999",some college or associate degree,west north central,1,0.0,Territorio neutral,4
+3290664543.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$25,000 - $49,999",some college or associate degree,pacific,1,1.1428571428571428,Explorador casual,3
+3290664463.0,yes,1,yes,1.0,fan,4,medium_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,male,45-60,"$50,000 - $99,999",bachelor degree,east south central,1,1.2307692307692308,Rebelde nostalgico,2
+3290664069.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290662118.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,30-44,"$150,000+",graduate degree,east north central,1,0.8571428571428571,Jedi fiel,1
+3290661650.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,18-29,"$150,000+",bachelor degree,middle atlantic,1,0.7142857142857143,Jedi fiel,1
+3290661587.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290661135.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,male,30-44,"$50,000 - $99,999",bachelor degree,mountain,1,1.1428571428571428,Jedi fiel,1
+3290659818.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,30-44,"$50,000 - $99,999",bachelor degree,east north central,1,0.9285714285714286,Jedi fiel,1
+3290659314.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,30-44,"$0 - $24,999",graduate degree,south atlantic,1,1.2857142857142858,Rebelde nostalgico,2
+3290655784.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$100,000 - $149,999",some college or associate degree,south atlantic,1,0.6428571428571429,Explorador casual,3
+3290654597.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,,graduate degree,east north central,1,1.6428571428571428,Jedi fiel,1
+3290652558.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$50,000 - $99,999",bachelor degree,west north central,1,,Territorio neutral,4
+3290651085.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290650590.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,18-29,,bachelor degree,middle atlantic,1,0.5714285714285714,Jedi fiel,1
+3290644326.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290640323.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,greedo,no,0.0,,,no,0.0,male,30-44,"$0 - $24,999",bachelor degree,pacific,1,0.9090909090909092,Explorador casual,3
+3290638529.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,45-60,"$25,000 - $49,999",bachelor degree,east north central,1,0.0,Explorador casual,3
+3290634681.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290631608.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,female,45-60,,,west south central,1,0.0,Explorador casual,3
+3290630470.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,greedo,no,0.0,,,no,0.0,female,> 60,"$150,000+",graduate degree,east south central,1,1.2857142857142858,Explorador casual,3
+3290630282.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,> 60,"$25,000 - $49,999",some college or associate degree,mountain,1,1.3571428571428572,Jedi fiel,1
+3290628419.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290627850.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,45-60,"$100,000 - $149,999",bachelor degree,pacific,1,1.2857142857142858,Jedi fiel,1
+3290627681.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$100,000 - $149,999",graduate degree,east north central,1,1.2142857142857142,Jedi fiel,1
+3290626609.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$25,000 - $49,999",some college or associate degree,south atlantic,1,,Territorio neutral,4
+3290625814.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290624447.0,yes,1,yes,1.0,fan,5,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,45-60,"$50,000 - $99,999",some college or associate degree,pacific,1,1.3571428571428572,Jedi fiel,1
+3290620991.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,45-60,"$25,000 - $49,999",some college or associate degree,east north central,1,0.5,Jedi fiel,1
+3290617461.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$150,000+",graduate degree,south atlantic,1,1.6428571428571428,Jedi fiel,1
+3290611875.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,45-60,"$100,000 - $149,999",bachelor degree,south atlantic,1,1.0714285714285714,Jedi fiel,1
+3290611716.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,male,45-60,"$100,000 - $149,999",bachelor degree,west north central,1,0.5555555555555556,Explorador casual,3
+3290602490.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290601892.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",some college or associate degree,new england,1,0.4285714285714285,Jedi fiel,1
+3290601518.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$0 - $24,999",graduate degree,east north central,1,,Territorio neutral,4
+3290600680.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$150,000+",bachelor degree,middle atlantic,1,0.5714285714285714,Rebelde nostalgico,2
+3290600559.0,yes,1,yes,1.0,fan,2,low_consumption,1,han,no,0.0,,,yes,1.0,female,> 60,,high school degree,south atlantic,1,0.9285714285714286,Rebelde nostalgico,2
+3290600057.0,yes,1,yes,1.0,fan,1,low_consumption,1,greedo,no,0.0,,,yes,1.0,female,30-44,"$25,000 - $49,999",graduate degree,west south central,1,0.6923076923076923,Rebelde nostalgico,2
+3290598307.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$100,000 - $149,999",some college or associate degree,east south central,1,1.4,Explorador casual,3
+3290597099.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,female,30-44,"$100,000 - $149,999",bachelor degree,east north central,1,1.7142857142857142,Jedi fiel,1
+3290593953.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,30-44,"$50,000 - $99,999",bachelor degree,pacific,1,1.1428571428571428,Jedi fiel,1
+3290582716.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,"$100,000 - $149,999",graduate degree,south atlantic,1,0.2307692307692307,Explorador casual,3
+3290572568.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$25,000 - $49,999",high school degree,south atlantic,1,0.2142857142857142,Explorador casual,3
+3290572073.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,30-44,"$50,000 - $99,999",bachelor degree,south atlantic,1,1.5714285714285714,Jedi fiel,1
+3290569001.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,yes,1.0,male,> 60,"$25,000 - $49,999",some college or associate degree,middle atlantic,1,1.2142857142857142,Rebelde nostalgico,2
+3290568339.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,18-29,"$50,000 - $99,999",some college or associate degree,pacific,1,0.5714285714285714,Jedi fiel,1
+3290565779.0,yes,1,yes,1.0,fan,4,medium_consumption,1,greedo,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",some college or associate degree,west south central,1,1.4615384615384617,Rebelde nostalgico,2
+3290565768.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,18-29,"$0 - $24,999",high school degree,new england,1,1.9285714285714288,Jedi fiel,1
+3290565487.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290561583.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$150,000+",graduate degree,pacific,1,1.5714285714285714,Rebelde nostalgico,2
+3290561192.0,yes,1,yes,1.0,fan,5,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,30-44,"$50,000 - $99,999",bachelor degree,west south central,1,1.4285714285714286,Jedi fiel,1
+3290555153.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,18-29,"$150,000+",bachelor degree,west south central,1,,Territorio neutral,4
+3290553558.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290552963.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,18-29,"$50,000 - $99,999",bachelor degree,new england,1,0.6428571428571429,Explorador casual,3
+3290551809.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$150,000+",bachelor degree,pacific,1,1.3076923076923077,Explorador casual,3
+3290547819.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$0 - $24,999",bachelor degree,middle atlantic,1,,Territorio neutral,4
+3290544886.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,yes,1.0,female,> 60,"$150,000+",bachelor degree,pacific,1,,Territorio neutral,4
+3290544865.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,45-60,"$50,000 - $99,999",some college or associate degree,pacific,1,1.7692307692307692,Jedi fiel,1
+3290544012.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290539653.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,female,18-29,"$0 - $24,999",some college or associate degree,east north central,1,1.1428571428571428,Jedi fiel,1
+3290538433.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$25,000 - $49,999",bachelor degree,new england,1,1.0909090909090908,Rebelde nostalgico,2
+3290536294.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$100,000 - $149,999",high school degree,new england,1,,Territorio neutral,4
+3290532429.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,18-29,"$50,000 - $99,999",graduate degree,pacific,1,0.75,Jedi fiel,1
+3290531735.0,yes,1,yes,1.0,fan,4,medium_consumption,1,greedo,no,0.0,,,yes,1.0,male,45-60,"$50,000 - $99,999",graduate degree,west south central,1,1.6153846153846154,Rebelde nostalgico,2
+3290526356.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$25,000 - $49,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3290525782.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$100,000 - $149,999",graduate degree,south atlantic,1,1.625,Territorio neutral,4
+3290524413.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,30-44,"$0 - $24,999",some college or associate degree,east north central,1,0.5714285714285714,Explorador casual,3
+3290519884.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,45-60,,bachelor degree,mountain,1,0.9230769230769232,Rebelde nostalgico,2
+3290515688.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,,graduate degree,pacific,1,1.8888888888888888,Rebelde nostalgico,2
+3290511533.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,> 60,,bachelor degree,south atlantic,1,1.4285714285714286,Explorador casual,3
+3290506830.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,30-44,,graduate degree,mountain,1,0.6428571428571429,Jedi fiel,1
+3290506333.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,,bachelor degree,pacific,1,1.0909090909090908,Explorador casual,3
+3290505081.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,female,18-29,"$0 - $24,999",some college or associate degree,south atlantic,1,0.4285714285714285,Jedi fiel,1
+3290500457.0,yes,1,yes,1.0,fan,3,medium_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$100,000 - $149,999",some college or associate degree,south atlantic,1,1.0,Rebelde nostalgico,2
+3290499954.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$25,000 - $49,999",some college or associate degree,middle atlantic,1,1.2727272727272727,Explorador casual,3
+3290499953.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290496822.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,30-44,,bachelor degree,west north central,1,1.3571428571428572,Jedi fiel,1
+3290491807.0,yes,1,yes,1.0,fan,3,medium_consumption,1,han,no,0.0,,,yes,1.0,,,,,,0,1.0,Rebelde nostalgico,2
+3290477551.0,yes,1,yes,1.0,fan,5,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,> 60,,some college or associate degree,east north central,1,1.8333333333333333,Jedi fiel,1
+3290475079.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$100,000 - $149,999",bachelor degree,south atlantic,1,,Territorio neutral,4
+3290474953.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,> 60,,graduate degree,west south central,1,0.5,Explorador casual,3
+3290471553.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,45-60,"$0 - $24,999",bachelor degree,new england,1,1.8571428571428568,Jedi fiel,1
+3290467062.0,yes,1,yes,1.0,fan,5,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$0 - $24,999",bachelor degree,new england,1,0.7142857142857143,Jedi fiel,1
+3290467000.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",graduate degree,east north central,1,0.75,Territorio neutral,4
+3290464481.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$50,000 - $99,999",some college or associate degree,middle atlantic,1,1.0769230769230769,Rebelde nostalgico,2
+3290463350.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$100,000 - $149,999",high school degree,pacific,1,,Territorio neutral,4
+3290461599.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,> 60,"$50,000 - $99,999",some college or associate degree,south atlantic,1,1.2857142857142858,Jedi fiel,1
+3290461455.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290448644.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$50,000 - $99,999",bachelor degree,pacific,1,1.75,Explorador casual,3
+3290444421.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,female,18-29,"$0 - $24,999",bachelor degree,south atlantic,1,0.6428571428571429,Jedi fiel,1
+3290439063.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,18-29,"$25,000 - $49,999",some college or associate degree,south atlantic,1,0.3571428571428571,Jedi fiel,1
+3290437717.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,,graduate degree,pacific,1,1.8888888888888888,Explorador casual,3
+3290432874.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290432121.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,,some college or associate degree,east north central,1,,Territorio neutral,4
+3290428766.0,yes,1,no,0.0,not_fan,2,low_consumption,1,han,no,0.0,,,no,0.0,female,30-44,,some college or associate degree,middle atlantic,1,1.0,Explorador casual,3
+3290427764.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,yes,1.0,yes,1.0,female,> 60,"$100,000 - $149,999",some college or associate degree,east south central,1,1.7142857142857142,Jedi fiel,1
+3290426384.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,no,0.0,yes,1.0,male,45-60,"$100,000 - $149,999",bachelor degree,east north central,1,1.6153846153846154,Jedi fiel,1
+3290426289.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290423155.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$150,000+",graduate degree,west south central,1,0.5,Jedi fiel,1
+3290421738.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",some college or associate degree,pacific,1,-0.1428571428571428,Jedi fiel,1
+3290417966.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$25,000 - $49,999",some college or associate degree,east north central,1,1.7777777777777777,Rebelde nostalgico,2
+3290412412.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290411058.0,yes,1,yes,1.0,fan,2,low_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$100,000 - $149,999",high school degree,east north central,1,1.8333333333333333,Rebelde nostalgico,2
+3290409431.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,female,> 60,"$25,000 - $49,999",high school degree,east north central,1,0.7857142857142857,Explorador casual,3
+3290409075.0,yes,1,no,0.0,not_fan,5,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$150,000+",graduate degree,middle atlantic,1,0.7272727272727273,Explorador casual,3
+3290407409.0,yes,1,yes,1.0,fan,4,medium_consumption,1,greedo,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",bachelor degree,mountain,1,1.5,Rebelde nostalgico,2
+3290401956.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,female,30-44,"$150,000+",bachelor degree,pacific,1,0.9230769230769232,Jedi fiel,1
+3290398978.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,,graduate degree,south atlantic,1,,Territorio neutral,4
+3290394872.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,30-44,"$50,000 - $99,999",bachelor degree,east south central,1,1.7857142857142858,Jedi fiel,1
+3290392454.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,45-60,,some college or associate degree,middle atlantic,1,1.3571428571428572,Jedi fiel,1
+3290392264.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,female,> 60,"$150,000+",some college or associate degree,south atlantic,1,1.2142857142857142,Explorador casual,3
+3290391985.0,yes,1,yes,1.0,fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$50,000 - $99,999",graduate degree,south atlantic,1,1.2,Rebelde nostalgico,2
+3290386524.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$50,000 - $99,999",graduate degree,west south central,1,0.9285714285714286,Rebelde nostalgico,2
+3290380140.0,yes,1,no,0.0,not_fan,0,no_movies_seen,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$25,000 - $49,999",bachelor degree,east north central,1,2.0,Territorio neutral,4
+3290374523.0,yes,1,yes,1.0,fan,5,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,male,> 60,"$25,000 - $49,999",some college or associate degree,new england,1,1.0,Jedi fiel,1
+3290371734.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,,some college or associate degree,south atlantic,1,,Territorio neutral,4
+3290371532.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290371101.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290365225.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,yes,1.0,female,> 60,,graduate degree,new england,1,0.75,Rebelde nostalgico,2
+3290364952.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,45-60,"$0 - $24,999",some college or associate degree,east north central,1,1.25,Jedi fiel,1
+3290359700.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$100,000 - $149,999",some college or associate degree,pacific,1,,Territorio neutral,4
+3290358751.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$150,000+",graduate degree,middle atlantic,1,,Territorio neutral,4
+3290350512.0,yes,1,yes,1.0,fan,5,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,18-29,"$50,000 - $99,999",bachelor degree,middle atlantic,1,0.7142857142857143,Jedi fiel,1
+3290347473.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,18-29,"$25,000 - $49,999",some college or associate degree,south atlantic,1,0.5714285714285714,Jedi fiel,1
+3290344571.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,male,> 60,"$50,000 - $99,999",bachelor degree,east north central,1,1.2142857142857142,Jedi fiel,1
+3290343366.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",graduate degree,new england,1,1.0769230769230769,Jedi fiel,1
+3290342169.0,yes,1,no,0.0,not_fan,2,low_consumption,1,han,no,0.0,,,no,0.0,male,18-29,"$50,000 - $99,999",some college or associate degree,west north central,1,1.4545454545454546,Explorador casual,3
+3290342102.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$150,000+",bachelor degree,west north central,1,1.8,Rebelde nostalgico,2
+3290340804.0,yes,1,yes,1.0,fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$50,000 - $99,999",high school degree,south atlantic,1,2.0,Rebelde nostalgico,2
+3290337251.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",graduate degree,south atlantic,1,2.0,Jedi fiel,1
+3290335343.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290329580.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,,,new england,1,,Territorio neutral,4
+3290328309.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",bachelor degree,south atlantic,1,1.1,Rebelde nostalgico,2
+3290325811.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,30-44,"$25,000 - $49,999",bachelor degree,west south central,1,0.8571428571428571,Jedi fiel,1
+3290324518.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$25,000 - $49,999",some college or associate degree,south atlantic,1,1.5454545454545454,Explorador casual,3
+3290320007.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,30-44,"$25,000 - $49,999",bachelor degree,new england,1,1.7142857142857142,Jedi fiel,1
+3290318577.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$25,000 - $49,999",some college or associate degree,pacific,1,0.6923076923076923,Explorador casual,3
+3290317691.0,yes,1,yes,1.0,fan,5,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,female,30-44,"$150,000+",graduate degree,pacific,1,0.8333333333333334,Jedi fiel,1
+3290316632.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,,high school degree,south atlantic,1,1.0,Jedi fiel,1
+3290316375.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,> 60,"$0 - $24,999",some college or associate degree,pacific,1,2.0,Jedi fiel,1
+3290315336.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,female,45-60,"$100,000 - $149,999",bachelor degree,middle atlantic,1,1.7272727272727273,Jedi fiel,1
+3290310304.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$0 - $24,999",high school degree,west south central,1,,Territorio neutral,4
+3290309722.0,yes,1,yes,1.0,fan,3,medium_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,female,> 60,"$100,000 - $149,999",bachelor degree,pacific,1,1.5,Rebelde nostalgico,2
+3290309711.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,45-60,"$50,000 - $99,999",graduate degree,pacific,1,1.25,Jedi fiel,1
+3290304610.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290297761.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$25,000 - $49,999",some college or associate degree,south atlantic,1,,Territorio neutral,4
+3290296317.0,yes,1,no,0.0,not_fan,2,low_consumption,1,greedo,no,0.0,,,no,0.0,female,45-60,"$100,000 - $149,999",bachelor degree,west south central,1,1.5555555555555556,Explorador casual,3
+3290295809.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,,graduate degree,east north central,1,1.4285714285714286,Explorador casual,3
+3290294922.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$100,000 - $149,999",graduate degree,east north central,1,,Territorio neutral,4
+3290294142.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290292697.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,female,45-60,"$150,000+",bachelor degree,mountain,1,0.6428571428571429,Jedi fiel,1
+3290289176.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290287101.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",high school degree,south atlantic,1,,Territorio neutral,4
+3290283817.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,no,0.0,yes,1.0,female,> 60,,high school degree,pacific,1,0.7142857142857143,Jedi fiel,1
+3290283139.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,female,> 60,"$50,000 - $99,999",high school degree,east north central,1,1.5714285714285714,Jedi fiel,1
+3290280642.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$0 - $24,999",graduate degree,west south central,1,,Territorio neutral,4
+3290279732.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",high school degree,middle atlantic,1,0.2142857142857142,Explorador casual,3
+3290269777.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,female,> 60,"$50,000 - $99,999",graduate degree,mountain,1,1.4285714285714286,Explorador casual,3
+3290268027.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,,bachelor degree,east north central,1,,Territorio neutral,4
+3290266084.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,,graduate degree,west south central,1,1.0909090909090908,Jedi fiel,1
+3290262568.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$25,000 - $49,999",graduate degree,east north central,1,0.0,Explorador casual,3
+3290257673.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$50,000 - $99,999",some college or associate degree,east north central,1,0.7142857142857143,Explorador casual,3
+3290249464.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3290248279.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$100,000 - $149,999",graduate degree,west south central,1,,Territorio neutral,4
+3290248167.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290229579.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,,some college or associate degree,pacific,1,1.7,Explorador casual,3
+3290227264.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$50,000 - $99,999",some college or associate degree,south atlantic,1,0.7142857142857143,Jedi fiel,1
+3290225128.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",bachelor degree,west south central,1,,Territorio neutral,4
+3290223393.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$25,000 - $49,999",some college or associate degree,middle atlantic,1,1.8571428571428568,Jedi fiel,1
+3290216970.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",bachelor degree,new england,1,0.8571428571428571,Jedi fiel,1
+3290213089.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,45-60,"$25,000 - $49,999",bachelor degree,east north central,1,1.2307692307692308,Jedi fiel,1
+3290210801.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,45-60,,graduate degree,west north central,1,1.5714285714285714,Jedi fiel,1
+3290209773.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,,some college or associate degree,middle atlantic,1,1.4444444444444444,Rebelde nostalgico,2
+3290209744.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,18-29,"$50,000 - $99,999",some college or associate degree,south atlantic,1,0.6428571428571429,Jedi fiel,1
+3290206907.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,30-44,"$25,000 - $49,999",some college or associate degree,south atlantic,1,0.0714285714285714,Explorador casual,3
+3290203063.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,45-60,"$150,000+",bachelor degree,new england,1,1.0714285714285714,Jedi fiel,1
+3290201752.0,yes,1,no,0.0,not_fan,1,low_consumption,1,han,no,0.0,,,no,0.0,female,> 60,"$150,000+",high school degree,pacific,1,1.5,Territorio neutral,4
+3290196296.0,yes,1,no,0.0,not_fan,2,low_consumption,1,greedo,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",some college or associate degree,west north central,1,1.5714285714285714,Explorador casual,3
+3290193368.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290191566.0,yes,1,yes,1.0,fan,5,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,30-44,"$0 - $24,999",some college or associate degree,south atlantic,1,1.6428571428571428,Jedi fiel,1
+3290188213.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,18-29,,bachelor degree,east south central,1,0.6428571428571429,Jedi fiel,1
+3290185244.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$50,000 - $99,999",bachelor degree,south atlantic,1,,Explorador casual,3
+3290184813.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290182531.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",some college or associate degree,middle atlantic,1,,Territorio neutral,4
+3290180442.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,,some college or associate degree,south atlantic,1,,Territorio neutral,4
+3290176915.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290176563.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,female,18-29,"$50,000 - $99,999",some college or associate degree,pacific,1,1.25,Jedi fiel,1
+3290174629.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$100,000 - $149,999",graduate degree,mountain,1,,Territorio neutral,4
+3290174048.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290173775.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,female,> 60,"$50,000 - $99,999",some college or associate degree,west north central,1,2.0,Jedi fiel,1
+3290173176.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,18-29,"$25,000 - $49,999",graduate degree,south atlantic,1,0.8571428571428571,Jedi fiel,1
+3290167473.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$150,000+",bachelor degree,pacific,1,,Territorio neutral,4
+3290164098.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290159455.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$0 - $24,999",high school degree,south atlantic,1,,Territorio neutral,4
+3290159056.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$25,000 - $49,999",less than high school degree,pacific,1,,Territorio neutral,4
+3290157529.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,18-29,"$100,000 - $149,999",bachelor degree,pacific,1,0.4285714285714285,Jedi fiel,1
+3290149698.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,30-44,"$0 - $24,999",graduate degree,south atlantic,1,1.4166666666666667,Jedi fiel,1
+3290148834.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$25,000 - $49,999",some college or associate degree,pacific,1,1.0909090909090908,Explorador casual,3
+3290145517.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,45-60,"$50,000 - $99,999",bachelor degree,east north central,1,1.6666666666666667,Jedi fiel,1
+3290142232.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,18-29,"$50,000 - $99,999",bachelor degree,middle atlantic,1,1.0714285714285714,Jedi fiel,1
+3290139192.0,yes,1,yes,1.0,fan,5,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,> 60,"$50,000 - $99,999",graduate degree,mountain,1,1.4166666666666667,Jedi fiel,1
+3290137793.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,> 60,,some college or associate degree,east north central,1,0.7692307692307693,Jedi fiel,1
+3290128978.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$0 - $24,999",graduate degree,pacific,1,,Territorio neutral,4
+3290128468.0,yes,1,yes,1.0,fan,2,low_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$50,000 - $99,999",graduate degree,west south central,1,1.5,Rebelde nostalgico,2
+3290127670.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",some college or associate degree,south atlantic,1,,Territorio neutral,4
+3290125801.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,> 60,"$150,000+",graduate degree,east north central,1,1.5,Explorador casual,3
+3290125784.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,30-44,"$50,000 - $99,999",some college or associate degree,east north central,1,1.0,Jedi fiel,1
+3290125550.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,18-29,"$25,000 - $49,999",high school degree,east north central,1,2.0,Jedi fiel,1
+3290125357.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$50,000 - $99,999",high school degree,middle atlantic,1,1.0714285714285714,Jedi fiel,1
+3290124259.0,yes,1,no,0.0,not_fan,5,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,18-29,"$150,000+",high school degree,new england,1,1.4285714285714286,Explorador casual,3
+3290116629.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,,graduate degree,new england,1,,Territorio neutral,4
+3290116182.0,yes,1,yes,1.0,fan,2,low_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,30-44,"$100,000 - $149,999",bachelor degree,mountain,1,1.2857142857142858,Rebelde nostalgico,2
+3290109779.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",some college or associate degree,pacific,1,1.0,Rebelde nostalgico,2
+3290103593.0,yes,1,yes,1.0,fan,4,medium_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,"$0 - $24,999",bachelor degree,pacific,1,0.5384615384615384,Rebelde nostalgico,2
+3290099797.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,30-44,"$100,000 - $149,999",some college or associate degree,new england,1,0.9166666666666666,Jedi fiel,1
+3290097546.0,yes,1,yes,1.0,fan,2,low_consumption,1,greedo,no,0.0,,,yes,1.0,male,> 60,,graduate degree,east north central,1,1.3333333333333333,Rebelde nostalgico,2
+3290097268.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290095220.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290094384.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$25,000 - $49,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3290083352.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290082468.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$25,000 - $49,999",bachelor degree,middle atlantic,1,,Territorio neutral,4
+3290081504.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290081040.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$25,000 - $49,999",some college or associate degree,pacific,1,,Territorio neutral,4
+3290076587.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$25,000 - $49,999",high school degree,west south central,1,,Territorio neutral,4
+3290071379.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",some college or associate degree,new england,1,,Territorio neutral,4
+3290070395.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,female,> 60,"$50,000 - $99,999",some college or associate degree,west south central,1,1.2142857142857142,Explorador casual,3
+3290068892.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$50,000 - $99,999",graduate degree,mountain,1,0.4285714285714285,Explorador casual,3
+3290068765.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,male,45-60,"$100,000 - $149,999",some college or associate degree,south atlantic,1,0.7142857142857143,Jedi fiel,1
+3290063543.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$100,000 - $149,999",some college or associate degree,south atlantic,1,1.3846153846153846,Explorador casual,3
+3290062936.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290061815.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",graduate degree,pacific,1,0.6428571428571429,Jedi fiel,1
+3290058506.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$25,000 - $49,999",some college or associate degree,east north central,1,1.0,Explorador casual,3
+3290058216.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",high school degree,south atlantic,1,1.5833333333333333,Jedi fiel,1
+3290050695.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3290049932.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$25,000 - $49,999",some college or associate degree,west south central,1,,Territorio neutral,4
+3290049231.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$25,000 - $49,999",graduate degree,new england,1,0.9,Explorador casual,3
+3290048884.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,45-60,,some college or associate degree,west south central,1,1.0714285714285714,Jedi fiel,1
+3290047842.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,30-44,"$100,000 - $149,999",bachelor degree,new england,1,1.0714285714285714,Jedi fiel,1
+3290047689.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,,some college or associate degree,mountain,1,,Territorio neutral,4
+3290047483.0,yes,1,yes,1.0,fan,4,medium_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,male,45-60,"$25,000 - $49,999",some college or associate degree,west north central,1,1.4285714285714286,Rebelde nostalgico,2
+3290046627.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,female,18-29,"$25,000 - $49,999",bachelor degree,west south central,1,0.7142857142857143,Jedi fiel,1
+3290042369.0,yes,1,yes,1.0,fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$100,000 - $149,999",graduate degree,pacific,1,2.0,Rebelde nostalgico,2
+3290038794.0,yes,1,yes,1.0,fan,5,high_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$150,000+",graduate degree,new england,1,1.0,Jedi fiel,1
+3290034196.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,,some college or associate degree,west south central,1,,Explorador casual,3
+3290032864.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$100,000 - $149,999",graduate degree,east north central,1,1.0833333333333333,Rebelde nostalgico,2
+3290029531.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$100,000 - $149,999",some college or associate degree,south atlantic,1,1.0769230769230769,Rebelde nostalgico,2
+3290024333.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,> 60,"$25,000 - $49,999",some college or associate degree,mountain,1,2.0,Jedi fiel,1
+3290022302.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,18-29,"$25,000 - $49,999",bachelor degree,pacific,1,0.5714285714285714,Explorador casual,3
+3290019869.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,greedo,no,0.0,,,no,0.0,male,> 60,"$25,000 - $49,999",bachelor degree,west north central,1,1.1428571428571428,Explorador casual,3
+3290019779.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290018381.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,> 60,"$25,000 - $49,999",graduate degree,east north central,1,0.9285714285714286,Jedi fiel,1
+3290017901.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290014606.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,,graduate degree,middle atlantic,1,,Territorio neutral,4
+3290013239.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3290011286.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,,graduate degree,south atlantic,1,1.9090909090909087,Rebelde nostalgico,2
+3290010419.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$100,000 - $149,999",graduate degree,middle atlantic,1,-0.5714285714285714,Explorador casual,3
+3290008538.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,,some college or associate degree,south atlantic,1,,Territorio neutral,4
+3290005674.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,female,> 60,"$0 - $24,999",some college or associate degree,mountain,1,-0.8571428571428571,Jedi fiel,1
+3290002601.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",graduate degree,east north central,1,0.7857142857142857,Jedi fiel,1
+3289997713.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",bachelor degree,mountain,1,1.1428571428571428,Jedi fiel,1
+3289997196.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,45-60,,bachelor degree,east north central,1,0.6428571428571429,Jedi fiel,1
+3289996800.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",bachelor degree,new england,1,0.8461538461538461,Jedi fiel,1
+3289996025.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,female,30-44,"$100,000 - $149,999",graduate degree,pacific,1,1.5714285714285714,Jedi fiel,1
+3289995352.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,female,> 60,"$25,000 - $49,999",bachelor degree,east south central,1,2.0,Explorador casual,3
+3289993284.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",graduate degree,south atlantic,1,1.5555555555555556,Explorador casual,3
+3289991708.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$0 - $24,999",high school degree,pacific,1,,Territorio neutral,4
+3289989311.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$0 - $24,999",high school degree,south atlantic,1,,Territorio neutral,4
+3289988393.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,female,> 60,"$50,000 - $99,999",some college or associate degree,pacific,1,1.5384615384615383,Explorador casual,3
+3289987865.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,,graduate degree,west south central,1,,Territorio neutral,4
+3289986698.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$100,000 - $149,999",some college or associate degree,east south central,1,0.5,Territorio neutral,4
+3289985995.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$50,000 - $99,999",some college or associate degree,pacific,1,1.7142857142857142,Explorador casual,3
+3289980534.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,,graduate degree,new england,1,1.4166666666666667,Jedi fiel,1
+3289973506.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,30-44,,graduate degree,pacific,1,1.1428571428571428,Jedi fiel,1
+3289972382.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,yes,1.0,female,> 60,"$0 - $24,999",some college or associate degree,pacific,1,,Territorio neutral,4
+3289971452.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$50,000 - $99,999",some college or associate degree,middle atlantic,1,,Territorio neutral,4
+3289971256.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,30-44,,bachelor degree,east north central,1,1.3571428571428572,Explorador casual,3
+3289963393.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$150,000+",bachelor degree,mountain,1,1.5555555555555556,Rebelde nostalgico,2
+3289962839.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,,,east north central,1,,Territorio neutral,4
+3289962614.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,male,> 60,"$50,000 - $99,999",graduate degree,west north central,1,1.1428571428571428,Jedi fiel,1
+3289956408.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$25,000 - $49,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3289955364.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$50,000 - $99,999",some college or associate degree,middle atlantic,1,0.7142857142857143,Jedi fiel,1
+3289952496.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,no,0.0,yes,1.0,male,30-44,"$50,000 - $99,999",some college or associate degree,new england,1,0.0714285714285714,Jedi fiel,1
+3289951011.0,yes,1,no,0.0,not_fan,5,high_consumption,1,han,no,0.0,,,yes,1.0,female,> 60,"$50,000 - $99,999",bachelor degree,east north central,1,1.1428571428571428,Explorador casual,3
+3289949516.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,,,,,,,,,,,,,0,1.3333333333333333,Explorador casual,3
+3289949409.0,yes,1,yes,1.0,fan,3,medium_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$50,000 - $99,999",bachelor degree,west north central,1,1.8333333333333333,Rebelde nostalgico,2
+3289943405.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,male,> 60,"$50,000 - $99,999",graduate degree,mountain,1,1.0,Explorador casual,3
+3289943097.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",graduate degree,middle atlantic,1,1.25,Explorador casual,3
+3289942520.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,18-29,"$50,000 - $99,999",bachelor degree,east north central,1,,Territorio neutral,4
+3289933137.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$25,000 - $49,999",some college or associate degree,pacific,1,1.25,Territorio neutral,4
+3289927404.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,,graduate degree,pacific,1,1.7,Explorador casual,3
+3289924943.0,yes,1,yes,1.0,fan,2,low_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,female,45-60,"$150,000+",bachelor degree,west south central,1,1.0,Rebelde nostalgico,2
+3289923980.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,female,45-60,"$50,000 - $99,999",graduate degree,pacific,1,0.5714285714285714,Jedi fiel,1
+3289920249.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$150,000+",bachelor degree,south atlantic,1,1.6153846153846154,Jedi fiel,1
+3289919285.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289918842.0,yes,1,no,0.0,not_fan,2,low_consumption,1,han,no,0.0,,,no,0.0,male,45-60,"$0 - $24,999",some college or associate degree,pacific,1,1.1428571428571428,Explorador casual,3
+3289914533.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,18-29,,some college or associate degree,pacific,1,2.0,Jedi fiel,1
+3289914097.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,"$50,000 - $99,999",bachelor degree,middle atlantic,1,0.5714285714285714,Jedi fiel,1
+3289913649.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$0 - $24,999",bachelor degree,pacific,1,0.0,Territorio neutral,4
+3289911175.0,yes,1,yes,1.0,fan,3,medium_consumption,1,greedo,no,0.0,,,yes,1.0,male,> 60,,high school degree,mountain,1,1.6428571428571428,Rebelde nostalgico,2
+3289909917.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,45-60,"$150,000+",some college or associate degree,new england,1,1.5,Jedi fiel,1
+3289907541.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$50,000 - $99,999",graduate degree,pacific,1,2.0,Explorador casual,3
+3289905986.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",bachelor degree,west north central,1,0.7,Explorador casual,3
+3289905819.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3289905044.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$25,000 - $49,999",high school degree,south atlantic,1,1.3571428571428572,Jedi fiel,1
+3289903380.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$50,000 - $99,999",some college or associate degree,south atlantic,1,,Territorio neutral,4
+3289902920.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,30-44,"$100,000 - $149,999",graduate degree,new england,1,1.2142857142857142,Jedi fiel,1
+3289902115.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",bachelor degree,new england,1,1.0,Territorio neutral,4
+3289901820.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,45-60,"$50,000 - $99,999",some college or associate degree,west north central,1,0.7692307692307693,Jedi fiel,1
+3289901633.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$150,000+",graduate degree,middle atlantic,1,0.0,Explorador casual,3
+3289897826.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,> 60,"$25,000 - $49,999",some college or associate degree,south atlantic,1,0.8571428571428571,Jedi fiel,1
+3289896565.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,female,30-44,"$25,000 - $49,999",graduate degree,west south central,1,1.3571428571428572,Jedi fiel,1
+3289895732.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,female,18-29,"$25,000 - $49,999",graduate degree,pacific,1,1.0833333333333333,Jedi fiel,1
+3289894873.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$0 - $24,999",less than high school degree,west north central,1,,Territorio neutral,4
+3289891069.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$25,000 - $49,999",high school degree,middle atlantic,1,,Territorio neutral,4
+3289890495.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,,bachelor degree,west north central,1,,Territorio neutral,4
+3289888113.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$150,000+",bachelor degree,east north central,1,,Territorio neutral,4
+3289888015.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,female,30-44,"$50,000 - $99,999",graduate degree,pacific,1,1.1428571428571428,Jedi fiel,1
+3289885747.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,"$100,000 - $149,999",bachelor degree,east north central,1,0.7142857142857143,Explorador casual,3
+3289878528.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",bachelor degree,mountain,1,1.2857142857142858,Jedi fiel,1
+3289877093.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,45-60,"$100,000 - $149,999",graduate degree,west south central,1,1.8461538461538465,Jedi fiel,1
+3289874408.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,30-44,"$50,000 - $99,999",less than high school degree,new england,1,1.4285714285714286,Jedi fiel,1
+3289873978.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",graduate degree,west north central,1,0.7,Rebelde nostalgico,2
+3289870772.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$25,000 - $49,999",graduate degree,east north central,1,0.5,Explorador casual,3
+3289868197.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,no,0.0,yes,1.0,male,> 60,"$50,000 - $99,999",some college or associate degree,west south central,1,0.9285714285714286,Jedi fiel,1
+3289866531.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$50,000 - $99,999",some college or associate degree,east north central,1,0.9285714285714286,Rebelde nostalgico,2
+3289866259.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$100,000 - $149,999",bachelor degree,east north central,1,,Territorio neutral,4
+3289865550.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",bachelor degree,west north central,1,1.25,Explorador casual,3
+3289864687.0,yes,1,yes,1.0,fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,male,45-60,"$100,000 - $149,999",bachelor degree,west north central,1,1.2222222222222223,Rebelde nostalgico,2
+3289862004.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289861464.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,yes,1.0,no,0.0,yes,1.0,male,> 60,"$0 - $24,999",bachelor degree,mountain,1,1.3333333333333333,Rebelde nostalgico,2
+3289857817.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",graduate degree,west north central,1,0.5,Rebelde nostalgico,2
+3289856887.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,> 60,,graduate degree,middle atlantic,1,0.8571428571428571,Jedi fiel,1
+3289856557.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$50,000 - $99,999",bachelor degree,mountain,1,,Territorio neutral,4
+3289855873.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,18-29,"$50,000 - $99,999",some college or associate degree,middle atlantic,1,1.7142857142857142,Jedi fiel,1
+3289854601.0,yes,1,yes,1.0,fan,5,high_consumption,1,i don't understand this question,yes,1.0,yes,1.0,yes,1.0,male,> 60,,bachelor degree,west south central,1,1.4545454545454546,Jedi fiel,1
+3289848909.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$100,000 - $149,999",graduate degree,middle atlantic,1,,Territorio neutral,4
+3289847932.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,18-29,"$25,000 - $49,999",some college or associate degree,east north central,1,1.6428571428571428,Jedi fiel,1
+3289844139.0,yes,1,yes,1.0,fan,3,medium_consumption,1,han,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",graduate degree,west north central,1,1.2142857142857142,Rebelde nostalgico,2
+3289843973.0,yes,1,yes,1.0,fan,6,high_consumption,1,,,,,,,,,,,,,0,1.7142857142857142,Jedi fiel,1
+3289837359.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3289835282.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",some college or associate degree,west north central,1,1.3571428571428572,Jedi fiel,1
+3289834572.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$0 - $24,999",high school degree,south atlantic,1,,Territorio neutral,4
+3289831274.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$150,000+",some college or associate degree,mountain,1,,Territorio neutral,4
+3289830199.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",some college or associate degree,pacific,1,,Territorio neutral,4
+3289829982.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,30-44,"$0 - $24,999",some college or associate degree,east north central,1,1.1428571428571428,Jedi fiel,1
+3289822005.0,yes,1,yes,1.0,fan,5,high_consumption,1,han,no,0.0,,,yes,1.0,female,> 60,,some college or associate degree,east south central,1,1.5,Jedi fiel,1
+3289821310.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$0 - $24,999",some college or associate degree,east north central,1,2.0,Jedi fiel,1
+3289815685.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$25,000 - $49,999",bachelor degree,west north central,1,1.0,Jedi fiel,1
+3289813977.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$25,000 - $49,999",some college or associate degree,east north central,1,2.0,Rebelde nostalgico,2
+3289812188.0,yes,1,yes,1.0,fan,2,low_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,,,,,,0,1.2857142857142858,Rebelde nostalgico,2
+3289809469.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,30-44,"$50,000 - $99,999",some college or associate degree,west south central,1,1.4285714285714286,Jedi fiel,1
+3289809255.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,yes,1.0,male,> 60,"$50,000 - $99,999",graduate degree,west south central,1,,Territorio neutral,4
+3289808310.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289805753.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289805745.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$50,000 - $99,999",some college or associate degree,middle atlantic,1,,Territorio neutral,4
+3289804908.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,30-44,"$100,000 - $149,999",bachelor degree,west south central,1,1.3846153846153846,Rebelde nostalgico,2
+3289804326.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$25,000 - $49,999",graduate degree,east south central,1,1.4285714285714286,Jedi fiel,1
+3289804031.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,"$50,000 - $99,999",some college or associate degree,pacific,1,1.2307692307692308,Jedi fiel,1
+3289802847.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",bachelor degree,east south central,1,1.4,Explorador casual,3
+3289799650.0,yes,1,yes,1.0,fan,1,low_consumption,1,greedo,no,0.0,,,yes,1.0,female,30-44,"$150,000+",graduate degree,pacific,1,0.6428571428571429,Rebelde nostalgico,2
+3289799581.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",some college or associate degree,mountain,1,1.7692307692307692,Rebelde nostalgico,2
+3289798968.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$0 - $24,999",some college or associate degree,east north central,1,2.0,Explorador casual,3
+3289798759.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,30-44,,some college or associate degree,east north central,1,0.2857142857142857,Jedi fiel,1
+3289797876.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$50,000 - $99,999",bachelor degree,west north central,1,,Territorio neutral,4
+3289795859.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289790475.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$50,000 - $99,999",graduate degree,west south central,1,,Territorio neutral,4
+3289790146.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$150,000+",some college or associate degree,middle atlantic,1,0.7142857142857143,Jedi fiel,1
+3289786719.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,> 60,"$100,000 - $149,999",some college or associate degree,middle atlantic,1,2.0,Jedi fiel,1
+3289781705.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,"$25,000 - $49,999",some college or associate degree,south atlantic,1,1.0,Rebelde nostalgico,2
+3289779434.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$150,000+",bachelor degree,east north central,1,,Territorio neutral,4
+3289764515.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$25,000 - $49,999",bachelor degree,east north central,1,,Territorio neutral,4
+3289758800.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,male,30-44,"$50,000 - $99,999",some college or associate degree,middle atlantic,1,0.5,Jedi fiel,1
+3289757385.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,30-44,,some college or associate degree,east north central,1,1.5,Jedi fiel,1
+3289757163.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,male,45-60,"$50,000 - $99,999",graduate degree,pacific,1,1.3571428571428572,Jedi fiel,1
+3289753279.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$25,000 - $49,999",graduate degree,east north central,1,,Territorio neutral,4
+3289752347.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,30-44,"$50,000 - $99,999",high school degree,east south central,1,0.7857142857142857,Explorador casual,3
+3289751464.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,,graduate degree,south atlantic,1,1.1428571428571428,Rebelde nostalgico,2
+3289745316.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$100,000 - $149,999",some college or associate degree,south atlantic,1,,Territorio neutral,4
+3289745063.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,"$25,000 - $49,999",graduate degree,new england,1,0.7142857142857143,Jedi fiel,1
+3289737236.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,30-44,"$25,000 - $49,999",bachelor degree,west south central,1,0.6923076923076923,Jedi fiel,1
+3289735954.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,,bachelor degree,mountain,1,0.8571428571428571,Territorio neutral,4
+3289733444.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,yes,1.0,yes,1.0,female,> 60,"$0 - $24,999",some college or associate degree,east north central,1,1.3333333333333333,Jedi fiel,1
+3289730973.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,,graduate degree,south atlantic,1,1.2142857142857142,Rebelde nostalgico,2
+3289727014.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,yes,1.0,male,> 60,"$100,000 - $149,999",graduate degree,new england,1,0.7692307692307693,Rebelde nostalgico,2
+3289725827.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$50,000 - $99,999",some college or associate degree,west south central,1,0.9230769230769232,Jedi fiel,1
+3289725605.0,yes,1,yes,1.0,fan,5,high_consumption,1,han,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",graduate degree,new england,1,1.2857142857142858,Jedi fiel,1
+3289722110.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,yes,1.0,yes,1.0,no,0.0,male,> 60,"$50,000 - $99,999",bachelor degree,west south central,1,0.0,Explorador casual,3
+3289713384.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3289711817.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$50,000 - $99,999",bachelor degree,middle atlantic,1,0.7857142857142857,Jedi fiel,1
+3289710382.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,,some college or associate degree,mountain,1,,Territorio neutral,4
+3289706727.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",some college or associate degree,pacific,1,1.5,Jedi fiel,1
+3289706550.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289705195.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$100,000 - $149,999",bachelor degree,east north central,1,1.0,Jedi fiel,1
+3289700288.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,18-29,"$25,000 - $49,999",some college or associate degree,new england,1,0.6428571428571429,Jedi fiel,1
+3289695941.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,45-60,"$25,000 - $49,999",some college or associate degree,east north central,1,1.7142857142857142,Jedi fiel,1
+3289693023.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,> 60,"$150,000+",graduate degree,east north central,1,1.0714285714285714,Jedi fiel,1
+3289692258.0,yes,1,yes,1.0,fan,3,medium_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$0 - $24,999",bachelor degree,middle atlantic,1,2.0,Rebelde nostalgico,2
+3289689591.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$150,000+",high school degree,east north central,1,,Territorio neutral,4
+3289689331.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,30-44,"$25,000 - $49,999",bachelor degree,west north central,1,0.3571428571428571,Explorador casual,3
+3289688885.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",bachelor degree,west south central,1,1.3571428571428572,Jedi fiel,1
+3289686202.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3289685200.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$50,000 - $99,999",some college or associate degree,middle atlantic,1,,Territorio neutral,4
+3289684323.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,30-44,"$100,000 - $149,999",graduate degree,west north central,1,1.0909090909090908,Jedi fiel,1
+3289681765.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$50,000 - $99,999",graduate degree,south atlantic,1,1.6428571428571428,Jedi fiel,1
+3289680108.0,yes,1,no,0.0,not_fan,2,low_consumption,1,greedo,no,0.0,,,no,0.0,female,30-44,,some college or associate degree,west south central,1,0.6428571428571429,Explorador casual,3
+3289673695.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,45-60,"$150,000+",bachelor degree,east north central,1,0.6428571428571429,Explorador casual,3
+3289666523.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$0 - $24,999",some college or associate degree,pacific,1,,Territorio neutral,4
+3289664241.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,no,0.0,male,18-29,,high school degree,south atlantic,1,1.5714285714285714,Jedi fiel,1
+3289653763.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,"$0 - $24,999",graduate degree,west south central,1,1.1666666666666667,Rebelde nostalgico,2
+3289653664.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$0 - $24,999",some college or associate degree,middle atlantic,1,,Territorio neutral,4
+3289652167.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,female,45-60,"$100,000 - $149,999",graduate degree,pacific,1,1.1428571428571428,Jedi fiel,1
+3289649402.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3289648154.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3289646833.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$100,000 - $149,999",bachelor degree,west south central,1,,Territorio neutral,4
+3289645505.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$25,000 - $49,999",high school degree,east north central,1,0.0769230769230769,Territorio neutral,4
+3289644365.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,"$100,000 - $149,999",some college or associate degree,middle atlantic,1,1.1428571428571428,Rebelde nostalgico,2
+3289641241.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$25,000 - $49,999",bachelor degree,mountain,1,0.25,Explorador casual,3
+3289640516.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$50,000 - $99,999",graduate degree,mountain,1,,Territorio neutral,4
+3289638367.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,male,> 60,"$25,000 - $49,999",bachelor degree,east north central,1,0.2307692307692307,Jedi fiel,1
+3289633176.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,"$25,000 - $49,999",some college or associate degree,east north central,1,1.2857142857142858,Jedi fiel,1
+3289628791.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,,bachelor degree,east north central,1,0.0,Territorio neutral,4
+3289627503.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$0 - $24,999",some college or associate degree,west north central,1,,Territorio neutral,4
+3289625918.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,,graduate degree,south atlantic,1,,Territorio neutral,4
+3289625905.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289625071.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,female,45-60,"$50,000 - $99,999",some college or associate degree,new england,1,1.1428571428571428,Jedi fiel,1
+3289621004.0,yes,1,yes,1.0,fan,5,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,"$50,000 - $99,999",high school degree,middle atlantic,1,1.7857142857142858,Jedi fiel,1
+3289619487.0,yes,1,no,0.0,not_fan,2,low_consumption,1,greedo,no,0.0,,,no,0.0,,,,,,0,0.7857142857142857,Explorador casual,3
+3289618781.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$50,000 - $99,999",,new england,1,,Territorio neutral,4
+3289618768.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289618355.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289616064.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289610618.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289610391.0,yes,1,no,0.0,not_fan,2,low_consumption,1,greedo,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",bachelor degree,east north central,1,0.5,Explorador casual,3
+3289600885.0,yes,1,no,0.0,not_fan,5,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$100,000 - $149,999",bachelor degree,west north central,1,1.0,Explorador casual,3
+3289598419.0,yes,1,no,0.0,not_fan,2,low_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$25,000 - $49,999",bachelor degree,west north central,1,0.25,Explorador casual,3
+3289597768.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$50,000 - $99,999",graduate degree,south atlantic,1,,Territorio neutral,4
+3289597035.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$25,000 - $49,999",graduate degree,new england,1,1.0714285714285714,Jedi fiel,1
+3289588064.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,,graduate degree,west south central,1,0.2857142857142857,Territorio neutral,4
+3289582868.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$25,000 - $49,999",some college or associate degree,mountain,1,0.5,Jedi fiel,1
+3289582774.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$25,000 - $49,999",some college or associate degree,middle atlantic,1,1.3333333333333333,Explorador casual,3
+3289582090.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,"$50,000 - $99,999",high school degree,new england,1,0.5714285714285714,Jedi fiel,1
+3289573606.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$50,000 - $99,999",bachelor degree,west north central,1,1.1428571428571428,Jedi fiel,1
+3289572808.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$100,000 - $149,999",graduate degree,south atlantic,1,1.5833333333333333,Explorador casual,3
+3289569955.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$100,000 - $149,999",bachelor degree,south atlantic,1,,Territorio neutral,4
+3289567355.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,,some college or associate degree,east north central,1,2.0,Rebelde nostalgico,2
+3289564387.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,30-44,"$50,000 - $99,999",some college or associate degree,east north central,1,1.0714285714285714,Jedi fiel,1
+3289563102.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$25,000 - $49,999",graduate degree,east north central,1,,Territorio neutral,4
+3289561190.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289560376.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,,bachelor degree,pacific,1,1.4615384615384617,Jedi fiel,1
+3289555540.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,,some college or associate degree,east north central,1,,Territorio neutral,4
+3289553574.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289553473.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,30-44,"$100,000 - $149,999",bachelor degree,east north central,1,0.7857142857142857,Rebelde nostalgico,2
+3289552996.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,30-44,"$100,000 - $149,999",graduate degree,middle atlantic,1,1.1428571428571428,Jedi fiel,1
+3289552625.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,greedo,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",some college or associate degree,new england,1,2.0,Explorador casual,3
+3289543778.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$100,000 - $149,999",bachelor degree,east south central,1,1.0,Rebelde nostalgico,2
+3289540349.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,18-29,"$0 - $24,999",bachelor degree,west south central,1,1.0,Jedi fiel,1
+3289539921.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,female,30-44,"$0 - $24,999",graduate degree,pacific,1,0.7272727272727273,Jedi fiel,1
+3289537363.0,yes,1,yes,1.0,fan,3,medium_consumption,1,greedo,no,0.0,,,yes,1.0,female,30-44,"$100,000 - $149,999",bachelor degree,pacific,1,0.9285714285714286,Rebelde nostalgico,2
+3289537293.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",bachelor degree,east north central,1,1.0714285714285714,Jedi fiel,1
+3289536171.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$150,000+",bachelor degree,pacific,1,1.6,Territorio neutral,4
+3289533753.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,yes,1.0,yes,1.0,female,45-60,"$50,000 - $99,999",graduate degree,east south central,1,1.1666666666666667,Jedi fiel,1
+3289531711.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,yes,1.0,yes,1.0,female,45-60,"$0 - $24,999",graduate degree,pacific,1,1.7142857142857142,Jedi fiel,1
+3289530269.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",bachelor degree,west south central,1,,Territorio neutral,4
+3289530042.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,30-44,"$25,000 - $49,999",bachelor degree,middle atlantic,1,0.7142857142857143,Jedi fiel,1
+3289529064.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,45-60,"$50,000 - $99,999",bachelor degree,south atlantic,1,0.6428571428571429,Territorio neutral,4
+3289528214.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$0 - $24,999",high school degree,south atlantic,1,,Territorio neutral,4
+3289526845.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$100,000 - $149,999",graduate degree,south atlantic,1,1.7777777777777777,Explorador casual,3
+3289526048.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$25,000 - $49,999",graduate degree,mountain,1,0.3571428571428571,Explorador casual,3
+3289522048.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,45-60,"$25,000 - $49,999",bachelor degree,pacific,1,0.6363636363636364,Explorador casual,3
+3289512650.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,,graduate degree,pacific,1,,Territorio neutral,4
+3289510637.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,female,18-29,"$100,000 - $149,999",graduate degree,pacific,1,0.0,Explorador casual,3
+3289510083.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289508774.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$0 - $24,999",bachelor degree,south atlantic,1,0.2142857142857142,Explorador casual,3
+3289505557.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$25,000 - $49,999",graduate degree,west north central,1,1.4545454545454546,Explorador casual,3
+3289498676.0,yes,1,yes,1.0,fan,5,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,45-60,"$150,000+",graduate degree,east north central,1,0.8461538461538461,Jedi fiel,1
+3289498263.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",bachelor degree,south atlantic,1,1.5384615384615383,Jedi fiel,1
+3289498064.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,,bachelor degree,new england,1,0.9285714285714286,Jedi fiel,1
+3289494245.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$100,000 - $149,999",high school degree,west south central,1,,Territorio neutral,4
+3289492759.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289492075.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$25,000 - $49,999",some college or associate degree,west south central,1,1.4285714285714286,Explorador casual,3
+3289489736.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,"$25,000 - $49,999",bachelor degree,west north central,1,1.9285714285714288,Jedi fiel,1
+3289485680.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$150,000+",graduate degree,west south central,1,,Territorio neutral,4
+3289484757.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,30-44,"$25,000 - $49,999",bachelor degree,middle atlantic,1,1.2142857142857142,Jedi fiel,1
+3289481873.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$50,000 - $99,999",some college or associate degree,west north central,1,,Territorio neutral,4
+3289481310.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,,bachelor degree,south atlantic,1,1.125,Explorador casual,3
+3289472648.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,female,18-29,"$0 - $24,999",bachelor degree,middle atlantic,1,1.1538461538461535,Jedi fiel,1
+3289469330.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$50,000 - $99,999",some college or associate degree,west north central,1,,Territorio neutral,4
+3289467778.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,45-60,"$50,000 - $99,999",bachelor degree,west north central,1,1.7857142857142858,Jedi fiel,1
+3289467324.0,yes,1,yes,1.0,fan,3,medium_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,"$100,000 - $149,999",bachelor degree,mountain,1,1.5,Rebelde nostalgico,2
+3289463626.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$50,000 - $99,999",graduate degree,east south central,1,,Territorio neutral,4
+3289463066.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,45-60,"$25,000 - $49,999",some college or associate degree,east north central,1,1.3571428571428572,Jedi fiel,1
+3289459695.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289458608.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,female,18-29,"$50,000 - $99,999",bachelor degree,south atlantic,1,1.0714285714285714,Jedi fiel,1
+3289453110.0,yes,1,yes,1.0,fan,6,high_consumption,1,,,,,,,,,,,,,0,1.3571428571428572,Jedi fiel,1
+3289450247.0,yes,1,no,0.0,not_fan,1,low_consumption,0,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$50,000 - $99,999",graduate degree,new england,1,1.0,Territorio neutral,4
+3289450050.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$0 - $24,999",some college or associate degree,east north central,1,0.3846153846153846,Explorador casual,3
+3289449176.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,30-44,,bachelor degree,east north central,1,1.1111111111111112,Explorador casual,3
+3289448435.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,> 60,"$50,000 - $99,999",graduate degree,south atlantic,1,2.0,Jedi fiel,1
+3289445841.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$150,000+",bachelor degree,west south central,1,0.7857142857142857,Jedi fiel,1
+3289437997.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",bachelor degree,mountain,1,,Territorio neutral,4
+3289436437.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,30-44,,bachelor degree,east north central,1,1.1428571428571428,Jedi fiel,1
+3289434297.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,45-60,"$0 - $24,999",high school degree,middle atlantic,1,1.3571428571428572,Jedi fiel,1
+3289425578.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,45-60,,graduate degree,south atlantic,1,1.2307692307692308,Jedi fiel,1
+3289423303.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,"$150,000+",graduate degree,south atlantic,1,1.4285714285714286,Jedi fiel,1
+3289419064.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$100,000 - $149,999",bachelor degree,south atlantic,1,,Territorio neutral,4
+3289418012.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289416615.0,yes,1,yes,1.0,fan,4,medium_consumption,1,greedo,no,0.0,,,yes,1.0,male,45-60,"$0 - $24,999",some college or associate degree,west north central,1,0.5714285714285714,Rebelde nostalgico,2
+3289415200.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,yes,1.0,female,18-29,"$0 - $24,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3289414959.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,45-60,"$50,000 - $99,999",some college or associate degree,west south central,1,1.3571428571428572,Jedi fiel,1
+3289414036.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$0 - $24,999",some college or associate degree,south atlantic,1,1.75,Explorador casual,3
+3289410507.0,yes,1,yes,1.0,fan,6,high_consumption,1,,,,,,,,,,,,,0,1.2857142857142858,Jedi fiel,1
+3289410455.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,no,0.0,yes,1.0,male,18-29,"$150,000+",graduate degree,south atlantic,1,0.6428571428571429,Jedi fiel,1
+3289398157.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$25,000 - $49,999",some college or associate degree,south atlantic,1,1.0,Territorio neutral,4
+3289394268.0,yes,1,yes,1.0,fan,1,low_consumption,1,i don't understand this question,yes,1.0,yes,1.0,no,0.0,female,18-29,"$25,000 - $49,999",bachelor degree,west north central,1,0.3846153846153846,Rebelde nostalgico,2
+3289393495.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$25,000 - $49,999",bachelor degree,south atlantic,1,0.875,Explorador casual,3
+3289392497.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,30-44,"$0 - $24,999",high school degree,east north central,1,0.8571428571428571,Jedi fiel,1
+3289383220.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$50,000 - $99,999",some college or associate degree,west south central,1,2.0,Explorador casual,3
+3289381739.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,45-60,,some college or associate degree,pacific,1,0.0,Jedi fiel,1
+3289374653.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$50,000 - $99,999",bachelor degree,new england,1,,Territorio neutral,4
+3289370623.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$25,000 - $49,999",bachelor degree,west north central,1,1.2142857142857142,Jedi fiel,1
+3289369318.0,yes,1,yes,1.0,fan,3,medium_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,female,30-44,"$50,000 - $99,999",graduate degree,west north central,1,0.7857142857142857,Rebelde nostalgico,2
+3289363684.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,18-29,"$50,000 - $99,999",bachelor degree,west south central,1,0.6153846153846154,Jedi fiel,1
+3289358306.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",bachelor degree,middle atlantic,1,1.2857142857142858,Territorio neutral,4
+3289354975.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",bachelor degree,new england,1,0.7142857142857143,Jedi fiel,1
+3289351950.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$50,000 - $99,999",bachelor degree,middle atlantic,1,1.7857142857142858,Jedi fiel,1
+3289351379.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,30-44,"$50,000 - $99,999",some college or associate degree,mountain,1,2.0,Jedi fiel,1
+3289341349.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$50,000 - $99,999",graduate degree,middle atlantic,1,,Territorio neutral,4
+3289334585.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289334511.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$150,000+",graduate degree,pacific,1,,Territorio neutral,4
+3289322178.0,yes,1,no,0.0,not_fan,1,low_consumption,1,greedo,no,0.0,,,no,0.0,female,30-44,"$25,000 - $49,999",bachelor degree,pacific,1,0.7142857142857143,Territorio neutral,4
+3289321600.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$150,000+",graduate degree,new england,1,,Territorio neutral,4
+3289317542.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,30-44,,graduate degree,middle atlantic,1,0.9285714285714286,Jedi fiel,1
+3289316592.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$50,000 - $99,999",some college or associate degree,south atlantic,1,,Territorio neutral,4
+3289311086.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$50,000 - $99,999",,south atlantic,1,0.8571428571428571,Jedi fiel,1
+3289305272.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3289302743.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$50,000 - $99,999",some college or associate degree,pacific,1,,Territorio neutral,4
+3289301976.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$0 - $24,999",some college or associate degree,new england,1,,Territorio neutral,4
+3289282741.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$25,000 - $49,999",bachelor degree,west south central,1,,Territorio neutral,4
+3289281855.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289279767.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$25,000 - $49,999",bachelor degree,east north central,1,,Territorio neutral,4
+3289274314.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",some college or associate degree,west south central,1,0.8571428571428571,Jedi fiel,1
+3289274207.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,,bachelor degree,west south central,1,,Territorio neutral,4
+3289262699.0,yes,1,no,0.0,not_fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",bachelor degree,east north central,1,1.2727272727272727,Explorador casual,3
+3289262511.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,"$25,000 - $49,999",some college or associate degree,pacific,1,1.1538461538461535,Explorador casual,3
+3289242777.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$100,000 - $149,999",graduate degree,west north central,1,,Territorio neutral,4
+3289236782.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,30-44,,some college or associate degree,middle atlantic,1,1.0,Jedi fiel,1
+3289198607.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,18-29,"$25,000 - $49,999",graduate degree,new england,1,0.6428571428571429,Explorador casual,3
+3289179421.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$50,000 - $99,999",bachelor degree,south atlantic,1,,Territorio neutral,4
+3289178815.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3289177383.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,30-44,"$100,000 - $149,999",some college or associate degree,new england,1,0.7857142857142857,Jedi fiel,1
+3289172932.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,yes,1.0,female,45-60,"$50,000 - $99,999",high school degree,south atlantic,1,,Territorio neutral,4
+3289156917.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,male,30-44,"$100,000 - $149,999",graduate degree,middle atlantic,1,0.3571428571428571,Jedi fiel,1
+3289153001.0,yes,1,no,0.0,not_fan,1,low_consumption,1,greedo,no,0.0,,,no,0.0,,,,,,0,-0.5714285714285714,Territorio neutral,4
+3289148779.0,yes,1,no,0.0,not_fan,1,low_consumption,1,greedo,no,0.0,,,no,0.0,male,> 60,"$50,000 - $99,999",graduate degree,west north central,1,-0.6428571428571429,Territorio neutral,4
+3289112999.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$150,000+",bachelor degree,south atlantic,1,1.3333333333333333,Explorador casual,3
+3289095873.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$100,000 - $149,999",graduate degree,mountain,1,0.1428571428571428,Territorio neutral,4
+3289069642.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,,some college or associate degree,south atlantic,1,0.7142857142857143,Jedi fiel,1
+3289064086.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,,graduate degree,middle atlantic,1,-0.1,Explorador casual,3
+3289054324.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,male,30-44,"$150,000+",some college or associate degree,east north central,1,0.5384615384615384,Jedi fiel,1
+3289049751.0,yes,1,no,0.0,not_fan,1,low_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,,graduate degree,new england,1,1.0833333333333333,Territorio neutral,4
+3289032654.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$150,000+",some college or associate degree,new england,1,,Territorio neutral,4
+3288941294.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,30-44,"$150,000+",graduate degree,south atlantic,1,1.0714285714285714,Jedi fiel,1
+3288846487.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,,graduate degree,middle atlantic,1,0.7,Rebelde nostalgico,2
+3288826742.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$0 - $24,999",some college or associate degree,pacific,1,,Territorio neutral,4
+3288823234.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$50,000 - $99,999",bachelor degree,pacific,1,,Territorio neutral,4
+3288802482.0,yes,1,yes,1.0,fan,4,medium_consumption,1,greedo,no,0.0,,,no,0.0,female,> 60,,graduate degree,south atlantic,1,1.0714285714285714,Rebelde nostalgico,2
+3288793006.0,yes,1,yes,1.0,fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$50,000 - $99,999",bachelor degree,mountain,1,1.0833333333333333,Rebelde nostalgico,2
+3288777560.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,"$25,000 - $49,999",some college or associate degree,pacific,1,0.3333333333333333,Jedi fiel,1
+3288772244.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,,high school degree,east north central,1,0.3333333333333333,Explorador casual,3
+3288771826.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,greedo,no,0.0,,,no,0.0,female,30-44,"$150,000+",bachelor degree,east north central,1,1.0714285714285714,Explorador casual,3
+3288750443.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,45-60,"$0 - $24,999",some college or associate degree,mountain,1,1.0714285714285714,Jedi fiel,1
+3288741236.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,18-29,"$25,000 - $49,999",some college or associate degree,mountain,1,1.5,Jedi fiel,1
+3288740386.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,,some college or associate degree,pacific,1,0.0,Territorio neutral,4
+3288728912.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$50,000 - $99,999",bachelor degree,south atlantic,1,0.2857142857142857,Rebelde nostalgico,2
+3288723253.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288722710.0,yes,1,yes,1.0,fan,3,medium_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$0 - $24,999",some college or associate degree,new england,1,1.6363636363636365,Rebelde nostalgico,2
+3288719090.0,yes,1,no,0.0,not_fan,5,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,18-29,"$25,000 - $49,999",bachelor degree,west south central,1,0.9166666666666666,Explorador casual,3
+3288718743.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,18-29,"$150,000+",bachelor degree,pacific,1,0.5,Jedi fiel,1
+3288714827.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,female,30-44,"$0 - $24,999",graduate degree,pacific,1,0.8461538461538461,Jedi fiel,1
+3288714697.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",high school degree,west north central,1,0.2307692307692307,Explorador casual,3
+3288713721.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",some college or associate degree,pacific,1,0.5454545454545454,Explorador casual,3
+3288713570.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,female,45-60,"$100,000 - $149,999",bachelor degree,south atlantic,1,0.8571428571428571,Jedi fiel,1
+3288712832.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$25,000 - $49,999",some college or associate degree,west north central,1,1.0,Jedi fiel,1
+3288704807.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,45-60,"$100,000 - $149,999",graduate degree,pacific,1,1.0714285714285714,Jedi fiel,1
+3288702291.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,30-44,"$150,000+",graduate degree,pacific,1,0.7857142857142857,Jedi fiel,1
+3288700554.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$25,000 - $49,999",bachelor degree,pacific,1,1.3333333333333333,Territorio neutral,4
+3288699973.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,yes,1.0,female,30-44,"$0 - $24,999",bachelor degree,east north central,1,,Territorio neutral,4
+3288698545.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$0 - $24,999",high school degree,middle atlantic,1,,Territorio neutral,4
+3288698085.0,yes,1,yes,1.0,fan,1,low_consumption,1,han,no,0.0,,,yes,1.0,female,> 60,"$25,000 - $49,999",graduate degree,pacific,1,1.3571428571428572,Rebelde nostalgico,2
+3288697760.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$100,000 - $149,999",some college or associate degree,east north central,1,1.7857142857142858,Explorador casual,3
+3288696158.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$100,000 - $149,999",graduate degree,pacific,1,,Territorio neutral,4
+3288694272.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$0 - $24,999",high school degree,west north central,1,,Territorio neutral,4
+3288690295.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,> 60,,bachelor degree,mountain,1,1.1428571428571428,Jedi fiel,1
+3288689621.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,,high school degree,east north central,1,,Territorio neutral,4
+3288687502.0,yes,1,yes,1.0,fan,5,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,18-29,"$50,000 - $99,999",some college or associate degree,pacific,1,0.8571428571428571,Jedi fiel,1
+3288685641.0,yes,1,yes,1.0,fan,5,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",graduate degree,west south central,1,0.8571428571428571,Jedi fiel,1
+3288683262.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$50,000 - $99,999",bachelor degree,pacific,1,,Territorio neutral,4
+3288683105.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,no,0.0,male,18-29,,less than high school degree,south atlantic,1,1.2142857142857142,Jedi fiel,1
+3288682774.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288682656.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,30-44,"$50,000 - $99,999",bachelor degree,new england,1,0.8571428571428571,Jedi fiel,1
+3288678886.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$100,000 - $149,999",some college or associate degree,east north central,1,1.4,Territorio neutral,4
+3288675923.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,18-29,,graduate degree,west south central,1,1.0833333333333333,Jedi fiel,1
+3288672490.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,female,18-29,"$50,000 - $99,999",bachelor degree,pacific,1,1.4166666666666667,Explorador casual,3
+3288672409.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,18-29,,some college or associate degree,pacific,1,1.2857142857142858,Jedi fiel,1
+3288672197.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$150,000+",bachelor degree,middle atlantic,1,,Territorio neutral,4
+3288671359.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,18-29,"$25,000 - $49,999",some college or associate degree,mountain,1,1.0769230769230769,Jedi fiel,1
+3288671328.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,18-29,"$0 - $24,999",bachelor degree,new england,1,0.1428571428571428,Jedi fiel,1
+3288670345.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,30-44,,graduate degree,pacific,1,1.2727272727272727,Jedi fiel,1
+3288668791.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$150,000+",bachelor degree,west north central,1,1.9285714285714288,Jedi fiel,1
+3288668404.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$25,000 - $49,999",some college or associate degree,east north central,1,,Territorio neutral,4
+3288668176.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,male,30-44,"$50,000 - $99,999",some college or associate degree,south atlantic,1,0.7857142857142857,Jedi fiel,1
+3288666429.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$25,000 - $49,999",bachelor degree,middle atlantic,1,,Territorio neutral,4
+3288665797.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$25,000 - $49,999",high school degree,pacific,1,,Territorio neutral,4
+3288665355.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288662617.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,,some college or associate degree,pacific,1,,Territorio neutral,4
+3288660175.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,female,45-60,"$50,000 - $99,999",graduate degree,pacific,1,0.8571428571428571,Jedi fiel,1
+3288657866.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$0 - $24,999",graduate degree,pacific,1,1.7,Explorador casual,3
+3288657113.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$25,000 - $49,999",bachelor degree,east north central,1,0.4615384615384615,Jedi fiel,1
+3288653945.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288653548.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",high school degree,west south central,1,1.0,Rebelde nostalgico,2
+3288653332.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,yes,1.0,female,45-60,"$0 - $24,999",high school degree,south atlantic,1,,Territorio neutral,4
+3288653149.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,female,18-29,"$150,000+",some college or associate degree,east north central,1,0.7857142857142857,Jedi fiel,1
+3288650455.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,,graduate degree,east north central,1,0.7857142857142857,Jedi fiel,1
+3288649171.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,,bachelor degree,west south central,1,,Territorio neutral,4
+3288647913.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",some college or associate degree,east south central,1,2.0,Jedi fiel,1
+3288647623.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$150,000+",graduate degree,south atlantic,1,1.1428571428571428,Explorador casual,3
+3288644592.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",some college or associate degree,west south central,1,1.4285714285714286,Jedi fiel,1
+3288644163.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,male,30-44,"$50,000 - $99,999",some college or associate degree,east south central,1,0.9285714285714286,Jedi fiel,1
+3288641278.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$100,000 - $149,999",graduate degree,west south central,1,,Territorio neutral,4
+3288639879.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$50,000 - $99,999",graduate degree,pacific,1,,Territorio neutral,4
+3288639732.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288639377.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,yes,1.0,yes,1.0,no,0.0,female,30-44,"$100,000 - $149,999",graduate degree,south atlantic,1,1.6153846153846154,Jedi fiel,1
+3288638640.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288635451.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,> 60,"$25,000 - $49,999",some college or associate degree,west south central,1,0.7857142857142857,Explorador casual,3
+3288633861.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$25,000 - $49,999",some college or associate degree,west north central,1,,Territorio neutral,4
+3288629979.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",bachelor degree,pacific,1,1.0714285714285714,Explorador casual,3
+3288627180.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$25,000 - $49,999",some college or associate degree,west south central,1,,Territorio neutral,4
+3288625580.0,yes,1,yes,1.0,fan,3,medium_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,,some college or associate degree,pacific,1,1.0,Rebelde nostalgico,2
+3288623870.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,,graduate degree,east south central,1,0.7692307692307693,Jedi fiel,1
+3288623420.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$50,000 - $99,999",some college or associate degree,mountain,1,,Territorio neutral,4
+3288623033.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,,bachelor degree,west south central,1,1.2857142857142858,Rebelde nostalgico,2
+3288620198.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,30-44,"$25,000 - $49,999",some college or associate degree,mountain,1,0.7142857142857143,Jedi fiel,1
+3288618459.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$100,000 - $149,999",graduate degree,middle atlantic,1,0.75,Explorador casual,3
+3288617343.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288617091.0,yes,1,no,0.0,not_fan,5,high_consumption,1,greedo,no,0.0,,,no,0.0,male,18-29,"$100,000 - $149,999",high school degree,middle atlantic,1,0.2857142857142857,Explorador casual,3
+3288614671.0,yes,1,no,0.0,not_fan,5,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$50,000 - $99,999",graduate degree,east north central,1,0.2307692307692307,Explorador casual,3
+3288614539.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,30-44,,graduate degree,mountain,1,0.7142857142857143,Jedi fiel,1
+3288614195.0,yes,1,no,0.0,not_fan,5,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$25,000 - $49,999",bachelor degree,pacific,1,0.0,Explorador casual,3
+3288613051.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,,some college or associate degree,middle atlantic,1,,Territorio neutral,4
+3288609566.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,18-29,"$25,000 - $49,999",bachelor degree,mountain,1,0.9285714285714286,Explorador casual,3
+3288608965.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288604946.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,,some college or associate degree,pacific,1,0.3571428571428571,Explorador casual,3
+3288602883.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$25,000 - $49,999",some college or associate degree,west south central,1,1.8571428571428568,Jedi fiel,1
+3288601847.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,45-60,"$50,000 - $99,999",some college or associate degree,west south central,1,1.1428571428571428,Jedi fiel,1
+3288601827.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$25,000 - $49,999",high school degree,south atlantic,1,,Territorio neutral,4
+3288599799.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,male,> 60,"$25,000 - $49,999",some college or associate degree,pacific,1,1.1538461538461535,Jedi fiel,1
+3288599067.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,> 60,"$50,000 - $99,999",graduate degree,mountain,1,0.8461538461538461,Jedi fiel,1
+3288593331.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,,some college or associate degree,south atlantic,1,,Territorio neutral,4
+3288590836.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3288588424.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,"$0 - $24,999",high school degree,south atlantic,1,,Territorio neutral,4
+3288587373.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,,,,,,0,0.9285714285714286,Jedi fiel,1
+3288586178.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",bachelor degree,east south central,1,0.9230769230769232,Explorador casual,3
+3288585053.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,18-29,"$50,000 - $99,999",bachelor degree,mountain,1,0.9285714285714286,Jedi fiel,1
+3288584578.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,30-44,"$50,000 - $99,999",graduate degree,mountain,1,0.5714285714285714,Jedi fiel,1
+3288583884.0,yes,1,no,0.0,not_fan,1,low_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,male,> 60,"$0 - $24,999",graduate degree,,1,1.1428571428571428,Territorio neutral,4
+3288583591.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288581774.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288580684.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3288580145.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$100,000 - $149,999",bachelor degree,west north central,1,,Territorio neutral,4
+3288579719.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3288579445.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$150,000+",bachelor degree,west south central,1,,Territorio neutral,4
+3288578983.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,,graduate degree,new england,1,,Explorador casual,3
+3288578072.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,45-60,"$150,000+",graduate degree,west south central,1,1.2142857142857142,Jedi fiel,1
+3288576462.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$25,000 - $49,999",some college or associate degree,west south central,1,0.5714285714285714,Jedi fiel,1
+3288574703.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,male,30-44,"$50,000 - $99,999",graduate degree,east north central,1,1.0,Jedi fiel,1
+3288571196.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$0 - $24,999",bachelor degree,east north central,1,0.9,Explorador casual,3
+3288568534.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,30-44,"$50,000 - $99,999",some college or associate degree,south atlantic,1,0.4285714285714285,Explorador casual,3
+3288567242.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$100,000 - $149,999",bachelor degree,east south central,1,1.2307692307692308,Explorador casual,3
+3288567154.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",graduate degree,middle atlantic,1,1.2857142857142858,Jedi fiel,1
+3288563970.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$50,000 - $99,999",graduate degree,south atlantic,1,,Territorio neutral,4
+3288563342.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$100,000 - $149,999",graduate degree,new england,1,,Territorio neutral,4
+3288563065.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$0 - $24,999",bachelor degree,,1,1.0,Explorador casual,3
+3288559700.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288559015.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",graduate degree,south atlantic,1,0.7692307692307693,Territorio neutral,4
+3288558131.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$50,000 - $99,999",graduate degree,pacific,1,0.5,Explorador casual,3
+3288557322.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,,some college or associate degree,east south central,1,,Territorio neutral,4
+3288553903.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,male,30-44,"$25,000 - $49,999",high school degree,middle atlantic,1,1.5,Jedi fiel,1
+3288553457.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288552984.0,yes,1,yes,1.0,fan,5,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,"$25,000 - $49,999",some college or associate degree,south atlantic,1,1.1428571428571428,Jedi fiel,1
+3288551156.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288549677.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$0 - $24,999",graduate degree,east north central,1,,Territorio neutral,4
+3288547379.0,yes,1,yes,1.0,fan,2,low_consumption,1,greedo,no,0.0,,,no,0.0,male,> 60,"$25,000 - $49,999",bachelor degree,west south central,1,1.2142857142857142,Rebelde nostalgico,2
+3288545527.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$50,000 - $99,999",graduate degree,east north central,1,1.1,Explorador casual,3
+3288544295.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",bachelor degree,middle atlantic,1,1.75,Explorador casual,3
+3288539645.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$150,000+",graduate degree,new england,1,,Territorio neutral,4
+3288538248.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,18-29,"$0 - $24,999",some college or associate degree,mountain,1,1.2857142857142858,Jedi fiel,1
+3288536532.0,yes,1,yes,1.0,fan,4,medium_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,female,45-60,"$150,000+",bachelor degree,south atlantic,1,0.9285714285714286,Rebelde nostalgico,2
+3288534023.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$25,000 - $49,999",graduate degree,south atlantic,1,0.3571428571428571,Explorador casual,3
+3288532773.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$50,000 - $99,999",bachelor degree,west south central,1,,Territorio neutral,4
+3288532255.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$50,000 - $99,999",some college or associate degree,pacific,1,,Territorio neutral,4
+3288526244.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,,bachelor degree,south atlantic,1,,Territorio neutral,4
+3288524042.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,> 60,"$25,000 - $49,999",some college or associate degree,pacific,1,0.3076923076923077,Jedi fiel,1
+3288523874.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,18-29,"$100,000 - $149,999",graduate degree,pacific,1,0.4285714285714285,Jedi fiel,1
+3288522525.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$150,000+",some college or associate degree,middle atlantic,1,1.4166666666666667,Rebelde nostalgico,2
+3288522488.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,no,0.0,female,18-29,"$50,000 - $99,999",graduate degree,south atlantic,1,0.9285714285714286,Jedi fiel,1
+3288521325.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,no,0.0,male,30-44,"$150,000+",bachelor degree,new england,1,1.0,Rebelde nostalgico,2
+3288519037.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$150,000+",graduate degree,south atlantic,1,0.5,Territorio neutral,4
+3288516295.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$100,000 - $149,999",graduate degree,east north central,1,0.8181818181818182,Explorador casual,3
+3288515773.0,yes,1,yes,1.0,fan,4,medium_consumption,1,greedo,no,0.0,,,no,0.0,female,45-60,"$150,000+",bachelor degree,east north central,1,1.1428571428571428,Rebelde nostalgico,2
+3288514217.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$50,000 - $99,999",graduate degree,east south central,1,0.0,Territorio neutral,4
+3288513045.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,,,,,,0,,Territorio neutral,4
+3288512822.0,yes,1,yes,1.0,fan,2,low_consumption,1,han,yes,1.0,yes,1.0,no,0.0,female,45-60,,graduate degree,middle atlantic,1,1.5833333333333333,Rebelde nostalgico,2
+3288512665.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,18-29,,bachelor degree,east north central,1,0.9285714285714286,Jedi fiel,1
+3288512020.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288511686.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$100,000 - $149,999",graduate degree,east north central,1,,Territorio neutral,4
+3288511180.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$100,000 - $149,999",some college or associate degree,middle atlantic,1,0.75,Territorio neutral,4
+3288509415.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,,bachelor degree,middle atlantic,1,1.3076923076923077,Jedi fiel,1
+3288506275.0,yes,1,yes,1.0,fan,5,high_consumption,1,greedo,no,0.0,,,yes,1.0,male,45-60,"$150,000+",graduate degree,middle atlantic,1,1.2857142857142858,Jedi fiel,1
+3288505925.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,18-29,"$50,000 - $99,999",some college or associate degree,west north central,1,0.6428571428571429,Jedi fiel,1
+3288505737.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,male,18-29,"$50,000 - $99,999",bachelor degree,pacific,1,0.5,Jedi fiel,1
+3288505216.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,,graduate degree,south atlantic,1,,Territorio neutral,4
+3288505151.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$50,000 - $99,999",high school degree,pacific,1,,Territorio neutral,4
+3288504398.0,yes,1,no,0.0,not_fan,1,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$50,000 - $99,999",high school degree,pacific,1,,Territorio neutral,4
+3288502884.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,18-29,"$25,000 - $49,999",graduate degree,new england,1,0.0,Explorador casual,3
+3288501301.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$0 - $24,999",graduate degree,pacific,1,0.6666666666666666,Jedi fiel,1
+3288499757.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$25,000 - $49,999",high school degree,south atlantic,1,,Territorio neutral,4
+3288498715.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,30-44,,some college or associate degree,south atlantic,1,1.0,Jedi fiel,1
+3288497532.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$50,000 - $99,999",graduate degree,south atlantic,1,,Territorio neutral,4
+3288497228.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$100,000 - $149,999",graduate degree,west north central,1,0.7857142857142857,Jedi fiel,1
+3288497010.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$150,000+",graduate degree,new england,1,,Territorio neutral,4
+3288493077.0,yes,1,no,0.0,not_fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,45-60,,bachelor degree,pacific,1,2.0,Explorador casual,3
+3288492006.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,18-29,"$25,000 - $49,999",some college or associate degree,east north central,1,1.0,Explorador casual,3
+3288484535.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,male,45-60,"$100,000 - $149,999",graduate degree,west south central,1,0.9230769230769232,Jedi fiel,1
+3288482717.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,female,18-29,"$50,000 - $99,999",bachelor degree,middle atlantic,1,1.1428571428571428,Jedi fiel,1
+3288482581.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,30-44,"$50,000 - $99,999",some college or associate degree,east south central,1,1.0714285714285714,Jedi fiel,1
+3288482369.0,yes,1,no,0.0,not_fan,1,low_consumption,1,greedo,yes,1.0,yes,1.0,yes,1.0,female,18-29,"$25,000 - $49,999",some college or associate degree,mountain,1,0.1428571428571428,Territorio neutral,4
+3288479368.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,no,0.0,female,45-60,,bachelor degree,south atlantic,1,1.0714285714285714,Jedi fiel,1
+3288479074.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$0 - $24,999",some college or associate degree,south atlantic,1,,Territorio neutral,4
+3288477753.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,male,45-60,"$100,000 - $149,999",bachelor degree,west south central,1,0.8461538461538461,Explorador casual,3
+3288476971.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,30-44,"$50,000 - $99,999",graduate degree,west north central,1,1.1428571428571428,Jedi fiel,1
+3288472373.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,> 60,"$0 - $24,999",some college or associate degree,pacific,1,,Territorio neutral,4
+3288471192.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,,bachelor degree,new england,1,,Territorio neutral,4
+3288469670.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,,high school degree,middle atlantic,1,,Territorio neutral,4
+3288469047.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,yes,1.0,yes,1.0,no,0.0,male,> 60,"$50,000 - $99,999",graduate degree,west north central,1,1.25,Explorador casual,3
+3288460192.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288459190.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,,graduate degree,west south central,1,0.2727272727272727,Explorador casual,3
+3288458873.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288456946.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,45-60,,graduate degree,middle atlantic,1,0.8571428571428571,Jedi fiel,1
+3288455900.0,yes,1,,,unknown,0,no_movies_seen,0,,,,,,,,,,,,,0,,Territorio neutral,4
+3288453555.0,yes,1,no,0.0,not_fan,1,low_consumption,1,greedo,no,0.0,,,no,0.0,male,> 60,"$50,000 - $99,999",graduate degree,middle atlantic,1,0.8571428571428571,Territorio neutral,4
+3288446700.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,45-60,"$150,000+",graduate degree,new england,1,0.7857142857142857,Explorador casual,3
+3288446529.0,yes,1,yes,1.0,fan,5,high_consumption,1,i don't understand this question,yes,1.0,no,0.0,yes,1.0,male,> 60,"$50,000 - $99,999",bachelor degree,west north central,1,0.7857142857142857,Jedi fiel,1
+3288445926.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$50,000 - $99,999",high school degree,west south central,1,1.4285714285714286,Explorador casual,3
+3288444784.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,yes,1.0,male,> 60,,graduate degree,pacific,1,1.5833333333333333,Rebelde nostalgico,2
+3288442728.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,30-44,"$50,000 - $99,999",graduate degree,east north central,1,1.25,Jedi fiel,1
+3288436226.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,,bachelor degree,middle atlantic,1,,Territorio neutral,4
+3288432395.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,"$50,000 - $99,999",some college or associate degree,west south central,1,,Territorio neutral,4
+3288429451.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,female,18-29,"$0 - $24,999",some college or associate degree,east north central,1,0.7857142857142857,Jedi fiel,1
+3288429390.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,30-44,"$50,000 - $99,999",bachelor degree,west south central,1,,Territorio neutral,4
+3288429092.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,> 60,"$50,000 - $99,999",some college or associate degree,pacific,1,1.5,Jedi fiel,1
+3288428243.0,yes,1,yes,1.0,fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$100,000 - $149,999",graduate degree,south atlantic,1,1.9166666666666667,Rebelde nostalgico,2
+3288425859.0,yes,1,no,0.0,not_fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,30-44,"$50,000 - $99,999",graduate degree,middle atlantic,1,1.5,Explorador casual,3
+3288423088.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,male,45-60,"$100,000 - $149,999",graduate degree,middle atlantic,1,,Territorio neutral,4
+3288423045.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$0 - $24,999",bachelor degree,pacific,1,1.0714285714285714,Explorador casual,3
+3288421819.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,> 60,"$0 - $24,999",some college or associate degree,west south central,1,,Territorio neutral,4
+3288420798.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$25,000 - $49,999",some college or associate degree,pacific,1,1.3571428571428572,Explorador casual,3
+3288417782.0,yes,1,no,0.0,not_fan,5,high_consumption,1,greedo,no,0.0,,,no,0.0,,,,,,0,0.4285714285714285,Explorador casual,3
+3288417641.0,yes,1,yes,1.0,fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$25,000 - $49,999",graduate degree,south atlantic,1,0.5384615384615384,Rebelde nostalgico,2
+3288416959.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,han,yes,1.0,no,0.0,no,0.0,female,> 60,,bachelor degree,new england,1,1.3846153846153846,Explorador casual,3
+3288415166.0,yes,1,no,0.0,not_fan,5,high_consumption,1,han,no,0.0,,,no,0.0,male,45-60,"$100,000 - $149,999",graduate degree,middle atlantic,1,0.4285714285714285,Explorador casual,3
+3288414025.0,yes,1,yes,1.0,fan,6,high_consumption,1,greedo,no,0.0,,,yes,1.0,female,30-44,"$50,000 - $99,999",bachelor degree,mountain,1,2.0,Jedi fiel,1
+3288413441.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,18-29,"$150,000+",some college or associate degree,south atlantic,1,1.2307692307692308,Jedi fiel,1
+3288410348.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,greedo,yes,1.0,no,0.0,no,0.0,female,30-44,,graduate degree,east north central,1,1.8,Explorador casual,3
+3288410073.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$150,000+",graduate degree,east north central,1,,Territorio neutral,4
+3288408698.0,yes,1,yes,1.0,fan,4,medium_consumption,1,han,no,0.0,,,yes,1.0,male,45-60,"$25,000 - $49,999",bachelor degree,south atlantic,1,1.2142857142857142,Rebelde nostalgico,2
+3288402717.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,45-60,,graduate degree,east north central,1,,Territorio neutral,4
+3288402643.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,yes,1.0,yes,1.0,female,> 60,"$25,000 - $49,999",bachelor degree,mountain,1,0.9285714285714286,Jedi fiel,1
+3288402592.0,yes,1,yes,1.0,fan,3,medium_consumption,1,greedo,yes,1.0,no,0.0,yes,1.0,female,> 60,,high school degree,pacific,1,0.9285714285714286,Rebelde nostalgico,2
+3288402511.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,30-44,,bachelor degree,middle atlantic,1,1.8461538461538465,Jedi fiel,1
+3288401681.0,yes,1,no,0.0,not_fan,3,medium_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,> 60,,some college or associate degree,west north central,1,2.0,Explorador casual,3
+3288401136.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,yes,1.0,no,0.0,yes,1.0,female,45-60,"$50,000 - $99,999",graduate degree,west south central,1,0.9285714285714286,Jedi fiel,1
+3288398062.0,yes,1,no,0.0,not_fan,2,low_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,45-60,"$0 - $24,999",high school degree,middle atlantic,1,0.0,Explorador casual,3
+3288396374.0,yes,1,no,0.0,not_fan,5,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,male,> 60,"$50,000 - $99,999",some college or associate degree,pacific,1,1.4545454545454546,Explorador casual,3
+3288395255.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,18-29,,less than high school degree,west north central,1,,Territorio neutral,4
+3288391812.0,yes,1,yes,1.0,fan,2,low_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$0 - $24,999",some college or associate degree,west north central,1,0.8571428571428571,Rebelde nostalgico,2
+3288389603.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,no,0.0,female,45-60,"$0 - $24,999",some college or associate degree,pacific,1,1.5714285714285714,Jedi fiel,1
+3288388730.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,18-29,"$0 - $24,999",some college or associate degree,east north central,1,1.3571428571428572,Jedi fiel,1
+3288378779.0,yes,1,yes,1.0,fan,6,high_consumption,1,i don't understand this question,no,0.0,,,yes,1.0,female,30-44,"$50,000 - $99,999",bachelor degree,mountain,1,0.6153846153846154,Jedi fiel,1
+3288375286.0,no,0,,,unknown,0,no_movies_seen,0,,,,,,no,0.0,female,30-44,"$50,000 - $99,999",bachelor degree,middle atlantic,1,,Territorio neutral,4
+3288373068.0,yes,1,yes,1.0,fan,6,high_consumption,1,han,no,0.0,,,yes,1.0,female,45-60,"$100,000 - $149,999",some college or associate degree,east north central,1,1.4285714285714286,Jedi fiel,1
+3288372923.0,yes,1,no,0.0,not_fan,4,medium_consumption,1,i don't understand this question,no,0.0,,,no,0.0,female,> 60,"$50,000 - $99,999",graduate degree,pacific,1,0.1538461538461538,Explorador casual,3

@@ -1,5 +1,5 @@
 risk,evidence,business_impact
 Muestra orientada a personas que conocen Star Wars,78.92% declara haber visto alguna pelicula.,Puede sobreestimar la demanda real del publico general.
-Sesgo fan,66.03% se declara fan entre respuestas validas.,Las preferencias pueden favorecer personajes iconicos y no nichos de crecimiento.
+Sesgo fan,66.03% se declara fan entre respuestas validas.,Las preferencias pueden favorecer personajes iconicos frente a nichos de crecimiento.
 Datos demograficos incompletos,88.2% tiene alguna informacion demografica util.,"La segmentacion por edad, genero, ingresos o region debe interpretarse con cautela."
-Datos internos incompletos,"Planetas, naves, armas y droides tienen campos economicos o fisicos con nulos.","El potencial comercial no debe calcularse solo con coste, tamano o capacidad."
+Contenido expandido sin dimension propia,"Algunas listas contienen series, videojuegos o personajes secundarios sin tabla maestra.",No debe forzarse una relacion si el dashboard no analiza ese universo expandido.

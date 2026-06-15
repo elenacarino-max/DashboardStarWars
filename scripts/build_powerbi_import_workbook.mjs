@@ -1,6 +1,18 @@
 import fs from "node:fs/promises";
 import path from "node:path";
-import { Workbook, SpreadsheetFile } from "@oai/artifact-tool";
+import { pathToFileURL } from "node:url";
+
+const nodeModuleDirs = (process.env.NODE_PATH ?? "")
+  .split(path.delimiter)
+  .filter(Boolean);
+const artifactToolPath = path.join(
+  nodeModuleDirs[0] ?? path.join(process.cwd(), "node_modules"),
+  "@oai",
+  "artifact-tool",
+  "dist",
+  "artifact_tool.mjs",
+);
+const { Workbook, SpreadsheetFile } = await import(pathToFileURL(artifactToolPath).href);
 
 const projectRoot = process.cwd();
 const processedDir = path.join(projectRoot, "data", "processed");

@@ -1,0 +1,15 @@
+character_key,character_name,brand_emotion,emotional_role,activation_use,familiarity_score,audience_affinity_score,quote_count,favorable_pct,unfavorable_pct,opinion_responses,opportunity_quadrant,polarization_risk
+han_solo,Han Solo,Rebeldia,Carisma inconformista,"Tono aventurero, nostalgico y de alta afinidad.",98.19,91.8,17.0,91.8,1.09,829,priority_campaign,bajo
+obi_wan_kenobi,Obi-Wan Kenobi,Legado,Puente generacional,Narrativa clasica con autoridad y memoria.,97.94,90.8,15.0,90.91,1.82,825,priority_campaign,bajo
+yoda,Yoda,Sabiduria,Mentor Jedi,"Experiencias de aprendizaje, misterio y entrenamiento.",98.79,90.75,11.0,90.68,1.94,826,priority_campaign,bajo
+luke_skywalker,Luke Skywalker,Esperanza,Heroe aspiracional,Activaciones heroicas y mensajes de superacion.,99.28,89.52,9.0,92.78,1.93,831,priority_campaign,bajo
+r2_d2,R2-D2,Compania,Humor y ternura,Entrada amable para publico familiar y casual.,98.8,89.25,0.0,90.0,1.93,830,hidden_opportunity,bajo
+leia_organa,Leia Organa,Liderazgo,Autoridad rebelde,"Campanas de liderazgo, comunidad y resistencia.",99.04,88.88,6.0,91.1,2.17,831,priority_campaign,bajo
+c_3po,C-3PO,Humor,Compania reconocible,"Activaciones ligeras, familiares y nostalgicas.",98.19,85.1,2.0,85.01,3.63,827,hidden_opportunity,bajo
+anakin_skywalker,Anakin Skywalker,Conflicto,Transformacion,Relatos de dualidad y eleccion de bando.,93.68,69.4,2.0,62.45,14.82,823,low_priority,medio
+lando_calrissian,Lando Calrissian,Estilo,Carisma secundario,"Campanas de nostalgia, moda y diferenciacion.",81.95,65.92,2.0,44.51,8.66,820,low_priority,bajo
+padme_amidala,Padme Amidala,Elegancia,Politica y estilo,Activaciones lifestyle y estetica Naboo.,79.85,65.12,2.0,43.12,11.3,814,low_priority,medio
+darth_vader,Darth Vader,Poder,Icono premium polarizante,"Linea visual adulta, intensa y de alto reconocimiento.",98.79,61.98,10.0,58.23,30.39,826,repositioning_needed,alto
+boba_fett,Boba Fett,Misterio,Coleccionismo,Linea nicho para fans de iconografia y armaduras.,83.74,58.92,1.0,35.84,17.36,812,low_priority,medio
+emperor_palpatine,Emperor Palpatine,Amenaza,Riesgo dramatico,"Contrapunto del Lado Oscuro, uso secundario.",80.84,51.78,4.0,31.08,23.59,814,repositioning_needed,medio
+jar_jar_binks,Jar Jar Binks,Riesgo de rechazo,Personaje polarizante,Usar solo como aprendizaje de sesgo y tono.,86.72,44.52,0.0,29.48,37.27,821,low_priority,alto

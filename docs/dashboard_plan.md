@@ -2,200 +2,201 @@
 
 ## Pregunta ejecutiva
 
-Que elementos del universo Star Wars tienen mayor potencial para campanas de merchandising, contenido y experiencias interactivas?
+Que tipo de experiencia Star Wars deberiamos crear para reactivar a cada tipo de publico?
 
 ## Narrativa
 
-El dashboard debe contar una historia sencilla:
+El dashboard cuenta la historia **Choose Your Side - Star Wars Rebellion Lab**.
 
-1. Que activos tiene el universo Star Wars.
-2. Que elementos parecen tener mas peso narrativo o comercial.
-3. Que opina la audiencia.
-4. Que rendimiento comercial han tenido las peliculas.
-5. Que oportunidades aparecen al cruzar presencia interna, traccion de audiencia y negocio.
-6. Que sesgos limitan la lectura.
-7. Que decisiones deberia tomar la empresa.
+La galaxia no ha desaparecido del imaginario del publico, pero la conexion no esta igual de activa en todos los segmentos. El objetivo no es elegir un unico producto ni un unico personaje, sino disenar una estrategia modular de marca: varias rutas de entrada para que cada persona encuentre su lugar en la galaxia.
 
-## Pagina 1: Portada ejecutiva
+El dashboard debe responder:
 
-Objetivo: situar rapidamente al publico.
+1. Donde sigue viva la conexion con Star Wars.
+2. Que tipos de audiencia existen.
+3. Que emociones activa cada personaje.
+4. Que peliculas funcionan como puertas de entrada.
+5. Que mundos pueden convertirse en experiencias.
+6. Que naves, vehiculos y armas aportan espectaculo.
+7. Que estrategia final debe lanzar la empresa.
 
-Elementos:
+## Pagina 1: La senal perdida
 
-- Titulo del proyecto.
-- Cliente ficticio.
-- Pregunta estrategica.
-- KPIs generales.
+Objetivo: medir la conexion activa con Star Wars.
 
-KPIs posibles:
+Tablas:
 
-- Total de personajes.
-- Total de especies.
-- Total de planetas.
-- Total de naves o vehiculos.
-- Total de respuestas de encuesta.
-- Porcentaje de fans.
-- Taquilla mundial total.
-- ROI medio.
-- Indice de Potencial de Merchandising.
+- `eda_survey_kpis.csv`
+- `eda_fan_by_age.csv`
+- `eda_fan_by_gender.csv`
+- `survey_respondents.csv`
 
-## Pagina 2: Universo Star Wars
+Graficos:
 
-Objetivo: entender la composicion interna del universo.
+- Tarjetas KPI: encuestados, `% que ha visto alguna pelicula`, `% fans`, media de peliculas vistas.
+- Barras: fan rate por edad.
+- Barras: fan rate por genero.
+- Segmentador: `fan_segment`.
 
-Graficos sugeridos:
+Mensaje:
 
-- Personajes por especie.
-- Personajes por genero.
-- Personajes por planeta de origen.
-- Distribucion de altura o masa.
+> El primer hallazgo no es que pelicula gusta mas, sino donde sigue viva la conexion.
 
-Filtros:
+## Pagina 2: Los clanes de la galaxia
 
-- Genero.
-- Especie.
-- Planeta de origen.
+Objetivo: convertir la muestra en segmentos accionables.
 
-Pregunta de negocio:
+Tablas:
 
-> Que grupos y personajes dominan la representacion del universo Star Wars?
+- `strategy_audience_segments.csv`
+- `strategy_audience_age_matrix.csv`
+- `strategy_survey_respondents.csv`
 
-## Pagina 3: Planetas, naves y oportunidades narrativas
+Segmentos:
 
-Objetivo: identificar elementos con potencial visual, narrativo o comercial.
+| Segmento | Definicion | Rol estrategico |
+|---|---|---|
+| Jedi fiel | Fan y 5 o mas peliculas vistas | Profundidad, lore e inmersion |
+| Rebelde nostalgico | Fan con menos de 5 peliculas vistas | Nostalgia y recuerdo emocional |
+| Explorador casual | No fan con 2 o mas peliculas vistas | Reconocimiento visual y entrada simple |
+| Territorio neutral | No fan o consumo casi nulo | Primer contacto digital y sin exceso de lore |
 
-Graficos sugeridos:
+Graficos:
 
-- Top planetas por poblacion.
-- Planetas por clima o terreno.
-- Naves por coste.
-- Naves por capacidad, velocidad o fabricante.
+- Barras o donut: distribucion de `audience_type`.
+- Barras: media de peliculas vistas por segmento.
+- Matriz: `audience_type` x `age`.
+- Tabla breve con `strategic_role`, `recommended_message` y `activation_goal`.
 
-Filtros:
+Mensaje:
 
-- Clima.
-- Terreno.
-- Fabricante.
-- Clase de nave.
+> La galaxia no tiene una audiencia unica. Tiene clanes.
 
-Pregunta de negocio:
+## Pagina 3: El mapa emocional de Star Wars
 
-> Que localizaciones y vehiculos tienen mayor potencial para campanas, productos o experiencias interactivas?
+Objetivo: presentar personajes como emociones de marca.
 
-## Pagina 4: Percepcion de audiencia
+Tablas:
 
-Objetivo: medir que conecta con el publico.
+- `strategy_character_emotional_map.csv`
+- `eda_character_merchandising_opportunities.csv`
+- `eda_quote_character_summary.csv`
 
-Graficos sugeridos:
+Graficos:
 
-- Porcentaje de personas que se consideran fans.
-- Peliculas mas vistas.
-- Ranking de peliculas.
-- Personajes mejor valorados.
-- Diferencias por edad, genero o nivel educativo.
+- Dispersion: X `familiarity_score`, Y `audience_affinity_score`, tamano `quote_count`, leyenda `brand_emotion`.
+- Dispersion: X `favorable_pct`, Y `unfavorable_pct`, tamano `opinion_responses`, detalle `character_name`.
+- Barras: personajes con mas frases o presencia narrativa.
+- Tabla: personaje, emocion, rol emocional, uso de activacion y riesgo de polarizacion.
 
-Filtros:
+Mensaje:
 
-- Fan / no fan.
-- Edad.
-- Genero.
-- Educacion.
-- Ingresos.
-- Region.
+> Star Wars no conecta por sus datos tecnicos. Conecta por emociones.
 
-Pregunta de negocio:
+## Pagina 4: Las puertas de entrada al universo
 
-> Que contenido conecta mejor con la audiencia?
+Objetivo: decidir que pelicula abre mejor la conversacion con cada publico.
 
-## Pagina 5: Rendimiento comercial de la franquicia
+Tablas:
 
-Objetivo: incorporar una lectura claramente de negocio.
-
-Tabla principal:
-
+- `eda_movie_opportunities.csv`
+- `eda_movie_commercial_audience_summary.csv`
 - `films_business_clean.csv`
 
-Graficos sugeridos:
+Graficos:
 
-- Taquilla mundial por pelicula.
-- Presupuesto frente a taquilla mundial.
-- ROI por pelicula.
-- Taquilla mundial por era.
-- Comparativa entre peliculas clasicas, precuelas, secuelas, spin-offs y nuevas.
+- Barras: `movie_title` por `movie_campaign_score`.
+- Dispersion: X `view_rate_pct`, Y `preference_score`, tamano `first_place_pct`.
+- Dispersion: X `worldwide_box_office_usd`, Y `view_rate_pct`, tamano `roi`, leyenda `era`.
+- Tabla: pelicula, taquilla, ROI, visionado, preferencia y estado del dato.
 
-Advertencia:
+Mensaje:
 
-- `The Mandalorian and Grogu` se marca como `partial_current_release`, porque sus datos de taquilla son recientes y pueden cambiar.
+> La pregunta no es cual es la mejor pelicula. La pregunta es que pelicula abre mejor la conversacion con cada publico.
 
-Pregunta de negocio:
+## Pagina 5: Planetas como experiencias
 
-> Que peliculas han generado mas valor economico y como se relaciona eso con la percepcion de audiencia?
+Objetivo: transformar mundos en atmosferas de campana.
 
-## Pagina 6: Oportunidades de merchandising
+Tablas:
 
-Objetivo: convertir el analisis en una herramienta de priorizacion comercial.
+- `strategy_planet_experiences.csv`
+- `story_featured_assets.csv`
+- `eda_planet_business_summary.csv`
+- `universe_planets_clean.csv`
 
-Elemento central:
+Graficos:
 
-- Indice de Potencial de Merchandising.
+- Tarjetas: planeta, atmosfera de marca y concepto de experiencia.
+- Barras: planetas por `film_count`.
+- Barras: planetas por `resident_count`.
+- Dispersion opcional: X `film_count`, Y `resident_count`, tamano `population`, leyenda `climate`.
 
-Logica del indice:
+Mensaje:
 
-- Presencia interna del elemento en el universo.
-- Afinidad o valoracion de audiencia.
-- Potencial visual/comercial para merchandising, campanas o experiencias.
-- Penalizacion por baja calidad del dato o muestra insuficiente.
+> Los planetas no son fondos decorativos. Son atmosferas de campana.
 
-Graficos sugeridos:
+## Pagina 6: Tecnologia, poder y velocidad
 
-- Ranking de elementos con mayor potencial.
-- Cuadrante de presencia interna frente a afinidad de audiencia.
-- Tabla de oportunidades con explicacion ejecutiva.
+Objetivo: agrupar naves, vehiculos y armas como activos de adrenalina.
 
-Lectura del cuadrante:
+Tablas:
 
-- Alta presencia + alta audiencia: prioridad clara de campana.
-- Alta presencia + baja audiencia: reposicionamiento o revision narrativa.
-- Baja presencia + alta audiencia: oportunidad oculta.
-- Baja presencia + baja audiencia: baja prioridad comercial.
+- `eda_starship_business_summary.csv`
+- `eda_weapon_business_summary.csv`
+- `universe_starships_clean.csv`
+- `universe_vehicles_clean.csv`
+- `universe_weapons_clean.csv`
 
-Pregunta de negocio:
+Graficos:
 
-> Que elementos deberian priorizarse en una campana de merchandising?
+- Barras: naves por `film_count`.
+- Barras: naves por `starship_class`.
+- Dispersion: X `cost_in_credits`, Y `film_count`, tamano `length`, detalle `name`.
+- Barras: armas por `film_count`.
 
-## Pagina 7: Sesgos y gobernanza
+Mensaje:
 
-Objetivo: demostrar lectura critica de los datos.
+> Si los personajes generan emocion, las naves y armas generan espectaculo.
 
-Elementos:
+## Pagina 7: La estrategia de reactivacion
 
-- Tabla o matriz de porcentaje de nulos.
-- Variables con mayor incompletitud.
-- Advertencias de representatividad.
-- Riesgos si la empresa toma decisiones sin revisar los sesgos.
+Objetivo: cerrar con una recomendacion accionable de marca.
 
-Sesgos a revisar:
+Tablas:
 
-- Representacion desigual de generos, especies o personajes.
-- Datos incompletos en variables como masa, altura, poblacion o coste.
-- Encuesta dominada por fans.
-- Posible sesgo generacional, geografico o cultural.
-- Popularidad concentrada en personajes principales.
+- `strategy_experience_routes.csv`
+- `story_campaign_lines.csv`
+- `eda_conclusions.csv`
+- `eda_survey_bias_visual.csv`
 
-Mensaje clave:
+Graficos:
 
-> Los datos orientan decisiones, pero no son una representacion neutral ni completa de la realidad.
+- Matriz: `audience_type`, `entry_gate`, `key_characters`, `world`, `experience_format`, `recommended_action`.
+- Tarjetas: una ruta por segmento.
+- Tabla: conclusiones ejecutivas.
+- Barras pequenas: sesgos principales desde `eda_survey_bias_visual.csv`.
 
-## Pagina 8: Recomendaciones estrategicas
+Mensaje:
 
-Objetivo: cerrar con decisiones accionables.
+> Star Wars no necesita una campana unica. Necesita una galaxia de experiencias, disenada para que cada publico elija su lado.
 
-Recomendaciones posibles:
+Lectura obligatoria:
 
-- Priorizar personajes y peliculas con alta valoracion de audiencia.
-- Usar planetas, especies y naves de alto potencial visual en campanas.
-- Activar primero los elementos situados en el cuadrante de alta presencia y alta audiencia.
-- Explorar oportunidades ocultas con baja presencia pero alta afinidad.
-- Crear campanas diferenciadas para audiencias fan y no fan.
-- Revisar la calidad del dato antes de automatizar decisiones.
-- Combinar presencia interna, percepcion externa y fiabilidad del dato.
+> La recomendacion es accionable, pero direccional: la muestra esta muy familiarizada con Star Wars y no representa por si sola al mercado general.
+
+## Sesgos y lectura critica
+
+La lectura de sesgos puede aparecer como bloque final de la pagina 7 o como pagina anexa si el dashboard necesita mas detalle.
+
+Puntos obligatorios:
+
+- 78,92% de la muestra ha visto alguna pelicula.
+- 66,03% se declara fan.
+- La muestra no representa de forma neutral al publico general.
+- Hoth y Dagobah son activos narrativos de experiencia, no ganadores cuantitativos del ranking de planetas.
+- Los costes de naves y armas tienen nulos relevantes, asi que se interpretan como contexto, no como KPI principal.
+
+## Entrega recomendada
+
+La version principal debe ser de 7 paginas. Si el tiempo de presentacion es corto, se puede mostrar la pagina de sesgos integrada en el cierre y dejar graficos de calidad del dato como anexo.

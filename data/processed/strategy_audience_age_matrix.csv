@@ -1,0 +1,21 @@
+audience_type_order,audience_type,age,respondents,avg_movies_seen,fan_rate_pct
+1,Jedi fiel,18-29,118,5.966101694915254,100.0
+1,Jedi fiel,30-44,127,5.952755905511811,100.0
+1,Jedi fiel,45-60,118,5.906779661016949,100.0
+1,Jedi fiel,> 60,71,5.859154929577465,100.0
+1,Jedi fiel,,9,5.888888888888889,100.0
+2,Rebelde nostalgico,18-29,6,3.0,100.0
+2,Rebelde nostalgico,30-44,23,3.130434782608696,100.0
+2,Rebelde nostalgico,45-60,36,3.3055555555555554,100.0
+2,Rebelde nostalgico,> 60,42,3.119047619047619,100.0
+2,Rebelde nostalgico,,2,2.5,100.0
+3,Explorador casual,18-29,49,4.0,0.0
+3,Explorador casual,30-44,53,4.2075471698113205,0.0
+3,Explorador casual,45-60,69,3.3768115942028984,0.0
+3,Explorador casual,> 60,59,3.593220338983051,0.0
+3,Explorador casual,,4,3.25,0.0
+4,Territorio neutral,18-29,45,0.15555555555555556,0.0
+4,Territorio neutral,30-44,65,0.06153846153846154,0.0
+4,Territorio neutral,45-60,68,0.25,0.0
+4,Territorio neutral,> 60,97,0.20618556701030927,0.0
+4,Territorio neutral,,125,0.008,0.0

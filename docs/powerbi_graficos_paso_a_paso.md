@@ -1,344 +1,326 @@
 # Power BI - Graficos paso a paso
 
-Esta guia convierte el documento de storytelling en instrucciones concretas dentro de Power BI.
+Guia practica para montar **Choose Your Side - Star Wars Rebellion Lab** en Power BI.
 
 ## Antes de crear graficos
 
 Comprueba esto en Power BI:
 
-1. Vista `Modelo`: revisa que no haya relaciones raras `*:*`.
-2. Vista `Datos`: confirma que los campos monetarios son numero entero o decimal.
-3. Vista `Informe`: empieza con pocas paginas y pocos visuales. Es mejor un dashboard claro que muchas paginas llenas.
+1. Importa `powerbi/starwars_powerbi_import.xlsx` o los CSV de `data/processed`.
+2. Revisa que los campos porcentuales sean numeros decimales.
+3. Ordena `strategy_audience_segments[audience_type]` por `audience_type_order`.
+4. Ordena `storytelling_powerbi_pages[page_name]` por `page_order`.
+5. No fuerces relaciones entre tablas resumen si no son necesarias para un visual.
 
 ## Medidas base
 
-Crea una tabla llamada `Medidas` si puedes. Si no, crea las medidas dentro de `films_business_clean` y `survey_respondents`.
-
-### Negocio
-
-```DAX
-Worldwide Box Office =
-SUM(films_business_clean[worldwide_box_office_usd])
-```
-
-```DAX
-Total Production Budget =
-SUM(films_business_clean[budget_usd])
-```
-
-```DAX
-Estimated Profit =
-SUM(films_business_clean[profit_estimated_usd])
-```
-
-```DAX
-Average ROI =
-AVERAGE(films_business_clean[roi])
-```
-
-### Audiencia
+Crea una tabla llamada `Medidas`.
 
 ```DAX
 Total Respondents =
-DISTINCTCOUNT(survey_respondents[respondent_id])
+MAX(eda_survey_kpis[respondents])
 ```
 
 ```DAX
-Fans % =
-AVERAGE(survey_respondents[is_star_wars_fan_binary])
+Seen Any Star Wars % =
+DIVIDE(MAX(eda_survey_kpis[seen_any_star_wars_pct]), 100)
 ```
 
 ```DAX
-Seen Any Film % =
-AVERAGE(survey_respondents[has_seen_any_star_wars_film_binary])
+Star Wars Fan % =
+DIVIDE(MAX(eda_survey_kpis[star_wars_fan_pct]), 100)
 ```
 
 ```DAX
 Avg Movies Seen =
-AVERAGE(survey_respondents[total_movies_seen])
-```
-
-### Universo
-
-```DAX
-Universe Assets =
-COUNTROWS(universe_assets)
+MAX(eda_survey_kpis[avg_movies_seen])
 ```
 
 ```DAX
-Avg Merchandising Potential =
-AVERAGE(eda_character_merchandising_opportunities[merchandising_potential_index])
+Audience Segment Share % =
+DIVIDE(SUM(strategy_audience_segments[share_pct]), 100)
+```
+
+```DAX
+Movie View Rate % =
+DIVIDE(AVERAGE(eda_movie_commercial_audience_summary[view_rate_pct]), 100)
+```
+
+```DAX
+Avg Favorable % =
+DIVIDE(AVERAGE(strategy_character_emotional_map[favorable_pct]), 100)
+```
+
+```DAX
+Avg Unfavorable % =
+DIVIDE(AVERAGE(strategy_character_emotional_map[unfavorable_pct]), 100)
+```
+
+```DAX
+Worldwide Box Office =
+SUM(eda_movie_commercial_audience_summary[worldwide_box_office_usd])
 ```
 
 ## Graficos imprescindibles
 
-Si vas justa de tiempo, crea estos primero.
+Si vas justa de tiempo, monta estos primero.
 
-### 1. Taquilla mundial por pelicula
+### 1. KPIs de conexion
 
-Visual: `Grafico de barras agrupadas`.
-
-Campos:
-
-- Eje Y: `films_business_clean[film_title]`
-- Eje X: `films_business_clean[worldwide_box_office_usd]`
-- Filtro visual: `films_business_clean[data_status] = final`
-
-Formato:
-
-- Ordenar por `worldwide_box_office_usd`, descendente.
-- Titulo: `Peliculas con mayor recaudacion mundial`
-- Formato del eje X: moneda USD.
-
-Lectura:
-
-La pelicula con mayor taquilla no tiene por que ser la mas rentable proporcionalmente.
-
-### 2. ROI por pelicula
-
-Visual: `Grafico de barras agrupadas`.
+Visual: tarjetas.
 
 Campos:
 
-- Eje Y: `films_business_clean[film_title]`
-- Eje X: `films_business_clean[roi]`
-- Filtro visual: `films_business_clean[data_status] = final`
-
-Formato:
-
-- Ordenar por `roi`, descendente.
-- Titulo: `Rentabilidad relativa por pelicula`
+- `[Total Respondents]`
+- `[Seen Any Star Wars %]`
+- `[Star Wars Fan %]`
+- `[Avg Movies Seen]`
 
 Lectura:
 
-Las peliculas clasicas pueden destacar en ROI porque sus presupuestos fueron mucho menores.
+La muestra ya conoce Star Wars: 78,92% ha visto alguna pelicula y 66,03% se declara fan.
 
-### 3. Fans vs no fans
+### 2. Segmentos Choose Your Side
 
-Visual: `Grafico de dona`.
+Visual: barras horizontales o dona.
 
 Campos:
 
-- Leyenda: `survey_respondents[fan_segment]`
-- Valores: `survey_respondents[respondent_id]`
+- Leyenda/eje: `strategy_audience_segments[audience_type]`
+- Valores: `strategy_audience_segments[respondents]`
+- Tooltip: `strategic_role`, `activation_goal`
 
-Configuracion:
+Orden:
 
-- En `respondent_id`, usa `Recuento distinto`.
-- Titulo: `Distribucion de fans en la muestra`
+- Ordenar por `audience_type_order`, ascendente.
 
 Lectura:
 
-Este grafico ayuda a explicar si la encuesta puede estar sesgada hacia fans.
+La audiencia se divide en clanes accionables: Jedi fiel, Rebelde nostalgico, Explorador casual y Territorio neutral.
 
-### 4. Peliculas mas vistas
+### 3. Media de peliculas vistas por segmento
 
-Visual: `Grafico de barras agrupadas`.
+Visual: columnas.
 
 Campos:
 
-- Eje Y: `eda_movie_views_summary[movie_title]`
-- Eje X: `eda_movie_views_summary[view_rate_pct]`
-
-Formato:
-
-- Ordenar por `view_rate_pct`, descendente.
-- Titulo: `Peliculas mas vistas por la audiencia`
-- Mostrar `view_rate_pct` como porcentaje.
+- Eje: `audience_type`
+- Valor: `avg_movies_seen`
 
 Lectura:
 
-Mide alcance de audiencia, no preferencia.
+Sirve para distinguir profundidad real de vinculo. El Jedi fiel consume casi toda la saga; Territorio neutral apenas entra en ella.
 
-### 5. Personajes mejor valorados
+### 4. Mapa emocional de personajes
 
-Visual: `Grafico de barras agrupadas`.
+Visual: dispersion.
 
 Campos:
 
-- Eje Y: `eda_character_opinion_summary[character_name]`
-- Eje X: `eda_character_opinion_summary[favorable_pct]`
-
-Filtros:
-
-- Top N: mostrar solo los 10 primeros por `favorable_pct`.
-
-Formato:
-
-- Titulo: `Personajes con mejor percepcion de audiencia`
+- X: `strategy_character_emotional_map[familiarity_score]`
+- Y: `strategy_character_emotional_map[audience_affinity_score]`
+- Tamano: `quote_count`
+- Leyenda: `brand_emotion`
+- Detalles: `character_name`
 
 Lectura:
 
-Sirve para conectar el analisis con campanas y merchandising.
+El eje X mide reconocimiento, el eje Y mide conexion emocional y el tamano muestra presencia narrativa.
 
-### 6. Ranking de merchandising
+### 5. Amor vs rechazo
 
-Visual: `Grafico de barras agrupadas`.
+Visual: dispersion.
 
 Campos:
 
-- Eje Y: `eda_character_merchandising_opportunities[character_name]`
-- Eje X: `eda_character_merchandising_opportunities[merchandising_potential_index]`
-
-Filtros:
-
-- Top N: 10 primeros por `merchandising_potential_index`.
-
-Formato:
-
-- Titulo: `Personajes con mayor potencial de merchandising`
+- X: `favorable_pct`
+- Y: `unfavorable_pct`
+- Tamano: `opinion_responses`
+- Leyenda: `polarization_risk`
+- Detalles: `character_name`
 
 Lectura:
 
-Este es el grafico mas conectado con la pregunta principal del proyecto.
+Detecta personajes seguros y personajes polarizantes. Darth Vader puede ser potente para una experiencia premium, pero no debe leerse como personaje de afecto masivo.
 
-## Pagina 1 - Resumen ejecutivo
+### 6. Puertas de entrada por pelicula
 
-Objetivo: que una persona no tecnica entienda el proyecto en 30 segundos.
+Visual: barras horizontales.
 
-Visuales:
+Campos:
 
-- Tarjeta: `Total Respondents`
-- Tarjeta: `Fans %`
-- Tarjeta: `Seen Any Film %`
-- Tarjeta: `Universe Assets`
-- Tarjeta: `Worldwide Box Office`
-- Tarjeta: `Avg Merchandising Potential`
-- Tabla: `eda_conclusions`
-
-Titulo recomendado:
-
-`Star Wars BI: negocio, audiencia y universo narrativo`
-
-Texto corto:
-
-`El dashboard cruza datos narrativos, percepcion de audiencia y rendimiento comercial para priorizar oportunidades de entretenimiento y merchandising.`
-
-## Pagina 2 - Rendimiento comercial
-
-Visuales:
-
-- Barras: `film_title` por `worldwide_box_office_usd`
-- Barras: `film_title` por `roi`
-- Dispersion: `budget_usd` en X, `worldwide_box_office_usd` en Y, `film_title` en detalles, `era` en leyenda
-- Barras: `era` por `worldwide_box_office_usd`
-
-Segmentadores:
-
-- `era`
-- `film_type`
-- `data_status`
-
-Recomendacion:
-
-Filtra `data_status = final` si no quieres incluir `The Mandalorian and Grogu` porque tiene datos parciales.
-
-## Pagina 3 - Audiencia y percepcion
-
-Visuales:
-
-- Dona: `fan_segment` por recuento distinto de `respondent_id`
-- Barras: `movie_title` por `view_rate_pct`
-- Barras: `movie_title` por `avg_rank`, orden ascendente
-- Barras: `character_name` por `favorable_pct`
-
-Segmentadores:
-
-- `gender`
-- `age`
-- `education`
-- `location_census_region`
-
-Nota:
-
-En ranking de peliculas, un numero menor en `avg_rank` significa mejor posicion.
-
-## Pagina 4 - Universo narrativo
-
-Visuales:
-
-- Barras: `universe_assets[asset_type]` por recuento de `asset_name`
-- Barras: `universe_characters_clean[species]` por recuento de `name`
-- Barras: `universe_characters_clean[gender]` por recuento de `name`
-- Tabla: `universe_quality_summary`
-
-Segmentadores:
-
-- `asset_type`
-- `species`
-- `gender`
-
-## Pagina 5 - Planetas, naves y objetos
-
-Visuales:
-
-- Barras: `universe_planets_clean[name]` por `population`
-- Barras: `universe_starships_clean[name]` por `cost_in_credits`
-- Tabla: `eda_planet_business_summary`
-- Tabla: `eda_starship_business_summary`
-
-Segmentadores:
-
-- `climate`
-- `terrain`
-- `manufacturer`
-- `starship_class`
-
-## Pagina 6 - Oportunidades de merchandising
-
-Visuales:
-
-- Barras: `character_name` por `merchandising_potential_index`
-- Barras: `character_name` por `audience_affinity_score`
-- Matriz con:
-  - `character_name`
-  - `opportunity_quadrant`
-  - `favorable_pct`
-  - `data_completeness_pct`
-  - `merchandising_potential_index`
-
-Segmentador:
-
-- `opportunity_quadrant`
-
-Mensaje:
-
-Priorizar personajes con alta afinidad, alta familiaridad, presencia narrativa y buena calidad del dato.
-
-## Pagina 7 - Sesgos y gobernanza
-
-Visuales:
-
-- Barras: `eda_governance_missing_top[column]` por `porcentaje`
-- Tabla: `eda_survey_sample_bias`
-- Tabla: `universe_quality_summary`
+- Eje Y: `eda_movie_opportunities[movie_title]`
+- Eje X: `eda_movie_opportunities[movie_campaign_score]`
 
 Formato:
 
-- Ordenar nulos por `porcentaje`, descendente.
-- Titulo: `Variables con mayor falta de datos`
+- Ordenar descendente por `movie_campaign_score`.
+- Titulo: `Puertas de entrada al universo`.
 
-Mensaje:
+Lectura:
 
-Los datos orientan decisiones, pero no son una representacion neutral ni completa.
+`Episode V: The Empire Strikes Back` lidera como puerta emocional de la encuesta.
 
-## Pagina 8 - Recomendaciones
+### 7. Popularidad vs preferencia
+
+Visual: dispersion.
+
+Campos:
+
+- X: `view_rate_pct`
+- Y: `preference_score`
+- Tamano: `first_place_pct`
+- Leyenda: `era`
+- Detalles: `movie_title`
+
+Lectura:
+
+Permite explicar que alcance y preferencia no son la misma cosa.
+
+### 8. Planetas como experiencias
+
+Visual: tarjetas o tabla.
+
+Campos:
+
+- `strategy_planet_experiences[planet_name]`
+- `brand_atmosphere`
+- `experience_concept`
+
+Lectura:
+
+Los planetas se usan como atmosferas de campana: Tatooine es nostalgia, Hoth accion, Dagobah misterio, Coruscant tecnologia, Naboo lifestyle y Endor aventura familiar.
+
+### 9. Naves y armas iconicas
 
 Visuales:
 
-- Tabla: `eda_conclusions`
-- Tabla o matriz: `eda_character_merchandising_opportunities`
-- Tarjetas de texto con 3 decisiones:
-  - Priorizar personajes con alta afinidad y alto potencial de merchandising.
-  - Usar peliculas con alto rendimiento comercial como ancla de campana.
-  - Revisar calidad del dato antes de automatizar decisiones.
+- Barras: `eda_starship_business_summary[name]` por `film_count`.
+- Barras: `eda_weapon_business_summary[name]` por `film_count`.
 
-## Orden recomendado de construccion
+Lectura:
 
-1. Crea primero la pagina `Rendimiento comercial`.
-2. Despues crea `Audiencia y percepcion`.
-3. Despues crea `Oportunidades de merchandising`.
-4. Luego monta `Resumen ejecutivo` reutilizando los KPIs.
-5. Al final crea `Gobernanza` y `Recomendaciones`.
+Millennium Falcon, X-wing y Lightsaber son activos de reconocimiento rapido.
 
-Este orden evita bloquearse con paginas complejas antes de tener los graficos principales.
+### 10. Rutas finales de activacion
+
+Visual: matriz.
+
+Campos:
+
+- Filas: `strategy_experience_routes[audience_type]`
+- Valores o detalle: `entry_gate`, `key_characters`, `world`, `experience_format`, `recommended_action`
+
+Lectura:
+
+La campana final no es una unica pieza. Es una estrategia modular por tipo de audiencia.
+
+## Pagina 1 - La senal perdida
+
+Visuales:
+
+- 4 tarjetas KPI.
+- Barras de fan rate por edad.
+- Barras de fan rate por genero.
+
+Texto recomendado:
+
+> Star Wars sigue siendo reconocible, pero la conexion activa cambia segun el publico.
+
+## Pagina 2 - Los clanes de la galaxia
+
+Visuales:
+
+- Dona o barras de segmentos.
+- Barras de peliculas vistas por segmento.
+- Matriz de segmento por edad.
+- Tabla de rol estrategico.
+
+Texto recomendado:
+
+> No hay una sola audiencia Star Wars. Hay clanes con puertas de entrada distintas.
+
+## Pagina 3 - El mapa emocional de Star Wars
+
+Visuales:
+
+- Dispersion afinidad/familiaridad.
+- Dispersion amor/rechazo.
+- Tabla de emociones y usos de activacion.
+
+Texto recomendado:
+
+> Cada personaje activa una emocion distinta: esperanza, liderazgo, rebeldia, sabiduria, poder o humor.
+
+## Pagina 4 - Las puertas de entrada al universo
+
+Visuales:
+
+- Ranking por `movie_campaign_score`.
+- Dispersion `view_rate_pct` vs `preference_score`.
+- Dispersion negocio vs audiencia.
+- Tabla de detalle por pelicula.
+
+Texto recomendado:
+
+> La mejor puerta no es siempre la mayor taquilla. Es la que combina alcance y conexion emocional.
+
+## Pagina 5 - Planetas como experiencias
+
+Visuales:
+
+- Tarjetas de experiencias.
+- Barras por `film_count`.
+- Barras por `resident_count`.
+
+Texto recomendado:
+
+> Elegir un planeta es elegir que sensacion vivira el publico.
+
+## Pagina 6 - Tecnologia, poder y velocidad
+
+Visuales:
+
+- Naves por presencia.
+- Naves por clase.
+- Coste vs presencia.
+- Armas iconicas.
+
+Texto recomendado:
+
+> Los personajes crean apego; las naves y armas crean espectaculo.
+
+## Pagina 7 - La estrategia de reactivacion
+
+Visuales:
+
+- Matriz final de rutas.
+- Tarjetas por segmento.
+- Tabla de conclusiones.
+- Bloque breve de sesgos.
+
+Texto recomendado:
+
+> Star Wars no necesita una campana unica. Necesita una galaxia de experiencias.
+
+## Formato recomendado
+
+- Fondo oscuro discreto.
+- Dorado para oportunidad o decision final.
+- Azul para Jedi, heroes y lectura positiva.
+- Rojo solo para riesgo, sesgo o Lado Oscuro.
+- Verde o cian para tecnologia y rutas casuales.
+- Una frase de lectura por pagina.
+- Maximo 3 o 4 visuales principales por pagina.
+
+## Checklist final de Power BI
+
+- [ ] Importar las tablas actualizadas.
+- [ ] Ordenar segmentos por `audience_type_order`.
+- [ ] Crear medidas base.
+- [ ] Revisar porcentajes como `%`.
+- [ ] Revisar moneda como USD.
+- [ ] Confirmar que `strategy_*` aparece en el modelo.
+- [ ] Refrescar el `.pbix` tras regenerar CSV o Excel.
+- [ ] Validar que la pagina final muestra las 4 rutas de audiencia.
+- [ ] Incluir sesgos: 78,92% ha visto alguna pelicula y 66,03% se declara fan.

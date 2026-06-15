@@ -1,8 +1,9 @@
 area,finding,business_reading
-Audiencia,La pelicula mas vista es Episode V: The Empire Strikes Back con un 63.91% de visionado.,Es una candidata fuerte para campanas de alto reconocimiento.
-Preferencia,La pelicula con mejor ranking medio es Episode V: The Empire Strikes Back con avg_rank 2.51.,La preferencia declarada no siempre coincide con la simple exposicion.
-Personajes,El personaje con mayor indice de merchandising es Han Solo.,"Conviene priorizar personajes con alta afinidad, familiaridad y presencia narrativa."
-Representacion interna,La especie mas frecuente en characters es Human con 73 personajes.,"El universo esta concentrado en ciertos grupos, lo que puede limitar diversidad de campanas."
-Negocio,"La pelicula con mayor taquilla mundial es The Force Awakens con $2,056,046,835.",El rendimiento comercial complementa la lectura de audiencia y ayuda a priorizar oportunidades de franquicia.
-Rentabilidad,La pelicula con mayor ROI estimado es A New Hope con ROI 69.49.,Las peliculas clasicas pueden destacar proporcionalmente aunque las nuevas tengan mayor taquilla absoluta.
-Gobernanza,"Existen nulos relevantes en campos fisicos, economicos y demograficos.",Las decisiones deben combinar datos cuantitativos con criterio editorial y de negocio.
+Audiencia,78.92% ha visto alguna pelicula y 66.03% se declara fan.,"La marca tiene reconocimiento, pero la estrategia debe diferenciar niveles de vinculo."
+Segmentacion,El segmento mas grande es Jedi fiel con 443 respuestas.,"El dashboard debe hablar de clanes de audiencia, no de una masa unica."
+Peliculas,Episode V: The Empire Strikes Back lidera la conexion de audiencia con preference_score 4.49.,"La pelicula ganadora funciona como puerta emocional, no solo como dato comercial."
+Personajes,Han Solo destaca por afinidad y activa la emocion Rebeldia.,"Los personajes deben leerse como emociones de marca, no solo como productos."
+Experiencias,"Tatooine, Hoth, Dagobah, Coruscant, Naboo y Endor representan atmosferas de campana distintas.",Elegir un planeta equivale a elegir la sensacion que vivira el publico.
+Activos visuales,"Millennium Falcon, X-wing y Lightsaber concentran reconocimiento visual y accion.",Los simbolos convierten la estrategia en una experiencia memorable y facil de comunicar.
+Recomendacion,La propuesta final es Choose Your Side: una estrategia modular por tipo de audiencia.,Star Wars no necesita una unica campana; necesita varias rutas de conexion bajo una misma marca.
+Sesgos,"78.92% ha visto alguna pelicula, 66.03% se declara fan y 82.04% no responde universo expandido.","La lectura es direccional: sirve para reactivar publico fan o familiarizado, no para predecir el mercado general."

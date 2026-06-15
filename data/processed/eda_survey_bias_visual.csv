@@ -1,0 +1,7 @@
+bias_dimension,bias_metric_pct,metric_label,risk_level,evidence,business_comment,recommended_action
+Conocimiento previo de Star Wars,78.92,Ha visto alguna pelicula,alto,78.92% declara haber visto alguna pelicula,Puede sobreestimar la demanda real del publico general,Presentar la campana como oportunidad para publico fan o familiarizado
+Sesgo fan,66.03,Se declara fan,alto,66.03% se declara fan entre respuestas validas,Las preferencias pueden favorecer personajes iconicos frente a nichos de crecimiento,Separar lectura fan vs publico general cuando sea posible
+Fan universo expandido no medido,82.04,Campo sin respuesta,alto,82.04% de nulos en is_expanded_universe_fan_binary,El dashboard puede infravalorar oportunidades de series videojuegos o contenido expandido,No usar universo expandido como conclusion fuerte sin mas datos
+Datos demograficos incompletos,11.80,Sin informacion demografica util,medio,88.20% tiene alguna informacion demografica util,La segmentacion por edad genero ingresos o region debe interpretarse con cautela,Usar segmentos como orientacion y no como verdad absoluta
+Coste de naves incompleto,71.43,Coste en creditos nulo,alto,71.43% de nulos en starships cost_in_credits,Las comparaciones economicas entre naves pueden estar sesgadas,Priorizar presencia visual y narrativa sobre coste cuando falte el dato
+Coste de armas incompleto,43.86,Coste en creditos nulo,medio,43.86% de nulos en weapons cost_in_credits,Las comparaciones economicas entre armas no son completamente fiables,Usar film_count y reconocimiento visual como metricas principales

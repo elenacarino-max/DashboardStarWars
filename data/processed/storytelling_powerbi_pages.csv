@@ -1,0 +1,8 @@
+page_order,page_name,business_question,main_tables,main_visuals
+1,La senal perdida,Donde sigue viva la conexion con Star Wars?,"eda_survey_kpis, eda_fan_by_age, eda_fan_by_gender, survey_respondents","KPIs, barras por edad/genero, segmentador fan_segment"
+2,Los clanes de la galaxia,Que tipos de audiencia necesita reactivar la marca?,"strategy_audience_segments, strategy_audience_age_matrix, strategy_survey_respondents","donut o barras de segmentos, matriz segmento x edad, promedio peliculas vistas"
+3,El mapa emocional de Star Wars,Que emocion de marca activa cada personaje?,"strategy_character_emotional_map, eda_character_merchandising_opportunities, eda_quote_character_summary","dispersion afinidad/familiaridad, amor vs rechazo, frases por personaje"
+4,Las puertas de entrada al universo,Que pelicula abre mejor la conversacion con cada publico?,"eda_movie_opportunities, eda_movie_commercial_audience_summary, films_business_clean","score pelicula, popularidad vs preferencia, impacto comercial vs conexion"
+5,Planetas como experiencias,Que atmosfera debe vivir cada publico?,"strategy_planet_experiences, eda_planet_business_summary, universe_planets_clean","tarjetas de experiencia, film_count, resident_count, mapa de mundos"
+6,"Tecnologia, poder y velocidad",Que activos generan impacto visual y accion?,"eda_starship_business_summary, eda_weapon_business_summary, universe_starships_clean, universe_weapons_clean","naves por presencia, clase de nave, coste vs presencia, armas iconicas"
+7,La estrategia de reactivacion,Como convertir los datos en rutas de experiencia?,"strategy_experience_routes, story_campaign_lines, eda_conclusions, eda_survey_bias_visual","matriz final por audiencia, tarjetas de ruta, sesgos clave"
