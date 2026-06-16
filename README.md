@@ -198,5 +198,9 @@ DashboardStarWars/
 - [x] Recomendaciones estrategicas redactadas.
 - [x] Workbook de importacion para Power BI generado.
 - [x] Runner PowerShell creado para usar Python local o Python empaquetado de Codex.
-- [ ] Revisar visualmente `powerbi/graficos_PBI.pbix` en Power BI Desktop tras refrescar datos.
-- [ ] Anadir capturas finales del dashboard en `images/` si la entrega las pide.
+- [x] Revisar visualmente `powerbi/graficos_PBI.pbix` en Power BI Desktop tras refrescar datos.
+- [x] Anadir capturas finales del dashboard en `images/` si la entrega las pide.
+
+## Mas documentacion
+
+La carpeta `docx/` contiene los documentos finales de apoyo del proyecto.

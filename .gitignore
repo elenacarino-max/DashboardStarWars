@@ -13,8 +13,10 @@ node_modules/
 # Local files
 .DS_Store
 Thumbs.db
-docx/
 *.docx
+!docx/
+!docx/*.docx
+!docx/*.md
 
 # Keep raw datasets local unless their license allows publication
 data/raw/*.csv
