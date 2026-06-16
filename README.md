@@ -58,6 +58,31 @@ Comando recomendado si `python` no esta instalado en Windows:
 
 Este runner busca primero Python local y, si no existe, usa el runtime empaquetado de Codex. Tambien regenera el workbook de Power BI.
 
+## Como reproducir el proyecto
+
+El proyecto ya incluye los CSV procesados, el workbook de importacion y el archivo `.pbix`. Si solo quieres revisar el resultado final, abre `powerbi/graficos_PBI.pbix` en Power BI Desktop y refresca los datos desde `powerbi/starwars_powerbi_import.xlsx`.
+
+Para regenerar la parte analitica desde cero en Windows:
+
+```powershell
+python -m pip install -r requirements.txt
+.\scripts\run_rebellion_lab_pipeline.ps1
+```
+
+Ese comando:
+
+1. Regenera las tablas estrategicas en `data/processed`.
+2. Actualiza las tablas `strategy_*.csv` y `story_*.csv`.
+3. Regenera `powerbi/starwars_powerbi_import.xlsx` cuando hay Node.js disponible.
+
+Si no tienes Node.js o no estas trabajando desde Codex, puedes regenerar solo la parte Python:
+
+```powershell
+.\scripts\run_rebellion_lab_pipeline.ps1 -SkipWorkbook
+```
+
+Despues de ejecutar el pipeline, el ultimo paso sigue siendo manual: abrir `powerbi/graficos_PBI.pbix`, refrescar datos y revisar visualmente las paginas del dashboard.
+
 ## Tablas nuevas del enfoque Rebellion Lab
 
 Estas tablas se generan desde los CSV ya existentes y son la capa principal para la nueva narrativa:
