@@ -16,7 +16,7 @@ Construir un dashboard de 7 paginas:
 
 ## Importacion recomendada
 
-Para la version final sencilla, usa solo estas 12 hojas del Excel. El resto son tablas de apoyo o detalle y no hacen falta para presentar.
+Para la version final sencilla, uso solo estas 12 hojas del Excel. El resto son tablas de apoyo o detalle y no hacen falta para presentar.
 
 | Hoja en Excel / tabla en Power BI | Uso |
 |---|---|

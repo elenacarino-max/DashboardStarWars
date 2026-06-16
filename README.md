@@ -45,7 +45,7 @@ https://www.the-numbers.com/movies/franchise/Star-Wars
 4. Ejecutar `notebooks/02_eda_storytelling_star_wars.ipynb`.
 5. Ejecutar `scripts/build_rebellion_lab_outputs.py`.
 6. Regenerar `powerbi/starwars_powerbi_import.xlsx` con `scripts/build_powerbi_import_workbook.mjs`.
-7. Importar en Power BI las tablas indicadas en `docs/powerbi_storytelling_model.md`.
+7. Importar en Power BI las tablas indicadas en `docs/powerbi_montaje_y_medidas_choose_your_side.md`.
 8. Montar las 7 paginas de `Choose Your Side`.
 9. Revisar sesgos, calidad del dato y lectura critica.
 10. Preparar la presentacion ejecutiva de 7 minutos.
@@ -160,12 +160,7 @@ DashboardStarWars/
 |-- docs/
 |   |-- dashboard_plan.md
 |   |-- guion_presentacion.md
-|   |-- powerbi_graficos_paso_a_paso.md
-|   |-- powerbi_model_guide.md
 |   |-- powerbi_montaje_y_medidas_choose_your_side.md
-|   |-- powerbi_storytelling_model.md
-|   |-- powerbi_visualizacion_choose_your_side.md
-|   |-- revision_briefing_funcionamiento_codigo.md
 |-- images/
 |   |-- capturas finales del dashboard, si la entrega las pide
 |-- notebooks/
