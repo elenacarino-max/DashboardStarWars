@@ -132,8 +132,19 @@ indexRange.format.autofitColumns();
 await fs.mkdir(path.dirname(outputPath), { recursive: true });
 const output = await SpreadsheetFile.exportXlsx(workbook);
 await output.save(outputPath);
+await removeInspectArtifact(`${outputPath}.inspect.ndjson`);
 
 console.log(outputPath);
+
+async function removeInspectArtifact(inspectPath) {
+  try {
+    await fs.unlink(inspectPath);
+  } catch (error) {
+    if (error.code !== "ENOENT") {
+      throw error;
+    }
+  }
+}
 
 function columnName(index) {
   let name = "";

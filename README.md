@@ -135,9 +135,14 @@ DashboardStarWars/
 |-- docs/
 |   |-- dashboard_plan.md
 |   |-- guion_presentacion.md
-|   |-- powerbi_storytelling_model.md
-|   |-- powerbi_model_guide.md
 |   |-- powerbi_graficos_paso_a_paso.md
+|   |-- powerbi_model_guide.md
+|   |-- powerbi_montaje_y_medidas_choose_your_side.md
+|   |-- powerbi_storytelling_model.md
+|   |-- powerbi_visualizacion_choose_your_side.md
+|   |-- revision_briefing_funcionamiento_codigo.md
+|-- images/
+|   |-- capturas finales del dashboard, si la entrega las pide
 |-- notebooks/
 |   |-- 01_limpieza_star_wars.ipynb
 |   |-- 02_eda_storytelling_star_wars.ipynb
@@ -147,9 +152,15 @@ DashboardStarWars/
 |-- scripts/
 |   |-- build_rebellion_lab_outputs.py
 |   |-- build_powerbi_import_workbook.mjs
+|   |-- run_rebellion_lab_pipeline.ps1
 |-- README.md
 |-- requirements.txt
 ```
+
+## Archivos locales no versionados
+
+- `docx/` queda reservado para borradores o entregables Word locales y esta ignorado en `.gitignore` de momento.
+- `images/` se mantiene versionada como carpeta preparada para capturas finales del dashboard.
 
 ## Estado del proyecto
 

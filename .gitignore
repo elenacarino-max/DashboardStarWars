@@ -13,9 +13,7 @@ node_modules/
 # Local files
 .DS_Store
 Thumbs.db
-
-#documentos apoyo
-docs/
+docx/
 
 # Keep raw datasets local unless their license allows publication
 data/raw/*.csv
@@ -25,5 +23,6 @@ data/raw/*.json
 
 # Power BI temporary files
 powerbi/*.xlsx
+powerbi/*.inspect.ndjson
 *.pbitmp
 *.tmp
