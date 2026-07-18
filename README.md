@@ -6,6 +6,11 @@ Dashboard interactivo en Power BI para analizar como reactivar la conexion emoci
 
 La idea central es **Choose Your Side**: una misma marca, varias rutas de conexion. El fan fiel busca profundidad, el nostalgico busca emocion, el casual busca reconocimiento y el publico neutral necesita una entrada simple.
 
+## Vista del dashboard
+
+<img width="1372" height="805" alt="estrategia de activacion" src="https://github.com/user-attachments/assets/fff81fd2-7d65-4b04-8ab1-29efb566b85b" />
+
+
 ## Cliente ficticio
 
 Una empresa de entretenimiento quiere relanzar Star Wars con una estrategia mas original que una campana unica de productos. Necesita entender que segmentos de audiencia siguen conectados con la saga, que peliculas funcionan como puertas de entrada, que personajes activan emociones de marca y que mundos, naves o simbolos pueden convertirse en experiencias memorables.
